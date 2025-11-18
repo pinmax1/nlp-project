@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  nlp-backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/configs:/app/backend/configs
+      - ./logs:/app/logs
+    restart: unless-stopped

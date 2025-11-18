@@ -1,0 +1,67 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "example_tool",
+      "description": "Shows all parser capabilities - handles every built-in data type and structure",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "string_param": {"type": "string"},
+          "number_param": {"type": "number"},
+          "integer_param": {"type": "integer"},
+          "boolean_param": {"type": "boolean"},
+          "simple_array": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "object_array": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {"type": "integer"},
+                "data": {"type": "string"}
+              }
+            }
+          },
+          "nested_object": {
+            "type": "object",
+            "properties": {
+              "level1": {
+                "type": "object", 
+                "properties": {
+                  "level2": {"type": "string"}
+                }
+              }
+            }
+          },
+          "mixed_array": {
+            "type": "array",
+            "description": "Array with mixed types - strings, numbers, objects"
+          },
+          "optional_param": {
+            "type": "string",
+            "description": "This parameter is optional and has default value",
+            "default": "default_value"
+          }
+        },
+        "required": ["string_param", "number_param"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "steam_search_by_desc_tool",
+      "description": "Get nearest games by description",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "desc": {"type": "string"}
+        },
+        "required": ["desc"]
+      }
+    }
+  }
+]
