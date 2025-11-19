@@ -1,0 +1,6103 @@
+=== Обработка запросов ===
+Время начала: 2025-11-17 15:24:11
+Всего запросов: 499
+
+
+=== Запрос 1 ===
+Текст: Посоветуй, пожалуйста, хорошую сюжетную игру на 20–30 часов.
+
+Время ответа: 41.81 сек
+Ответ сервера:
+
+{
+  "data": "The Witcher 3: Wild Hunt, Red Dead Redemption 2, Mass Effect: Legendary Edition, Persona 5 Royal, Horizon Zero Dawn",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 2 ===
+Текст: Хочу что-то похожее на Divinity: Original Sin 2, но попроще в освоении.
+
+Время ответа: 51.62 сек
+Ответ сервера:
+
+{
+  "data": "Cris Tales, DUNGEON ENCOUNTERS, Sword of Elpisia, Home and Dungeon, Legacy of Vane",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 3 ===
+Текст: Посоветуй шутер с тактическими элементами, но чтобы не слишком хардкор.
+
+Время ответа: 51.25 сек
+Ответ сервера:
+
+{
+  "data": "TO4: Tactical Operations, Tactical Suppression, Outgun, Counter-Strike: Global Offensive, Valorant",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 4 ===
+Текст: Дай игру в жанре cozy, чтобы расслабиться вечером.
+
+Время ответа: 37.82 сек
+Ответ сервера:
+
+{
+  "data": "Chill X, Zen Trails, Click and Relax, Home Designer - Living Room, Buddy and Lucky Solitaire",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 5 ===
+Текст: Ищу что-то похожее на Hollow Knight, но менее требовательное к реакции.
+
+Время ответа: 50.93 сек
+Ответ сервера:
+
+{
+  "data": "Dungeon of Zolthan, Cave Story+, Insanely Twisted Shadow Planet, Supraland, Axiom Verge",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 6 ===
+Текст: Посоветуй sci-fi RPG с открытым миром.
+
+Время ответа: 30.02 сек
+Ответ сервера:
+
+{
+  "data": "Cyberpunk 2077, Starfield, Mass Effect: Andromeda, The Outer Worlds, Fallout 4",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 7 ===
+Текст: Хочу метроидванию, но чтобы была упорная исследовательская часть.
+
+Время ответа: 30.89 сек
+Ответ сервера:
+
+{
+  "data": "Escape From Tethys, Gemlands, Xecute, Deep Enigma, Omega-Altro",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 8 ===
+Текст: Дай рекомендации игр, которые хорошо идут на слабом ноутбуке.
+
+Время ответа: 47.64 сек
+Ответ сервера:
+
+{
+  "data": "Stardew Valley, Terraria, Undertale, Limbo, Papers, Please",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 9 ===
+Текст: Посоветуй короткую, но атмосферную инди-игру.
+
+Время ответа: 44.41 сек
+Ответ сервера:
+
+{
+  "data": "Limbo, Inside, Firewatch, Journey, Oxenfree",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 10 ===
+Текст: Хочу игру с хорошим сюжетным твистом в конце.
+
+Время ответа: 47.66 сек
+Ответ сервера:
+
+{
+  "data": "BioShock Infinite, The Stanley Parable, SOMA, Doki Doki Literature Club, Undertale",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 11 ===
+Текст: Дай что-то похожее на The Witcher 3, но с более динамичным боем.
+
+Время ответа: 42.65 сек
+Ответ сервера:
+
+{
+  "data": "Assassin's Creed Valhalla, Horizon Zero Dawn, Elden Ring, Dragon's Dogma: Dark Arisen, Ghost of Tsushima",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 12 ===
+Текст: Посоветуй рогалик с интересными сборками.
+
+Время ответа: 40.42 сек
+Ответ сервера:
+
+{
+  "data": "Dicey Dungeons, Roguebook, Rogue Legacy 2, Greedy Dungeon, Dungeon Defenders: Going Rogue",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 13 ===
+Текст: Хочу играчку, где можно строить базу и автоматизировать процессы.
+
+Время ответа: 52.39 сек
+Ответ сервера:
+
+{
+  "data": "Factorio, Satisfactory, RimWorld, Oxygen Not Included, Dyson Sphere Program",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 14 ===
+Текст: Дай похожее на Factorio, но медленнее по темпу.
+
+Время ответа: 75.71 сек
+Ответ сервера:
+
+{
+  "data": "Factory Town, Supply Chain Idle, Production Line: Car Factory Simulation, Automation Empire, Logistics Company",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 15 ===
+Текст: Посоветуй игру, где можно много фармить и собирать лут.
+
+Время ответа: 52.78 сек
+Ответ сервера:
+
+{
+  "data": "Farming Simulator 22, Forager, Stardew Valley, Terraria, Harvest Moon: One World",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 16 ===
+Текст: Хочу стратегию в реальном времени, но не слишком быструю.
+
+Время ответа: 45.76 сек
+Ответ сервера:
+
+{
+  "data": "Age of Empires II: Definitive Edition, Supreme Commander: Forged Alliance, Total War: WARHAMMER II, Northgard, They Are Billions",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 17 ===
+Текст: Посоветуй игру, где много исследования подземелий.
+
+Время ответа: 30.08 сек
+Ответ сервера:
+
+{
+  "data": "DUNGEON ENCOUNTERS, Boulder Dash Deluxe, The Longing, Rogue Explorer, Dungeon Solver",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 18 ===
+Текст: Ищу платформер с акцентом на историю.
+
+Время ответа: 38.33 сек
+Ответ сервера:
+
+{
+  "data": "Hero's Journey, The Free Ones, Move Forward, Princess Sera adventures, Find Me",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 19 ===
+Текст: Подскажи гонки, которые идут на Mac.
+
+Время ответа: 53.59 сек
+Ответ сервера:
+
+{
+  "data": "Need for Speed™ Heat, F1® 2019, HOT WHEELS UNLEASHED™, GRID Autosport, DiRT 4",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 20 ===
+Текст: Хочу игру до 10 долларов, но чтобы была реиграбельная.
+
+Время ответа: 65.27 сек
+Ответ сервера:
+
+{
+  "data": "Curious Expedition, 1Quest, RogueSlide, Variables 2, Legion's Crawl 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 21 ===
+Текст: Посоветуй что-нибудь похожее на Inside или Limbo.
+
+Время ответа: 25.57 сек
+Ответ сервера:
+
+{
+  "data": "Little Nightmares, Hollow Knight, Tormentum - Dark Sorrow, Dark Echo, Genesis Noir",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 22 ===
+Текст: Хочу игру с необычной боевой системой.
+
+Время ответа: 50.37 сек
+Ответ сервера:
+
+{
+  "data": "FIGHT KNIGHT, Hyper Psychic Gauntlets, Narita Boy, UPPERS, SAMURAI SHODOWN NEOGEO COLLECTION",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 23 ===
+Текст: Подбери что-то похожее на Dark Souls, но помягче.
+
+Время ответа: 55.75 сек
+Ответ сервера:
+
+{
+  "data": "Lords Of The Fallen™, Bloodstained: Ritual of the Night, Eldest Souls, Young Souls, Dark Light",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 24 ===
+Текст: Посоветуй расслабляющую игру про ферму.
+
+Время ответа: 37.65 сек
+Ответ сервера:
+
+{
+  "data": "Stardew Valley, Farm Together, Koi Farm, Farming Life, ZenFarm",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 25 ===
+Текст: Хочу пошаговую тактическую RPG, но без сложных правил.
+
+Время ответа: 40.12 сек
+Ответ сервера:
+
+{
+  "data": "The Banner Saga, Troubleshooter: Abandoned Children, Chroma Squad, Wartales, Dark Deity",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 26 ===
+
+Текст: Дай что-то похожее на Slay the Spire, но с уклоном в сюжет.
+
+Время ответа: 39.88 сек
+Ответ сервера:
+
+{
+  "data": "Griftlands, Gordian Quest, Nowhere Prophet, Ring of Pain, Banners of Ruin",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 27 ===
+
+Текст: Посоветуй VR-игру для новичка.
+
+Время ответа: 40.67 сек
+Ответ сервера:
+
+{
+  "data": "Beat Saber, Moss, Job Simulator, Superhot VR, The Walking Dead: Saints & Sinners",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 28 ===
+
+Текст: Хочу игру, которую можно проходить короткими сессиями по 10–15 минут.
+
+Время ответа: 39.75 сек
+Ответ сервера:
+
+{
+  "data": "Into the Breach, Vampire Survivors, Loop Hero, Hades, Brotato",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 29 ===
+
+Текст: Посоветуй RPG, где можно играть скрытно.
+
+Время ответа: 40.44 сек
+Ответ сервера:
+
+{
+  "data": "Deus Ex: Human Revolution, Dishonored, Styx: Master of Shadows, GreedFall, Shadowrun: Dragonfall",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 30 ===
+
+Текст: Хочу что-то похожее на Ori, но не такое сложное.
+
+Время ответа: 40.03 сек
+Ответ сервера:
+
+{
+  "data": "Unravel, The Last Campfire, Seasons After Fall, Gris, Hoa",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 31 ===
+
+Текст: Дай игру про космос, но без космических боёв.
+
+Время ответа: 40.56 сек
+Ответ сервера:
+
+{
+  "data": "Outer Wilds, Tacoma, Observation, Deliver Us The Moon, The Invincible",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 32 ===
+
+Текст: Посоветуй хоррор без скримеров, больше про атмосферу.
+
+Время ответа: 39.92 сек
+Ответ сервера:
+
+{
+  "data": "SOMA, Amnesia: A Machine for Pigs, Layers of Fear, Pathologic 2, Anatomy",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 33 ===
+
+Текст: Хочу сэндбокс, где можно творить что угодно.
+
+Время ответа: 40.21 сек
+Ответ сервера:
+
+{
+  "data": "Minecraft, Terraria, Satisfactory, Scrap Mechanic, Garry's Mod",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 34 ===
+
+Текст: Подскажи игру с пиксельной графикой, но глубокими механиками.
+
+Время ответа: 40.49 сек
+Ответ сервера:
+
+{
+  "data": "Noita, Hyper Light Drifter, Dead Cells, Starbound, Katana ZERO",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 35 ===
+
+Текст: Хочу JRPG, но желательно без гринда.
+
+Время ответа: 39.81 сек
+Ответ сервера:
+
+{
+  "data": "Chrono Trigger, Persona 5 Royal, Lost Odyssey, Tales of Vesperia, I Am Setsuna",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 36 ===
+
+Текст: Посоветуй игру на двоих локально.
+
+Время ответа: 40.38 сек
+Ответ сервера:
+
+{
+  "data": "It Takes Two, A Way Out, Cuphead, Overcooked 2, Unravel Two",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 37 ===
+
+Текст: Хочу что-то похожее на Civilization, но с меньшим количеством микроменеджмента.
+
+Время ответа: 39.95 сек
+Ответ сервера:
+
+{
+  "data": "Northgard, Slipways, Old World, Humankind, Dorfromantik",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 38 ===
+
+Текст: Дай игру, где можно много крафтить и собирать ресурсы.
+
+Время ответа: 40.61 сек
+Ответ сервера:
+
+{
+  "data": "Valheim, Satisfactory, Craftopia, Terraria, Stardew Valley",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 39 ===
+
+Текст: Посоветуй сюжетный шутер без онлайна.
+
+Время ответа: 40.14 сек
+Ответ сервера:
+
+{
+  "data": "Metro Exodus, Prey, Titanfall 2, Bioshock Infinite, Wolfenstein: The New Order",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 40 ===
+
+Текст: Хочу экономическую стратегию, но доступную новичку.
+
+Время ответа: 40.27 сек
+Ответ сервера:
+
+{
+  "data": "Tropico 6, Anno 1800, Cities Skylines, Planetbase, Surviving Mars",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 41 ===
+
+Текст: Посоветуй survival-игру без зомби.
+
+Время ответа: 41.32 сек
+Ответ сервера:
+
+{
+  "data": "The Long Dark, Raft, Subnautica, Green Hell, Valheim",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 42 ===
+
+Текст: Хочу атмосферный детектив.
+
+Время ответа: 39.47 сек
+Ответ сервера:
+
+{
+  "data": "Return of the Obra Dinn, The Vanishing of Ethan Carter, L.A. Noire, Sherlock Holmes: Crimes & Punishments, Disco Elysium",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 43 ===
+
+Текст: Дай игру на слабый ПК в жанре action-RPG.
+
+Время ответа: 40.78 сек
+Ответ сервера:
+
+{
+  "data": "Bastion, Transistor, Path of Exile, Dust: An Elysian Tail, Grim Dawn",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 44 ===
+
+Текст: Посоветуй что-то похожее на RimWorld, но более лёгкое.
+
+Время ответа: 38.92 сек
+Ответ сервера:
+
+{
+  "data": "Oxygen Not Included, Going Medieval, Clanfolk, Timberborn, The Colonists",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 45 ===
+
+Текст: Хочу игру, где можно быстро врываться и коротко играть.
+
+Время ответа: 41.15 сек
+Ответ сервера:
+
+{
+  "data": "Risk of Rain 2, Hotline Miami, Brotato, Neon Abyss, Gunfire Reborn",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 46 ===
+
+Текст: Подскажи медитативную игру про исследование мира.
+
+Время ответа: 40.39 сек
+Ответ сервера:
+
+{
+  "data": "Journey, ABZÛ, Sable, Eastshade, Flower",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 47 ===
+
+Текст: Хочу что-то похожее на Portal, но не обязательно про порталы.
+
+Время ответа: 39.74 сек
+Ответ сервера:
+
+{
+  "data": "The Talos Principle, The Witness, Manifold Garden, Superliminal, QUBE 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 48 ===
+
+Текст: Посоветуй кооперативную игру для трёх человек.
+
+Время ответа: 41.63 сек
+Ответ сервера:
+
+{
+  "data": "Deep Rock Galactic, Trine 4, Overcooked 2, Risk of Rain 2, Helldivers 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 49 ===
+
+Текст: Хочу анимешную игру с хорошей историей.
+
+Время ответа: 40.12 сек
+Ответ сервера:
+
+{
+  "data": "Persona 4 Golden, Trails in the Sky, Danganronpa, Nier Replicant, Scarlet Nexus",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 50 ===
+
+Текст: Посоветуй игру с ненапряжным геймплеем и красивой графикой.
+
+Время ответа: 40.96 сек
+Ответ сервера:
+
+{
+  "data": "Spiritfarer, Gris, Firewatch, Journey, Lake",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 51 ===
+
+Текст: Хочу что-то похожее на Stardew Valley, но с упором на сюжет.
+
+Время ответа: 39.31 сек
+Ответ сервера:
+
+{
+  "data": "Rakuen, Garden Story, My Time at Portia, Moonlighter, Graveyard Keeper",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 52 ===
+
+Текст: Посоветуй RPG, где важно принимать моральные решения.
+
+Время ответа: 41.04 сек
+Ответ сервера:
+
+{
+  "data": "Disco Elysium, The Witcher 3, Fallout New Vegas, GreedFall, Tyranny",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 53 ===
+
+Текст: Дай игру в жанре stealth, но чтобы была не слишком старая.
+
+Время ответа: 40.51 сек
+Ответ сервера:
+
+{
+  "data": "Dishonored 2, Hitman 3, Styx: Shards of Darkness, Aragami 2, A Plague Tale: Innocence",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 54 ===
+
+Текст: Ищу приключенческую игру, которую можно пройти за выходные.
+
+Время ответа: 39.11 сек
+Ответ сервера:
+
+{
+  "data": "Firewatch, What Remains of Edith Finch, Life is Strange, The Last Campfire, Oxenfree",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 55 ===
+
+Текст: Посоветуй симулятор выживания в зимней теме.
+
+Время ответа: 41.29 сек
+Ответ сервера:
+
+{
+  "data": "The Long Dark, Frostpunk, Kona, Fade to Silence, Whiteout Survival",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 56 ===
+
+Текст: Хочу игру с необычной визуальной стилистикой.
+
+Время ответа: 40.02 сек
+Ответ сервера:
+
+{
+  "data": "Kentucky Route Zero, Gris, Journey, Scorn, Sable",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 57 ===
+
+Текст: Подскажи экшен с паркуром, но не слишком хардкорный.
+
+Время ответа: 38.97 сек
+Ответ сервера:
+
+{
+  "data": "Mirror's Edge Catalyst, Dying Light, Prince of Persia 2008, Ghostrunner, Sunset Overdrive",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 58 ===
+
+Текст: Ищу игру, где можно управлять кораблём, но без PvP.
+
+Время ответа: 40.87 сек
+Ответ сервера:
+
+{
+  "data": "Sea of Thieves (co-op PvE), Sunless Sea, FTL: Faster Than Light, Airship: Kingdoms Adrift, Abandon Ship",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 59 ===
+
+Текст: Посоветуй игру, похожую на Hades, но более медленную.
+
+Время ответа: 41.18 сек
+Ответ сервера:
+
+{
+  "data": "Children of Morta, Moonlighter, Bastion, Transistor, Dreamscaper",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 60 ===
+
+Текст: Хочу сюжетную игру уровня AAA, но чтобы не была сильно длинной.
+
+Время ответа: 39.82 сек
+Ответ сервера:
+
+{
+  "data": "Hellblade: Senua's Sacrifice, A Plague Tale: Innocence, Control, Tomb Raider 2013, The Order: 1886",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+=== Запрос 61 ===
+Текст: Подскажи что-то в духе XCOM, но более простое.
+
+Время ответа: 67.75 сек
+Ответ сервера:
+{
+  "data": "Into the Breach, XCOM: Chimera Squad, Phantom Brigade, Wargroove, MoonBase Commander",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 62 ===
+Текст: Ищу игру с процедурной генерацией приключений.
+
+Время ответа: 53.89 сек
+Ответ сервера:
+{
+  "data": "Noita, Hades, Dead Cells, RimWorld, Dwarf Fortress",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 63 ===
+Текст: Посоветуй атмосферный визуальный роман.
+
+Время ответа: 27.60 сек
+Ответ сервера:
+{
+  "data": "Steins;Gate, The House in Fata Morgana, Doki Doki Literature Club, Higurashi When They Cry, Va-11 Hall-A: Cyberpunk Bartender Action",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 64 ===
+Текст: Хочу игру, которая хорошо идёт на Steam Deck.
+
+Время ответа: 26.99 сек
+Ответ сервера:
+{
+  "data": "Hades, Stardew Valley, Dead Cells, Slay the Spire, Portal 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 65 ===
+Текст: Подскажи экшен с суперспособностями.
+
+Время ответа: 23.29 сек
+Ответ сервера:
+{
+  "data": "InFamous: Second Son, Prototype, Saints Row IV, Sunset Overdrive, Control",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 66 ===
+Текст: Хочу что-то похожее на Subnautica, но без воды.
+
+Время ответа: 43.75 сек
+Ответ сервера:
+{
+  "data": "No Man's Sky (исследование планет), The Forest (выживание в лесу), Planet Crafter (терраформинг), Astroneer (космический крафт), Valheim (викинг-сёрвайвл)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 67 ===
+Текст: Посоветуй уникальную indie-головоломку.
+
+Время ответа: 41.25 сек
+Ответ сервера:
+{
+  "data": "inbento, Slidetracked, Press Ctrl, Kells, Penelope",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 68 ===
+Текст: Хочу игру с красивыми видами и минимумом боёв.
+
+Время ответа: 51.43 сек
+Ответ сервера:
+{
+  "data": "Hidden Objects: Tranquil Valley, Look and Find - Curiosity, VR Kyoto: Beauty of Japan, Vacation Adventures: Park Ranger 11, Picross Beach Paradise",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 69 ===
+Текст: Дай что-то похожее на Dead Cells, но с меньшим темпом.
+
+Время ответа: 74.95 сек
+Ответ сервера:
+{
+  "data": "Legion's Crawl 2, Quest of Dungeons, Portal Mortal, Dungeons of Clay, Gemlands",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+
+
+=== Запрос 70 ===
+Текст: Ищу игру, где можно строить колонию, но с минимальным стрессом.
+
+Время ответа: 60.37 сек
+Ответ сервера:
+{
+  "data": "The Colonists, Townsmen, My Little Colony, Campground Owner, Polyville Canyon",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 71 ===
+Текст: Посоветуй стратегию, основанную на карточной механике.
+
+Время ответа: 57.94 сек
+Ответ сервера:
+{
+  "data": "Artifact, Ascension: Deckbuilding Game, Spectromancer, Cards & Crystals, Tavern Cards",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 72 ===
+Текст: Хочу короткий, но глубокий ролевой опыт.
+
+Время ответа: 73.10 сек
+Ответ сервера:
+{
+  "data": "Essays on Empathy, Hisato no Saku, Story, A Small Favor, Tell Me Why",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 73 ===
+Текст: Дай игру, где есть прокачка и хорошая кастомизация персонажа.
+
+Время ответа: 46.81 сек
+Ответ сервера:
+{
+  "data": "Kingdoms of Amalur: Re-Reckoning, Outward, Torchlight III, Sacred 2 Gold, Dungeon No Dungeon",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 74 ===
+Текст: Ищу приключение от первого лица с хорошей историей.
+
+Время ответа: 38.07 сек
+Ответ сервера:
+{
+  "data": "Half-Life 2, BioShock Infinite, Metro Exodus, Dishonored 2, Cyberpunk 2077",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 75 ===
+Текст: Посоветуй файл-поинт квест, но современный.
+
+Время ответа: 35.73 сек
+Ответ сервера:
+{
+  "data": "Disco Elysium, Return of the Obra Dinn, Thimbleweed Park, Kentucky Route Zero, Unavowed",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 76 ===
+Текст: Хочу игру с крутой музыкой, желательно ритм-ориентированную.
+
+Время ответа: 43.28 сек
+Ответ сервера:
+{
+  "data": "Rhythm Journey, Groove Coaster, Music95, Pianistic, Rhythm 'n Bullets",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 77 ===
+
+Текст: Подскажи расслабляющую песочницу с открытым миром.
+
+Время ответа: 34.12 сек
+Ответ сервера:
+
+{
+  "data": "Yonder: The Cloud Catcher Chronicles, A Short Hike, My Time at Portia, Garden Paws, Alba: A Wildlife Adventure",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 78 ===
+
+Текст: Ищу игру, где много исследований пещер.
+
+Время ответа: 42.02 сек
+Ответ сервера:
+
+{
+  "data": "Spelunky 2, Caveblazers, Core Keeper, Below, SteamWorld Dig 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 79 ===
+
+Текст: Посоветуй что-то похожее на Monster Hunter, но проще.
+
+Время ответа: 37.89 сек
+Ответ сервера:
+
+{
+  "data": "Dauntless, Toukiden 2, Dragon’s Dogma: Dark Arisen, God Eater 3, Wild Hearts (упрощённее MH)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 80 ===
+
+Текст: Хочу экшен с элементами метроидвании.
+
+Время ответа: 45.33 сек
+Ответ сервера:
+
+{
+  "data": "Hollow Knight, FIST: Forged In Shadow Torch, Blasphemous 2, Ori and the Blind Forest, Bloodstained: Ritual of the Night",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 81 ===
+
+Текст: Подскажи игру, где можно путешествовать между мирами.
+
+Время ответа: 32.77 сек
+Ответ сервера:
+
+{
+  "data": "The Gunk, Hob, Dishonored 2 (тектоника миров), Omno, The Medium",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 82 ===
+
+Текст: Ищу игру на 5–7 часов для одного вечера.
+
+Время ответа: 41.25 сек
+Ответ сервера:
+
+{
+  "data": "Inside, Little Nightmares, Firewatch, Journey to the Savage Planet, What Remains of Edith Finch",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 83 ===
+
+Текст: Посоветуй гонки, но не аркадные, а что-то среднее.
+
+Время ответа: 38.19 сек
+Ответ сервера:
+
+{
+  "data": "GRID (2019), Forza Motorsport 7, Dirt Rally 2.0 (лёгкий режим), Project Cars 2 (casual настройки), WRC 10",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 84 ===
+
+Текст: Хочу игру, в которой важно планирование боёв.
+
+Время ответа: 46.90 сек
+Ответ сервера:
+
+{
+  "data": "Into the Breach, Wildermyth, Gears Tactics, Divinity: Original Sin 2, Warhammer 40K: Mechanicus",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 85 ===
+
+Текст: Дай похожее на Don't Starve, но не такое мрачное.
+
+Время ответа: 30.58 сек
+Ответ сервера:
+
+{
+  "data": "Forager, My Time at Sandrock, Garden Paws, Stardew Valley (адвенчур-сурвайвал элементы), Dinkum",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 86 ===
+
+Текст: Посоветуй сюжетную игру от третьего лица без открытого мира.
+
+Время ответа: 44.10 сек
+Ответ сервера:
+
+{
+  "data": "The Order: 1886, Hellblade: Senua’s Sacrifice, Enslaved: Odyssey to the West, Alan Wake, Max Payne 3",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 87 ===
+
+Текст: Хочу пошаговую стратегию на слабый ПК.
+
+Время ответа: 36.41 сек
+Ответ сервера:
+
+{
+  "data": "Battle for Wesnoth, Age of Wonders 2, Fallen Enchantress, Shadowrun Returns, XCOM: Enemy Unknown (минималки)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 88 ===
+
+Текст: Ищу шутер с упором на атмосферу, не на соревнование.
+
+Время ответа: 43.02 сек
+Ответ сервера:
+
+{
+  "data": "Metro Exodus, S.T.A.L.K.E.R.: Call of Pripyat, Void Bastards, Prey (2017), Receiver 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 89 ===
+
+Текст: Посоветуй рогалик с необычными персонажами.
+
+Время ответа: 31.77 сек
+Ответ сервера:
+
+{
+  "data": "Hades, Gunfire Reborn, Wizard of Legend, Caves of Qud, Children of Morta",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 90 ===
+
+Текст: Хочу игру с сильным эмоциональным нарративом.
+
+Время ответа: 46.18 сек
+Ответ сервера:
+
+{
+  "data": "Life is Strange, Gris, To the Moon, Spiritfarer, A Plague Tale: Innocence",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 91 ===
+
+Текст: Дай что-то похожее на Journey, но подлиннее.
+
+Время ответа: 33.55 сек
+Ответ сервера:
+
+{
+  "data": "Rime, Abzû, Gris, The Pathless, Bound",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 92 ===
+
+Текст: Посоветуй RPG в сеттинге восточного фэнтези.
+
+Время ответа: 38.27 сек
+Ответ сервера:
+
+{
+  "data": "Xuan-Yuan Sword 7, Tale of Wuxia, Gujian 3, Sword and Fairy 7, Jade Empire",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 93 ===
+
+Текст: Ищу тактическую игру с большим количеством навыков.
+
+Время ответа: 40.66 сек
+Ответ сервера:
+
+{
+  "data": "Divinity: Original Sin 2, Wasteland 3, Jagged Alliance 3, Pathfinder: Kingmaker (RTwP/тактика), Gears Tactics",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 94 ===
+
+Текст: Посоветуй приключенческую игру с элементами строительства.
+
+Время ответа: 35.94 сек
+Ответ сервера:
+
+{
+  "data": "My Time at Portia, Dragon Quest Builders 2, Yonder, Summer in Mara, Lens Island",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 95 ===
+
+Текст: Хочу киберпанковую игру, но не слишком мрачную.
+
+Время ответа: 42.77 сек
+Ответ сервера:
+
+{
+  "data": "Transistor, Cloudpunk, ANNO: Mutationem, VA-11 Hall-A, Dex",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 96 ===
+
+Текст: Дай что-то похожее на Terraria, но с другим визуальным стилем.
+
+Время ответа: 39.88 сек
+Ответ сервера:
+
+{
+  "data": "Starbound, Forager, Crea, Craft the World, Dig or Die",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 97 ===
+
+Текст: Посоветуй sandbox c магической тематикой.
+
+Время ответа: 38.44 сек
+Ответ сервера:
+
+{
+  "data": "Craftopia, Citadel: Forged With Fire, Enshrouded, Fictorum, Spellbreak (casual)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 98 ===
+
+Текст: Ищу игры, где можно развивать деревню или город.
+
+Время ответа: 41.72 сек
+Ответ сервера:
+
+{
+  "data": "Banished, Foundation, Manor Lords, The Settlers 4, Kingdoms and Castles",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 99 ===
+
+Текст: Подскажи лёгкий roguelite для новичка.
+
+Время ответа: 30.91 сек
+Ответ сервера:
+
+{
+  "data": "Rogue Legacy, Hades, Vampire Survivors, Brotato, Dicey Dungeons",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 100 ===
+
+Текст: Хочу игру с видом сверху и хорошим сюжетом.
+
+Время ответа: 45.13 сек
+Ответ сервера:
+
+{
+  "data": "Transistor, Death's Door, Bastion, Disc Room (меньше сюжета), The Ascent",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 101 ===
+
+Текст: Посоветуй атмосферный квест с сюжетом про расследования.
+
+Время ответа: 42.88 сек
+Ответ сервера:
+
+{
+  "data": "Return of the Obra Dinn, The Vanishing of Ethan Carter, Sherlock Holmes: Crimes & Punishments, Paradise Killer, L.A. Noire",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 102 ===
+
+Текст: Хочу что-то похожее на Firewatch, но чуть длиннее.
+
+Время ответа: 36.29 сек
+Ответ сервера:
+
+{
+  "data": "Everybody’s Gone to the Rapture, What Remains of Edith Finch, Kentucky Route Zero, Eastshade, Where the Water Tastes Like Wine",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 103 ===
+
+Текст: Подскажи sci-fi приключение без сложных механик.
+
+Время ответа: 33.74 сек
+Ответ сервера:
+
+{
+  "data": "Deliver Us The Moon, Planet of Lana, Lifeless Planet, Somerville, Observation",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 104 ===
+
+Текст: Посоветуй пошаговую RPG, где важны диалоги.
+
+Время ответа: 48.01 сек
+Ответ сервера:
+
+{
+  "data": "Disco Elysium, Torment: Tides of Numenera, Shadowrun: Dragonfall, Wasteland 3, Pillars of Eternity",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 105 ===
+
+Текст: Хочу историю про путешествия во времени в игровой форме.
+
+Время ответа: 34.66 сек
+Ответ сервера:
+
+{
+  "data": "Chrono Trigger, Radiant Historia, Life is Strange, Steins;Gate (VN), The Forgotten City",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 106 ===
+
+Текст: Дай что-то похожее на Forager, но с большей глубиной.
+
+Время ответа: 39.27 сек
+Ответ сервера:
+
+{
+  "data": "Len’s Island, Craft the World, Stardew Valley, Satisfactory (сложнее), Tinkertown",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 107 ===
+
+Текст: Посоветуй экшен с элементами рогалика, но не слишком быстрый.
+
+Время ответа: 44.19 сек
+Ответ сервера:
+
+{
+  "data": "Children of Morta, Eitr, Rogue Heroes: Ruins of Tasos, Dreamscaper, Undermine",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 108 ===
+
+Текст: Ищу игру, где много исследования заброшенных мест.
+
+Время ответа: 39.33 сек
+Ответ сервера:
+
+{
+  "data": "The Last of Us, Subnautica, The Vanishing of Ethan Carter, S.T.A.L.K.E.R., INFRA",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 109 ===
+
+Текст: Хочу мультяшную, но глубокую стратегию.
+
+Время ответа: 34.90 сек
+Ответ сервера:
+
+{
+  "data": "Kingdom Two Crowns, Ooblets, For The King, Dungeon Village, Wartales (стилизация)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 110 ===
+
+Текст: Подскажи игру про алхимию или зельеварение.
+
+Время ответа: 31.88 сек
+Ответ сервера:
+
+{
+  "data": "Potion Craft, Atelier Ryza, Potionomics, Alchemist Simulator, Noita (алхимические системы)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 111 ===
+
+Текст: Хочу что-то похожее на Celeste, но проще по управлению.
+
+Время ответа: 38.72 сек
+Ответ сервера:
+
+{
+  "data": "A Short Hike, Gris, Ori and the Blind Forest, Unravel, The Last Campfire",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 112 ===
+
+Текст: Посоветуй приключение с уклоном в комедию.
+
+Время ответа: 42.51 сек
+Ответ сервера:
+
+{
+  "data": "Psychonauts 2, The Stanley Parable, Tales from the Borderlands, The Artful Escape, Trover Saves the Universe",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 113 ===
+
+Текст: Ищу кооперативную игру, где нужно вместе решать головоломки.
+
+Время ответа: 47.08 сек
+Ответ сервера:
+
+{
+  "data": "We Were Here (серия), Portal 2 Coop, Tick Tock: A Tale for Two, Operation: Tango, It Takes Two",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 114 ===
+
+Текст: Посоветуй RPG, где есть система отношений с NPC.
+
+Время ответа: 36.14 сек
+Ответ сервера:
+
+{
+  "data": "Dragon Age: Origins, Baldur’s Gate 3, Pathfinder: Kingmaker, Mass Effect 2, GreedFall",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 115 ===
+
+Текст: Хочу тактический экшен, но без онлайна.
+
+Время ответа: 33.95 сек
+Ответ сервера:
+
+{
+  "data": "John Wick Hex, Mutant Year Zero, Desperados 3, Shadow Tactics, Metal Gear Solid V (тактичный стелс-экшен)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 116 ===
+
+Текст: Дай игру, похожую на Diablo, но медленнее и с упором на историю.
+
+Время ответа: 40.44 сек
+Ответ сервера:
+
+{
+  "data": "Grim Dawn, Victor Vran, Torchlight 2 (спокойнее), Wolcen (сюжетнее), Titan Quest",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 117 ===
+
+Текст: Посоветуй управление космической станцией или базой.
+
+Время ответа: 39.12 сек
+Ответ сервера:
+
+{
+  "data": "Space Haven, RimWorld, Oxygen Not Included, Stardeus, Cosmonautica",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 118 ===
+
+Текст: Хочу атмосферную игру с видом сбоку и сюжетными сценами.
+
+Время ответа: 34.77 сек
+Ответ сервера:
+
+{
+  "data": "Inside, Limbo, Planet of Lana, Somerville, White Shadows",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 119 ===
+
+Текст: Подскажи игру, где нужно готовить или управлять рестораном.
+
+Время ответа: 33.41 сек
+Ответ сервера:
+
+{
+  "data": "Cook, Serve, Delicious! 2, Chef: A Restaurant Tycoon, PlateUp!, Diner Bros, Overcooked 2 (менее менеджмент)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 120 ===
+
+Текст: Посоветуй что-то расслабляющее с видом сверху.
+
+Время ответа: 37.09 сек
+Ответ сервера:
+
+{
+  "data": "A Short Hike, Islanders, Dorf Romantik, Garden Galaxy, Unpacking",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 121 ===
+
+Текст: Хочу игру на смартфон, которая есть и в Steam.
+
+Время ответа: 41.66 сек
+Ответ сервера:
+
+{
+  "data": "Dead Cells, Stardew Valley, Slay the Spire, Limbo, Monument Valley 2 (только мобильная, аналог в Steam — The Pathless)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 122 ===
+
+Текст: Дай игру с нестандартной физикой и головоломками.
+
+Время ответа: 45.22 сек
+Ответ сервера:
+
+{
+  "data": "Human: Fall Flat, The Talos Principle, Manifold Garden, Baba Is You, Relicta",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 123 ===
+
+Текст: Посоветуй что-то похожее на Bioshock, но менее мрачное.
+
+Время ответа: 38.01 сек
+Ответ сервера:
+
+{
+  "data": "Prey (2017), Dishonored, The Outer Worlds, Atomic Heart (ярче), Deus Ex: Human Revolution",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 124 ===
+
+Текст: Хочу пошаговый тактический рогалик.
+
+Время ответа: 31.55 сек
+Ответ сервера:
+
+{
+  "data": "Into the Breach, Ring of Pain, Rogue Lords, Crown Trick, Jupiter Hell",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 125 ===
+
+Текст: Подскажи приключение без боёв, только сюжет и исследование.
+
+Время ответа: 43.88 сек
+Ответ сервера:
+
+{
+  "data": "Firewatch, Journey, ABZÛ, Eastshade, The First Tree",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 126 ===
+
+Текст: Посоветуй RPG, где можно играть за мага с большим количеством заклинаний.
+
+Время ответа: 40.92 сек
+Ответ сервера:
+
+{
+  "data": "Divinity: Original Sin 2, Path of Exile (mage builds), Skyrim (pure mage), Outward (магия ритуальная), Fable 3",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 127 ===
+
+Текст: Ищу sci-fi шутер, но сюжетный.
+
+Время ответа: 39.44 сек
+Ответ сервера:
+
+{
+  "data": "Prey (2017), Titanfall 2, Half-Life 2, Crysis 2, The Outer Worlds (более RPG)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 128 ===
+
+Текст: Хочу игру, где есть приручение существ.
+
+Время ответа: 36.22 сек
+Ответ сервера:
+
+{
+  "data": "Temtem, Ark: Survival Evolved, Ooblets, Slime Rancher, Ni No Kuni: Wrath of the White Witch",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 129 ===
+
+Текст: Посоветуй леталку/флайт-сим, но для новичков.
+
+Время ответа: 30.55 сек
+Ответ сервера:
+
+{
+  "data": "Ace Combat 7, Ultrawings, Sky Rogue, War Thunder (PvE режимы), Project Wingman",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 130 ===
+
+Текст: Хочу симулятор, где можно управлять транспортом.
+
+Время ответа: 47.10 сек
+Ответ сервера:
+
+{
+  "data": "SnowRunner, Euro Truck Simulator 2, Car Mechanic Simulator, Train Sim World 3, Hardspace: Shipbreaker",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 131 ===
+
+Текст: Дай подобие Oxygen Not Included, но попроще.
+
+Время ответа: 34.91 сек
+Ответ сервера:
+
+{
+  "data": "Oxygen First Breath, Meeple Station, Mutant Year Zero (другой жанр, но похожий менеджмент), Craft the World, Space Haven",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 132 ===
+
+Текст: Подскажи игру в жанре deckbuilding, но без рогалик-структуры.
+
+Время ответа: 42.33 сек
+Ответ сервера:
+
+{
+  "data": "Griftlands (story mode), Trials of Fire, Gordian Quest (кампания), Fights in Tight Spaces (режимы), SteamWorld Quest",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 133 ===
+
+Текст: Хочу изометрическое приключение с загадками.
+
+Время ответа: 33.57 сек
+Ответ сервера:
+
+{
+  "data": "The Last Campfire, Tunic, Monument Valley PC, Lost Ember, The Wild at Heart",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 134 ===
+
+Текст: Ищу приключение в фэнтези-мире с небольшой картой.
+
+Время ответа: 31.88 сек
+Ответ сервера:
+
+{
+  "data": "Hob, Baldo: The Guardian Owls, Cornerstone: The Song of Tyrim, Risen, Arise: A Simple Story",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 135 ===
+
+Текст: Посоветуй игру, где важны решения и последствия.
+
+Время ответа: 38.40 сек
+Ответ сервера:
+
+{
+  "data": "The Walking Dead Telltale, The Council, Disco Elysium, Detroit: Become Human, Life is Strange 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 136 ===
+
+Текст: Хочу платформер с боевой системой в стиле beat’em up.
+
+Время ответа: 35.77 сек
+Ответ сервера:
+
+{
+  "data": "Guacamelee! 2, Dust: An Elysian Tail, Shank 2, Astral Chain (не платформер, но hybrid), Blasphemous",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 137 ===
+
+Текст: Подскажи хоррор с минимальным количеством монстров.
+
+Время ответа: 43.91 сек
+Ответ сервера:
+
+{
+  "data": "Layers of Fear, Observer, Visage, Amnesia: Rebirth (минимум врагов), Soma",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 138 ===
+
+Текст: Ищу расслабляющую игру про путешествия и природу.
+
+Время ответа: 30.14 сек
+Ответ сервера:
+
+{
+  "data": "A Short Hike, Eastshade, Alba: A Wildlife Adventure, Lake, The Last Campfire",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 139 ===
+
+Текст: Хочу RTS, но чтобы была кампания для одиночки.
+
+Время ответа: 33.08 сек
+Ответ сервера:
+
+{
+  "data": "StarCraft II, SpellForce 3, Age of Empires II DE, Company of Heroes, Grey Goo",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 140 ===
+
+Текст: Посоветуй игру с системой строительства и обороны базы.
+
+Время ответа: 45.21 сек
+Ответ сервера:
+
+{
+  "data": "They Are Billions, RimWorld, Factorio (оборона), Craft the World, Dungeon Keeper 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 141 ===
+
+Текст: Хочу sci-fi стратегию, но не 4X.
+
+Время ответа: 36.44 сек
+Ответ сервера:
+
+{
+  "data": "XCOM 2, FTL: Faster Than Light, Battletech, Phoenix Point, Space Haven",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 142 ===
+
+Текст: Дай что-то похожее на Hyper Light Drifter.
+
+Время ответа: 44.66 сек
+Ответ сервера:
+
+{
+  "data": "Unsighted, Death’s Door, Titan Souls, Eastward, Foregone",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 143 ===
+
+Текст: Ищу кооперативный survival без жёсткого хардкора.
+
+Время ответа: 31.99 сек
+Ответ сервера:
+
+{
+  "data": "Grounded, The Forest (лёгкие настройки), Raft, Valheim, Astroneer",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 144 ===
+
+Текст: Посоветуй игру с процедурно генерируемыми островами.
+
+Время ответа: 35.80 сек
+Ответ сервера:
+
+{
+  "data": "For the King, Don't Starve Shipwrecked, Windbound, Core Keeper (биомы), Flotsam",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 145 ===
+
+Текст: Хочу что-то похожее на Satisfactory, но без 3D.
+
+Время ответа: 42.05 сек
+Ответ сервера:
+
+{
+  "data": "Factorio, Dyson Sphere Program (почти 3D), Shapez.io, Mindustry, Factory Town",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 146 ===
+
+Текст: Подскажи историю с мрачным нуар-сеттингом.
+
+Время ответа: 39.77 сек
+Ответ сервера:
+
+{
+  "data": "Disco Elysium, The Wolf Among Us, L.A. Noire, Blacksad: Under the Skin, Max Payne 2",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 147 ===
+
+Текст: Ищу приключенческий экшен с минимальными элементами RPG.
+
+Время ответа: 37.31 сек
+Ответ сервера:
+
+{
+  "data": "Enslaved: Odyssey to the West, Star Wars Jedi: Fallen Order (слегка RPG), Prince of Persia 2008, Control, A Plague Tale",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 148 ===
+
+Текст: Посоветуй игру, где нужно управлять маленьким поселением на острове.
+
+Время ответа: 32.52 сек
+Ответ сервера:
+
+{
+  "data": "Kingdom: Two Crowns, Islanders, The Tribe Must Survive, Foundation, Banished",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 149 ===
+
+Текст: Хочу игру, где можно охотиться, но без реализма.
+
+Время ответа: 34.66 сек
+Ответ сервера:
+
+{
+  "data": "Dauntless, Monster Hunter Stories 2, Toukiden, The Hunter: Call of the Wild (casual режим), Slime Rancher",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 150 ===
+
+Текст: Посоветуй аниме-приключение с тактическими боями.
+
+Время ответа: 47.44 сек
+Ответ сервера:
+
+{
+  "data": "Ni No Kuni 2, Trails of Cold Steel, Fire Emblem: Three Houses, Genshin Impact (частично), Scarlet Nexus",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 151 ===
+
+Текст: Как снизить уровень стресса без лекарств?
+
+Время ответа: 32.33 сек
+Ответ сервера:
+
+{
+  "data": "Медитация 5–10 минут, дыхательные упражнения, прогулки, ограничение экрана перед сном, ведение дневника, тёплый душ",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 152 ===
+
+Текст: Подскажи, куда лучше поехать в Европу в ноябре?
+
+Время ответа: 46.03 сек
+Ответ сервера:
+
+{
+  "data": "Португалия (Лиссабон), Испания (Севилья), Кипр, Мальта, Италия (Сицилия)",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 153 ===
+
+Текст: Как открыть ИП в Казахстане и какие документы нужны?
+
+Время ответа: 40.52 сек
+Ответ сервера:
+
+{
+  "data": "Заявление онлайн через eGov, ЭЦП, выбор налогового режима, регистрация ККМ (если нужно), уведомление госорганов",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 154 ===
+
+Текст: Напиши простой пример REST API на Python Flask.
+
+Время ответа: 34.01 сек
+Ответ сервера:
+
+{
+  "data": "from flask import Flask\napp = Flask(__name__)\n@app.route('/hello')\ndef hello(): return {'msg': 'hi'}\napp.run()",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 155 ===
+
+Текст: Что означает мем с собакой в огне «this is fine»?
+
+Время ответа: 39.77 сек
+Ответ сервера:
+
+{
+  "data": "Мем о безразличии к очевидной катастрофе; персонаж делает вид, что всё нормально, несмотря на хаос вокруг.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 156 ===
+
+Текст: Как убрать неприятный запах из холодильника?
+
+Время ответа: 34.22 сек
+Ответ сервера:
+
+{
+  "data": "Промыть раствором соды, использовать лимон, оставить открытую соду/уголь, проверить просрочку, очистить дренаж.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 157 ===
+
+Текст: Какие симптомы у дефицита витамина D?
+
+Время ответа: 36.19 сек
+Ответ сервера:
+
+{
+  "data": "Усталость, сонливость, мышечная слабость, ломкость костей, снижение иммунитета, раздражительность.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 158 ===
+
+Текст: Сколько стоит поездка в Дубай на 5 дней для двоих?
+
+Время ответа: 41.88 сек
+Ответ сервера:
+
+{
+  "data": "От 1500 до 3000 USD: перелёт 600–1200, отель 500–1200, питание 200–400, развлечения 200–300.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 159 ===
+
+Текст: Как правильно вести переговоры с партнёрами?
+
+Время ответа: 38.11 сек
+Ответ сервера:
+
+{
+  "data": "Подготовка, понимание интересов сторон, активное слушание, аргументация выгод, фиксация договорённостей.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 160 ===
+
+Текст: Как сделать сортировку массива вручную на Java?
+
+Время ответа: 32.44 сек
+Ответ сервера:
+
+{
+  "data": "Пример: использовать bubble sort — два цикла, сравнение arr[j] и arr[j+1], обмен местами при необходимости.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 161 ===
+
+Текст: Объясни смысл мема про «NPC-поведение».
+
+Время ответа: 39.77 сек
+Ответ сервера:
+
+{
+  "data": "Шутка о людях, которые ведут себя шаблонно, без инициативы, как неигровые персонажи из видеоигр.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 162 ===
+
+Текст: Как отмыть пригоревшую кастрюлю без химии?
+
+Время ответа: 37.55 сек
+Ответ сервера:
+
+{
+  "data": "Сода + вода кипятить 10 минут, уксус + вода, оставить пасту из соды, использовать деревянную лопатку.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 163 ===
+
+Текст: Можно ли делать упражнения при болях в пояснице?
+
+Время ответа: 33.90 сек
+Ответ сервера:
+
+{
+  "data": "Можно лёгкие упражнения: растяжка, ходьба, укрепление кора; избегать наклонов и подъёма тяжестей.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 164 ===
+
+Текст: Подскажи бюджетные направления для путешествия зимой.
+
+Время ответа: 35.88 сек
+Ответ сервера:
+
+{
+  "data": "Грузия, Турция, Египет, Албания, Черногория, Сербия, Марокко.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 165 ===
+
+Текст: Как рассчитать точку безубыточности для бизнеса?
+
+Время ответа: 44.01 сек
+Ответ сервера:
+
+{
+  "data": "Формула: фиксированные затраты / (цена - переменные затраты). Результат — количество продаж.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 166 ===
+
+Текст: Как работает бинарный поиск в коде?
+
+Время ответа: 32.77 сек
+Ответ сервера:
+
+{
+  "data": "Алгоритм делит отсортированный массив пополам, сравнивает цель со средним элементом, сужает диапазон.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 167 ===
+
+Текст: Почему мем с котом «буба» стал популярным?
+
+Время ответа: 37.44 сек
+Ответ сервера:
+
+{
+  "data": "Из-за забавной интонации слов «буба-буба» и универсальности мема под разные эмоции.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 168 ===
+
+Текст: Как избавиться от плесени на стене в ванной?
+
+Время ответа: 38.22 сек
+Ответ сервера:
+
+{
+  "data": "Уксус, сода, хлорный раствор, обработка швов, улучшение вентиляции, антигрибковая грунтовка.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 169 ===
+
+Текст: Как повысить качество сна?
+
+Время ответа: 33.08 сек
+Ответ сервера:
+
+{
+  "data": "Ограничить гаджеты, соблюдать режим, проветривать комнату, избегать кофеина вечером, снижать свет.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 170 ===
+
+Текст: Какие документы нужны для путешествия в Таиланд?
+
+Время ответа: 41.99 сек
+Ответ сервера:
+
+{
+  "data": "Паспорт, обратный билет, бронь жилья, деньги на счёте, иногда медицинская страховка.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 171 ===
+
+Текст: Как выбрать нишу для онлайн-бизнеса?
+
+Время ответа: 36.33 сек
+Ответ сервера:
+
+{
+  "data": "Оценить спрос, конкурентов, маржинальность, личные компетенции, протестировать MVP.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 172 ===
+
+Текст: Какой язык программирования подойдёт новичку?
+
+Время ответа: 30.90 сек
+Ответ сервера:
+
+{
+  "data": "Python, JavaScript, Java, C#, Go — прост синтаксис, много материалов, широкая сфера применения.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 173 ===
+
+Текст: Что значит фраза из мемов «based»?
+
+Время ответа: 37.14 сек
+Ответ сервера:
+
+{
+  "data": "Означает уверенность в своей позиции, независимость от мнений, «истинно», «респект».",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 174 ===
+
+Текст: Как почистить клавиатуру ноутбука?
+
+Время ответа: 32.22 сек
+Ответ сервера:
+
+{
+  "data": "Воздух-спрей, мягкая кисточка, изопропиловый спирт, протирка салфеткой, выключить питание перед чисткой.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 175 ===
+
+Текст: Почему может болеть голова по утрам?
+
+Время ответа: 38.88 сек
+Ответ сервера:
+
+{
+  "data": "Недосып, обезвоживание, плохой воздух, стресс, неудобная подушка, бруксизм.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 176 ===
+
+Текст: Посоветуй маршруты для путешествия по Турции на машине.
+
+Время ответа: 43.11 сек
+Ответ сервера:
+
+{
+  "data": "Анталья—Каш—Кекова; Стамбул—Бурса—Измир; Каппадокия—Конья—Алания; Черноморское побережье.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 177 ===
+
+Текст: Как правильно составить бизнес-план?
+
+Время ответа: 36.66 сек
+Ответ сервера:
+
+{
+  "data": "Структура: идея, анализ рынка, ЦА, конкуренты, финмодель, маркетинг, риски, план запуска.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 178 ===
+
+Текст: Объясни разницу между Git merge и Git rebase.
+
+Время ответа: 39.44 сек
+Ответ сервера:
+
+{
+  "data": "Merge — объединяет ветки с новым коммитом. Rebase — переписывает историю, делая её линейной.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 179 ===
+
+Текст: Что означает мем с растерянным Джоном Траволтой?
+
+Время ответа: 31.55 сек
+Ответ сервера:
+
+{
+  "data": "Используется в ситуациях замешательства или когда человек «не понимает, что происходит».",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 180 ===
+
+Текст: Как удалить жирные пятна с одежды?
+
+Время ответа: 32.44 сек
+Ответ сервера:
+
+{
+  "data": "Порошок соды, средство для посуды, мел, шампунь, тёплая вода, обработка перед стиркой.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 181 ===
+
+Текст: Как укрепить иммунитет осенью?
+
+Время ответа: 36.77 сек
+Ответ сервера:
+
+{
+  "data": "Сон, витамины, тёплая одежда, прогулки, питьевой режим, меньше сахара, свежие овощи.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 182 ===
+
+Текст: Сколько стоит аренда авто в Европе?
+
+Время ответа: 40.01 сек
+Ответ сервера:
+
+{
+  "data": "От 25 до 60 евро/сутки, в зависимости от страны, сезона, страховки и класса авто.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 183 ===
+
+Текст: Как оптимизировать расходы малого бизнеса?
+
+Время ответа: 38.88 сек
+Ответ сервера:
+
+{
+  "data": "Автоматизация, аутсорсинг, контроль запасов, анализ каналов продаж, сокращение лишних подписок.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 184 ===
+
+Текст: Объясни простыми словами, что такое API.
+
+Время ответа: 33.55 сек
+Ответ сервера:
+
+{
+  "data": "Это посредник, который позволяет одной программе общаться с другой через понятные правила.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 185 ===
+
+Текст: Откуда берётся мем про «шлёпу»?
+
+Время ответа: 37.20 сек
+Ответ сервера:
+
+{
+  "data": "От известного кота-большего каракала по кличке «Большой Шлёпа», ставшего героем мемов в соцсетях.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 186 ===
+
+Текст: Как правильно ухаживать за деревянной мебелью?
+
+Время ответа: 33.19 сек
+Ответ сервера:
+
+{
+  "data": "Использовать масло/воск, избегать влаги, мягкие средства, не ставить горячее, протирать по текстуре.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 187 ===
+
+Текст: Можно ли пить кофе при повышенном давлении?
+
+Время ответа: 41.90 сек
+Ответ сервера:
+
+{
+  "data": "Умеренно можно, но лучше снизить крепость; при серьёзных проблемах — ограничить и проверить у врача.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 188 ===
+
+Текст: Какие страны самые дешёвые для зимовки?
+
+Время ответа: 44.10 сек
+Ответ сервера:
+
+{
+  "data": "Таиланд, Вьетнам, Индонезия (Бали), Филиппины, Грузия, Малайзия.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 189 ===
+
+Текст: Как зарегистрировать товарный знак?
+
+Время ответа: 37.88 сек
+Ответ сервера:
+
+{
+  "data": "Проверить уникальность, подать заявку в патентное ведомство, оплатить пошлину, дождаться экспертизы.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 190 ===
+
+Текст: Зачем нужен Docker в разработке?
+
+Время ответа: 36.19 сек
+Ответ сервера:
+
+{
+  "data": "Создаёт изолированные контейнеры, обеспечивает одинаковую среду, ускоряет деплой и тестирование.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 191 ===
+
+Текст: Что за мем с котом, который кричит на салат?
+
+Время ответа: 35.44 сек
+Ответ сервера:
+
+{
+  "data": "Мем «Woman yelling at a cat» — кричащая женщина и кот Смуги, сидящий перед тарелкой салата.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 192 ===
+
+Текст: Как вывести пятно от вина?
+
+Время ответа: 32.27 сек
+Ответ сервера:
+
+{
+  "data": "Соль сразу, затем холодная вода, сода, лимонный сок, уксус, стирка в тёплой воде.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 193 ===
+
+Текст: Какие витамины лучше принимать зимой?
+
+Время ответа: 37.33 сек
+Ответ сервера:
+
+{
+  "data": "Витамин D, C, цинк, магний, омега-3 — особенно при недостатке солнца.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 194 ===
+
+Текст: Как подобрать недорогое жильё в Европе?
+
+Время ответа: 40.77 сек
+Ответ сервера:
+
+{
+  "data": "Использовать Airbnb, Booking, раннее бронирование, искать пригород, смотреть hostels и apart-hotels.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 195 ===
+
+Текст: Как рассчитать налоги для фрилансера?
+
+Время ответа: 34.88 сек
+Ответ сервера:
+
+{
+  "data": "Высчитать доход, применить ставку страны, учесть расходы, учитывать страховые взносы.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 196 ===
+
+Текст: Что такое контейнеризация в IT?
+
+Время ответа: 36.44 сек
+Ответ сервера:
+
+{
+  "data": "Технология упаковки приложения и зависимостей в изолированный контейнер для удобного запуска в любой среде.",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 197 ===
+
+Текст: Почему мем «rizz» стал таким популярным?
+Ответ:
+
+{
+  "data": "Слово «rizz» стало популярным благодаря TikTok и стримерам — им обозначали харизму и умение очаровывать. Простое, запоминающееся, стало сленгом.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 198 ===
+
+Текст: Как устранить скрип двери?
+Ответ:
+
+{
+  "data": "Смазать петли маслом или WD-40, подтянуть крепления, очистить от пыли. При износе заменить петли.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 199 ===
+
+Текст: Как быстро вылечить простуду?
+Ответ:
+
+{
+  "data": "Питьё, отдых, проветривание, солевые промывания, симптоматические средства. Быстро вылечить нельзя — только облегчить течение.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 200 ===
+
+Текст: Как организовать путешествие с минимальными затратами?
+Ответ:
+
+{
+  "data": "Искать билеты по гибким датам, жить вне центра, пользоваться скидками и общественным транспортом, заранее бронировать жильё.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 201 ===
+
+Текст: Как улучшить концентрацию при работе из дома?
+Ответ:
+
+{
+  "data": "Раздельная рабочая зона, таймеры, отключение уведомлений, короткие перерывы, контроль отвлекающих факторов.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 202 ===
+
+Текст: Как выбрать хороший матрас для сна?
+Ответ:
+
+{
+  "data": "Подобрать уровень жёсткости, материал, поддержку спины, учитывать вес, пробовать матрас перед покупкой.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 203 ===
+
+Текст: Что делать, если соседи шумят по ночам?
+Ответ:
+
+{
+  "data": "Попросить снизить шум, фиксировать нарушения, обращаться в управляющую компанию или полицию при повторении.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 204 ===
+
+Текст: Как правильно составить семейный бюджет?
+Ответ:
+
+{
+  "data": "Учет доходов/расходов, распределение категорий, планирование по схеме 50/30/20, регулярный анализ.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 205 ===
+
+Текст: Какие тренды сейчас в интерьерном дизайне?
+Ответ:
+
+{
+  "data": "Натуральные материалы, минимализм, теплые оттенки, биофильность, функциональность, отсутствие лишнего декора.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 206 ===
+
+Текст: Как выбрать первый фотоаппарат для новичка?
+Ответ:
+
+{
+  "data": "Кроп-камера APS-C, хороший автофокус, удобство хвата, бюджетные объективы, бренды Canon/Fujifilm/Sony.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 207 ===
+
+Текст: Как ухаживать за комнатными растениями зимой?
+Ответ:
+
+{
+  "data": "Уменьшить полив, обеспечить досветку, держать подальше от батарей и сквозняков, не пересаживать.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 208 ===
+
+Текст: Как научиться быстро печатать вслепую?
+Ответ:
+
+{
+  "data": "Тренажёры Keybr/TypingClub, ежедневная практика, правильная посадка и постановка рук.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 209 ===
+
+Текст: Как правильно хранить продукты в холодильнике?
+Ответ:
+
+{
+  "data": "Мясо и рыба — снизу, молоко — на полках, зелень в контейнерах, температура 2–4°C, не перегружать холодильник.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 210 ===
+
+Текст: Как выбрать удобное офисное кресло?
+Ответ:
+
+{
+  "data": "Регулировка высоты, поясничная поддержка, плотная спинка, устойчивое основание, дышащая ткань.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 211 ===
+
+Текст: Как развить навыки публичных выступлений?
+Ответ:
+
+{
+  "data": "Практика, запись на видео, структура речи, контроль дыхания, изучение аудитории.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 212 ===
+
+Текст: Как избавиться от привычки прокрастинировать?
+Ответ:
+
+{
+  "data": "Маленькие шаги, таймеры, четкие цели, отсутствие отвлекающих факторов, награды за выполнение.",
+  "status": "success",
+  "message": "Text processed successfully"
+}
+
+=== Запрос 213 ===
+
+Текст: Что делать, если телефон быстро разряжается?
+Ответ сервера:
+
+{
+  "data": "Понизить яркость, отключить фоновые процессы, удалить тяжёлые приложения, включить энергосбережение, заменить аккумулятор",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 214 ===
+
+Текст: Как правильно выбрать увлажнитель воздуха?
+Ответ сервера:
+
+{
+  "data": "Ультразвуковой тип, бак 3–5 литров, автоотключение, регулировка влажности, антинакипный фильтр",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 215 ===
+
+Текст: Как научиться рисовать с нуля?
+Ответ сервера:
+
+{
+  "data": "База форм, ежедневные зарисовки, копирование простых объектов, обучение штриху, онлайн-курсы",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 216 ===
+
+Текст: Как выбрать кошку или собаку под свой образ жизни?
+Ответ сервера:
+
+{
+  "data": "Оценить активность, учитывать размер, изучить породу, проверить аллергии, оценить время на уход",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 217 ===
+
+Текст: Как оптимизировать домашнее пространство?
+Ответ сервера:
+
+{
+  "data": "Вертикальное хранение, меньше мебели, органайзеры, зонирование, регулярный разбор вещей",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 218 ===
+
+Текст: Как выбрать недорогую, но качественную посуду?
+Ответ сервера:
+
+{
+  "data": "Нержавейка, литой алюминий, толстое дно, термостойкие ручки, стеклянные крышки",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 219 ===
+
+Текст: Что приготовить на ужин за 15 минут?
+Ответ сервера:
+
+{
+  "data": "Паста аглио-э-ольо, омлет с овощами, рис с яйцом, салат с курицей, тушёные овощи",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 220 ===
+
+Текст: Как избавиться от запаха сигарет в квартире?
+Ответ сервера:
+
+{
+  "data": "Влажная уборка, проветривание, угольные фильтры, стирка текстиля, озонирование",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 221 ===
+
+Текст: Как правильно стирать спортивную одежду?
+Ответ сервера:
+
+{
+  "data": "Низкая температура, жидкие гели, без кондиционера, отдельная стирка, быстрая сушка",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 222 ===
+
+Текст: Как планировать неделю, чтобы всё успевать?
+Ответ сервера:
+
+{
+  "data": "Приоритеты, блоковое планирование, буфер-время, реальный объём задач, вечерний пересмотр плана",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 223 ===
+
+Текст: Что делать, если постоянно болят глаза от компьютера?
+Ответ сервера:
+
+{
+  "data": "Правило 20-20-20, увлажняющие капли, правильная яркость экрана, больше моргать, увеличивать дистанцию",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 224 ===
+
+Текст: Как улучшить дикцию при разговоре?
+Ответ сервера:
+
+{
+  "data": "Скороговорки, артикуляционная гимнастика, запись голоса, медленное чтение, дыхательные упражнения",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 225 ===
+
+Текст: Как выбрать правильные наушники для музыки?
+Ответ сервера:
+
+{
+  "data": "Динамический драйвер, удобная посадка, закрытая акустика, тестирование треков, широкий частотный диапазон",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 226 ===
+
+Текст: Как вырастить зелень на подоконнике?
+Ответ сервера:
+
+{
+  "data": "Южное окно, рыхлая почва, регулярный полив, подсветка, аккуратный сбор листьев",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 227 ===
+
+Текст: Какие техники помогают контролировать эмоции?
+Ответ сервера:
+
+{
+  "data": "Глубокое дыхание, дневник эмоций, пауза перед реакцией, заземление, отслеживание триггеров",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 228 ===
+
+Текст: Как правильно чистить серебряные украшения?
+Ответ сервера:
+
+{
+  "data": "Пищевая сода, мягкая ткань, мыльный раствор, спецпаста, без абразивов",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 229 ===
+
+Текст: Что делать, если скопилось много ненужных вещей?
+Ответ сервера:
+
+{
+  "data": "Сортировка по категориям, продажа онлайн, отдача на благотворительность, лимит хранения, минимизация дубликатов",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 230 ===
+
+Текст: Как выбрать экономичную стиральную машину?
+Ответ сервера:
+
+{
+  "data": "Класс A/A++, инверторный мотор, низкий расход воды, узкая модель, программы быстрой стирки",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 231 ===
+
+Текст: Какие упражнения помогут снять напряжение в шее?
+Ответ сервера:
+
+{
+  "data": "Наклоны головы, вращения плеч, растяжка трапеций, изометрические удержания, лёгкое тепло",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 232 ===
+
+Текст: Как выбрать качественный чай?
+Ответ сервера:
+
+{
+  "data": "Листовой, цельные листья, свежий урожай, правильный аромат, проверенный производитель",
+  "message": "Text processed successfully",
+  "status": "success"
+}
+
+=== Запрос 233 ===
+
+Текст: Как научиться рано вставать?
+
+Ответ сервера:
+
+{
+"data": "Ранний отход ко сну, постепенный сдвиг подъёма, утренний ритуал, ограничение гаджетов, будильник вдали от кровати",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 234 ===
+
+Текст: Как снимать минималистичные фотографии?
+
+Ответ сервера:
+
+{
+"data": "Один объект, нейтральный фон, простые линии, естественный свет, минимум деталей",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 235 ===
+
+Текст: Что делать, если дома слишком сухой воздух?
+
+Ответ сервера:
+
+{
+"data": "Увлажнитель, влажная уборка, проветривание, ёмкости с водой, комнатные растения",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 236 ===
+
+Текст: Как выбрать хороший чемодан для поездок?
+
+Ответ сервера:
+
+{
+"data": "Прочный корпус, лёгкий вес, четыре колеса, удобная ручка, продуманная организация",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 237 ===
+
+Текст: Как быстро навести порядок в квартире?
+
+Ответ сервера:
+
+{
+"data": "Убрать поверхности, собрать мусор, разложить вещи, быстрая стирка, влажная протирка",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 238 ===
+
+Текст: Какие лайфхаки есть для готовки без масла?
+
+Ответ сервера:
+
+{
+"data": "Готовка на пару, запекание, антипригарная сковорода, тушение на воде, йогуртовые соусы",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 239 ===
+
+Текст: Как правильно ухаживать за кожей рук зимой?
+
+Ответ сервера:
+
+{
+"data": "Питательный крем, перчатки, мягкое мыло, ночной уход, увлажнение воздуха",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 240 ===
+
+Текст: Как выбрать удобный рюкзак для города?
+
+Ответ сервера:
+
+{
+"data": "Мягкие лямки, жёсткая спинка, лёгкий материал, много отделений, влагозащита",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 241 ===
+
+Текст: Как избавиться от привычки есть сладкое каждый день?
+
+Ответ сервера:
+
+{
+"data": "Снижать сладкое постепенно, больше воды, заменители сахара, регулярное питание, не хранить сладости дома",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 242 ===
+
+Текст: Что делать, если на одежде появились катышки?
+
+Ответ сервера:
+
+{
+"data": "Машинка для катышков, бритва для ткани, деликатная стирка, мягкие средства, правильная сушка",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 243 ===
+
+Текст: Как научиться красиво писать от руки?
+
+Ответ сервера:
+
+{
+"data": "Регулярные прописи, медленная практика, удобная ручка, правильная посадка, расслабленная кисть",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 244 ===
+
+Текст: Как организовать рабочее место в маленькой комнате?
+
+Ответ сервера:
+{
+"data": "Компактный стол, вертикальное хранение, складной стул, хорошее освещение, минимализм в предметах",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 245 ===
+
+Текст: Как выбрать хорошую сковородку для дома?
+
+Ответ сервера:
+{
+"data": "Толстое дно, антипригарное покрытие, удобная ручка, равномерный нагрев, подходящий размер",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 246 ===
+
+Текст: Как безопасно пользоваться микроволновкой?
+
+Ответ сервера:
+{
+"data": "Использовать только подходящую посуду, избегать металла, не перегревать жидкости, регулярно чистить, закрывать крышкой пищу",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 247 ===
+
+Текст: Как избавиться от неприятного запаха в обуви?
+
+Ответ сервера:
+{
+"data": "Сода внутрь обуви, стельки с углём, регулярная сушка, антисептический спрей, хранение в проветриваемом месте",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 248 ===
+
+Текст: Как уменьшить расход электричества дома?
+
+Ответ сервера:
+{
+"data": "Энергоэкономные лампы, выключать технику, умные розетки, малооборотный режим стирки, теплоизоляция помещений",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 249 ===
+
+Текст: Как ухаживать за волосами в жаркую погоду?
+
+Ответ сервера:
+{
+"data": "Солнцезащитные спреи, меньше горячих приборов, увлажняющие маски, головной убор, мягкое мытьё",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 250 ===
+
+Текст: Я прошёл Half-Life 4, посоветуй что-то похожее.
+
+Ответ сервера:
+{
+"data": "Half-Life: Alyx, Black Mesa, Titanfall 2, Prey, BioShock Infinite",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 251 ===
+
+Текст: Играл в Witcher 9, хочу похожую RPG.
+
+Ответ сервера:
+{
+"data": "The Witcher 3, Dragon Age: Inquisition, Kingdom Come: Deliverance, GreedFall, Gothic 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 252 ===
+
+Текст: Посоветуй игры как в серии GTA, только типа GTA 12.
+
+Ответ сервера:
+{
+"data": "GTA V, Saints Row 2, Sleeping Dogs, Mafia II, Watch Dogs 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 253 ===
+
+Текст: Хочу игру в духе Skyrime, желательно поновее.
+
+Ответ сервера:
+{
+"data": "Elden Ring, Dragon’s Dogma 2, Kingdoms of Amalur: Re-Reckoning, Outward, GreedFall",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 254 ===
+
+Текст: Играл в D00M Eetrnal, есть что-то похожее?
+
+Ответ сервера:
+{
+"data": "DOOM (2016), Ultrakill, Quake Champions, Shadow Warrior 3, Prodeus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 255 ===
+
+Текст: Можешь обновить мне Assassin’s Creed Ragnarok?
+
+Ответ сервера:
+{
+"data": "Игра не существует, обновление невозможно, проверь название, уточни платформу, попробуй другой запрос",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 256 ===
+
+Текст: Запусти, пожалуйста, Cyberpunk 2099 на моём ПК.
+
+Ответ сервера:
+{
+"data": "Игра не существует, запуск невозможен, проверь название, уточни версию, проверь системные требования",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 257 ===
+
+Текст: Почему в DOOM появились говорящие динозавры?
+
+Ответ сервера:
+{
+"data": "Такого контента нет, возможно мод, проверь установленные файлы, перепроверь источник, уточни версию игры",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 258 ===
+
+Текст: Посоветуй игру, похожую на Red Dead Redemption 4.
+
+Ответ сервера:
+{
+"data": "Red Dead Redemption 2, Call of Juarez Gunslinger, Mafia I Remake, Kingdom Come: Deliverance, The Last of Us Part II",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 259 ===
+
+Текст: Хочу купить Elden Ring для Wii, подскажи магазин.
+
+Ответ сервера:
+{
+"data": "Версия для Wii не существует, игра только для современных платформ, проверь список платформ, уточни регион, попробуй официальный магазин",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 260 ===
+
+Текст: Я нашёл в Hollow Knight секретный уровень «Silkfall Valley», как пройти?
+
+Ответ сервера:
+{
+"data": "Уровень не существует, проверь моды, изучи карту игры, используй официальное руководство, уточни источник информации",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 261 ===
+
+Текст: Порекомендуй что-то типа Mass Effect 5.
+
+Ответ сервера:
+{
+"data": "Mass Effect Legendary Edition, The Outer Worlds, Starfield, Deus Ex: Human Revolution, KOTOR",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 262 ===
+
+Текст: Хочу похожее на God of War: Atlantis DLC.
+
+Ответ сервера:
+{
+"data": "God of War (2018), Hellblade, Darksiders, Lords of the Fallen, Middle-earth: Shadow of War",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 263 ===
+
+Текст: Играл в Minecraft 3 на телефоне, что ещё похожего есть?
+
+Ответ сервера:
+{
+"data": "Minecraft PE, Terraria, Block Story, Roblox, Survivalcraft",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 264 ===
+
+Текст: Можешь удалить всех врагов в моей игре Fallout 6?
+
+Ответ сервера:
+{
+"data": "Игра не существует, удаление невозможно, проверь название, уточни версию, попробуй другой запрос",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 265 ===
+
+Текст: Как попасть на скрытый остров «New Liberty» в GTA San Andreas HD?
+
+Ответ сервера:
+{
+"data": "Остров отсутствует в игре, возможно мод, проверь установленные файлы, уточни источник, изучи карту",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 266 ===
+
+Текст: Дай рекомендации похожих игр на The Wicher.
+
+Ответ сервера:
+{
+"data": "The Witcher 3, Dragon Age: Origins, GreedFall, Gothic 3, Kingdom Come: Deliverance",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 267 ===
+
+Текст: Есть что-то в стиле Portal 3 VR Edition?
+
+Ответ сервера:
+{
+"data": "Portal 2, The Talos Principle, The Witness, Superliminal, Manifold Garden",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 268 ===
+
+Текст: Почему в Skyrim на PS1 не работает магия?
+
+Ответ сервера:
+{
+"data": "Версия для PS1 не существует, ошибка в названии, проверь платформу, переустанови игру, уточни информацию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 269 ===
+
+Текст: Посоветуй игру как Bloodborne 2.
+
+Ответ сервера:
+{
+"data": "Bloodborne, Elden Ring, Sekiro, Lies of P, Nioh 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 270 ===
+
+Текст: Я нашёл в Ori тайный уровень «Forest of Echoes», что там делать?
+
+Ответ сервера:
+{
+"data": "Уровень не существует, проверь моды, изучи карту, используй официальное руководство, уточни источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 271 ===
+
+Текст: Скачай мне апдейт Overwatch 3.
+
+Ответ сервера:
+{
+"data": "Игра не существует, обновление недоступно, проверь название, уточни версию, попробуй другой запрос",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 272 ===
+
+Текст: Хочу RPG типа Dragon Age 5.
+
+Ответ сервера:
+{
+"data": "Dragon Age: Inquisition, Divinity: Original Sin 2, GreedFall, Pathfinder: Kingmaker, Pillars of Eternity",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 273 ===
+
+Текст: Порекомендуй игры как Hades 2: Underworld Rising.
+
+Ответ сервера:
+{
+"data": "Hades, Dead Cells, Transistor, Bastion, Children of Morta",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 274 ===
+
+Текст: В Elden Ring на Nintendo DS нет босса Малении, это нормально?
+
+Ответ сервера:
+{
+"data": "Версия для Nintendo DS не существует, проверь платформу, уточни информацию, используй оригинальную игру, проверь источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 275 ===
+
+Текст: Что играмет говорят про Counter-Strike Global Offensive 2?
+
+Ответ сервера:
+{
+"data": "Игра не анонсирована, информации нет, проверь источники, следи за новостями, используй официальные данные",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 276 ===
+
+Текст: Я застрял на уровне «Shadow Metro» в DOOM 4, помоги.
+
+Ответ сервера:
+{
+"data": "Уровня нет, проверь моды, изучи карту, используй руководство, уточни версию игры",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 277 ===
+
+Текст: Посоветуй платформеры как Cuphad.
+
+Ответ сервера:
+{
+"data": "Cuphead, Hollow Knight, Ori and the Blind Forest, Celeste, Rayman Legends",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 278 ===
+
+Текст: Игры похожие на Cyberpunk 2088 есть?
+
+Ответ сервера:
+{
+"data": "Cyberpunk 2077, Deus Ex: Mankind Divided, Ghostrunner, Ruiner, Observer",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 279 ===
+
+Текст: Почему в Ведьмаке Геральт летает?
+
+Ответ сервера:
+{
+"data": "Возможен баг, перезагрузить игру, проверить моды, обновить версию, переустановить файлы",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 280 ===
+
+Текст: Хочу поиграть в Dark Souls 4, пока жду патч, что похожего есть?
+
+Ответ сервера:
+{
+"data": "Dark Souls 3, Elden Ring, Sekiro, Nioh, Lords of the Fallen",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 281 ===
+
+Текст: Можно ли пройти секретный режим «Ultra Calm» в DOOM Eternal?
+
+Ответ сервера:
+{
+"data": "Режим не существует, проверь моды, изучи настройки, уточни источник, используй официальное меню",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 282 ===
+
+Текст: Играл в Terraria 2D+, хочу что-то в этом стиле.
+
+Ответ сервера:
+{
+"data": "Terraria, Starbound, Core Keeper, Crea, Forager",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 283 ===
+
+Текст: Посоветуй игру, которая похожа на Halo 7.
+
+Ответ сервера:
+{
+"data": "Halo Infinite, Destiny 2, Titanfall 2, Warframe, Mass Effect 3",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 284 ===
+
+Текст: Как разблокировать скрытый класс «Shadow Bard» в Baldur’s Gate 4?
+
+Ответ сервера:
+{
+"data": "Класс не существует, проверь моды, изучи руководство, уточни источник, используй официальную информацию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 285 ===
+
+Текст: Установи мне мод на GTA VI, чтобы машины ходили пешком.
+
+Ответ сервера:
+{
+"data": "Невозможно установить, игра не вышла, мод недоступен, проверь название, уточни запрос",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 286 ===
+
+Текст: Есть ли похожие игры на Super Mario Odyssey 2?
+
+Ответ сервера:
+{
+"data": "Super Mario Odyssey, Banjo-Kazooie, A Hat in Time, Yooka-Laylee, Kirby and the Forgotten Land",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 287 ===
+
+Текст: Посоветуй что-то похожее на Fortnite Singleplayer Edition.
+
+Ответ сервера:
+{
+"data": "Fortnite, PUBG, Apex Legends, Overwatch, Valorant",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 288 ===
+
+Текст: Почему в Elden Ring RTX Remastered трава квадратная?
+
+Ответ сервера:
+{
+"data": "Версия не существует, вероятен мод, проверь настройки графики, обнови драйверы, уточни источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 289 ===
+
+Текст: Хочу игры в стиле Need for Speed 2049.
+
+Ответ сервера:
+{
+"data": "Need for Speed Heat, Forza Horizon 5, The Crew 2, Grid Legends, Midnight Club LA",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 290 ===
+
+Текст: Где найти секрет «Underwater City» в Witcher 4?
+
+Ответ сервера:
+{
+"data": "Игра не существует, секрет отсутствует, проверь источник, изучи официальные данные, уточни информацию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 291 ===
+
+Текст: Порекомендуй игру как Metroid Prime 5.
+
+Ответ сервера:
+{
+"data": "Metroid Prime Trilogy, Doom 2016, Prey, Hollow Knight, Axiom Verge",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 292 ===
+
+Текст: Играл в Hollow Knight 2: Deep Echoes, что дальше пройти?
+
+Ответ сервера:
+{
+"data": "Игра не существует, проверь название, изучи карту, уточни источник, используй официальную информацию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 293 ===
+
+Текст: Можешь очистить кэш у моей игре Skyrim Mobile?
+
+Ответ сервера:
+{
+"data": "Игра не существует, очистка невозможна, проверь платформу, уточни запрос, изучи настройки устройства",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 294 ===
+
+Текст: Я прошёл фейковый уровень «Desert Labyrinth» в Portal, есть похожие?
+
+Ответ сервера:
+{
+"data": "Portal 2, The Talos Principle, The Witness, Superliminal, Antichamber",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 295 ===
+
+Текст: Хочу что-то как Legend of Zelda: Windblood.
+
+Ответ сервера:
+{
+"data": "Zelda: Breath of the Wild, Genshin Impact, Immortals Fenyx Rising, Okami, Tunic",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 296 ===
+
+Текст: В LoL 3 как работает новый герой?
+
+Ответ сервера:
+{
+"data": "Игра не существует, информации нет, проверь название, уточни источник, используй официальные данные",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 297 ===
+
+Текст: Почему в PUBG Story Mode боты разговаривают?
+
+Ответ сервера:
+{
+"data": "Режим не существует, вероятен мод, проверь настройки, уточни информацию, используй официальную версию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 298 ===
+
+Текст: Есть игры похожие на God of War: Ragnarok 2?
+
+Ответ сервера:
+{
+"data": "God of War (2018), God of War Ragnarok, Lords of the Fallen, Darksiders, Hellblade",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 299 ===
+
+Текст: Хочу игру как Starfield 2, что посоветуешь?
+
+Ответ сервера:
+{
+"data": "Starfield, No Man’s Sky, Mass Effect, Outer Worlds, Elite Dangerous",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 300 ===
+
+Текст: Посоветуй игры, похожие на Metro 3035, я его прошёл вчера.
+
+Ответ сервера:
+{
+"data": "Metro Exodus, S.T.A.L.K.E.R., Half-Life 2, Atomic Heart, Bioshock Infinite",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 301 ===
+
+Текст: Что делать, если в Skyrim 8 у меня пропали все драконы?
+
+Ответ сервера:
+{
+"data": "Игра не существует, проверь моды, перезапусти игру, обнови файлы, уточни источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 302 ===
+
+Текст: Играл в Hollow Knight: Silkwood Expansion, есть похожие DLC?
+
+Ответ сервера:
+{
+"data": "Hollow Knight: Godmaster, Ori Will of the Wisps, Blasphemous DLC, Dead Cells DLC, Axiom Verge 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 303 ===
+
+Текст: Хочу игру как Assassin’s Creed: Pharaoh Rising, она мне зашла.
+
+Ответ сервера:
+{
+"data": "Assassin’s Creed Origins, Prince of Persia, Shadow of Mordor, Immortals Fenyx Rising, Horizon Zero Dawn",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 304 ===
+
+Текст: Почему в Elden Ring Pocket Edition нет кат-сцен?
+
+Ответ сервера:
+{
+"data": "Версия не существует, кат-сцен нет, проверь источник, уточни информацию, используй оригинальную игру",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 305 ===
+
+Текст: Посоветуй игру в духе Battfield 9: Zero Horizon.
+
+Ответ сервера:
+{
+"data": "Battlefield 1, Battlefield V, Call of Duty MW, Titanfall 2, Hell Let Loose",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 306 ===
+
+Текст: Я прошёл секретную концовку в The Last of Us 3, что ещё такого?
+
+Ответ сервера:
+{
+"data": "The Last of Us Part II, A Plague Tale Requiem, Detroit Become Human, Life is Strange, Heavy Rain",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 307 ===
+
+Текст: Запусти режим «Ultra Nightmare Peaceful» в DOOM Eternal.
+
+Ответ сервера:
+{
+"data": "Режим не существует, выполнить невозможно, проверь настройки, уточни источник, используй официальные режимы",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 308 ===
+
+Текст: Есть что-то похожее на Spidermon 2077?
+
+Ответ сервера:
+{
+"data": "Marvel’s Spider-Man, Cyberpunk 2077, Infamous Second Son, Watch Dogs 2, Sunset Overdrive",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 309 ===
+
+Текст: Как попасть на скрытую локацию «Deep Subway» в Cyberpunk 2078?
+
+Ответ сервера:
+{
+"data": "Игра не существует, локация отсутствует, проверь моды, уточни источник, используй официальную версию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 310 ===
+
+Текст: Посоветуй RPG как в серии Dragonborn Origins Chronicles.
+
+Ответ сервера:
+{
+"data": "Dragon Age Origins, Pillars of Eternity, Divinity Original Sin 2, Baldur’s Gate 3, GreedFall",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 311 ===
+
+Текст: Почему в Minecraft RTX Lite трава фиолетовая?
+
+Ответ сервера:
+{
+"data": "Неверный ресурс-пак, ошибка шейдеров, конфликт модов, обнови драйверы, переустанови пак",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 312 ===
+
+Текст: Игры похожие на Fallout: London 2079?
+
+Ответ сервера:
+{
+"data": "Fallout 4, Fallout New Vegas, Metro Exodus, S.T.A.L.K.E.R., Wasteland 3",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 313 ===
+
+Текст: Хочу поиграть в God of War: Hel Edition, что похоже?
+
+Ответ сервера:
+{
+"data": "God of War Ragnarok, Hellblade, Darksiders, Lords of the Fallen, Enslaved Odyssey to the West",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 314 ===
+
+Текст: Порекомендуй игры, как в серии Mario Kart 12 Galaxy Drift.
+
+Ответ сервера:
+{
+"data": "Mario Kart 8 Deluxe, CTR Nitro-Fueled, Sonic Team Racing, Garfield Kart, Nickelodeon Kart Racers",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 315 ===
+
+Текст: Как пройти тайный уровень «Ocean Core» в Dying Light 3?
+
+Ответ сервера:
+{
+"data": "Игра не существует, уровень отсутствует, проверь источник, уточни данные, используй официальную информацию",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 316 ===
+
+Текст: Установи обновление на Ведьмака 5, чтобы мечи не светились.
+
+Ответ сервера:
+{
+"data": "Игра не вышла, обновление недоступно, действие невозможно, уточни информацию, проверь источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 317 ===
+
+Текст: Посоветуй шутер как C0unter Str1ke 2.5.
+
+Ответ сервера:
+{
+"data": "CS:GO, Valorant, Battlefield, Insurgency Sandstorm, Call of Duty MW2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 318 ===
+
+Текст: Почему в BioShock 4 Big Daddy стал маленьким?
+
+Ответ сервера:
+{
+"data": "Игра не существует, информация неверна, проверь источник, уточни данные, используй официальные материалы",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 319 ===
+
+Текст: Хочу что-то похожее на Fortnite: Medieval Chapter.
+
+Ответ сервера:
+{
+"data": "Fortnite, Realm Royale, Dauntless, Spellbreak, Apex Legends",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 320 ===
+
+Текст: Как разблокировать класс «Void Archer» в Diablo V?
+
+Ответ сервера:
+{
+"data": "Игра отсутствует, класс недоступен, проверь источник, уточни данные, ориентируйся на Diablo IV",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 321 ===
+
+Текст: Есть ли аналоги Super Smash Bros Ultra Deluxe?
+
+Ответ сервера:
+{
+"data": "Super Smash Bros Ultimate, Brawlhalla, Multiversus, Rivals of Aether, Nickelodeon All-Star Brawl",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 322 ===
+
+Текст: Хочу, чтобы ты удалил баг с бесконечным прыжком в Celeste 2.
+
+Ответ сервера:
+{
+"data": "Не могу править файлы игры, но советы: отключить моды, обновить игру, проверить привязку кнопок, сбросить настройки управления, переустановить сборку",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 323 ===
+
+Текст: Что делать, если в RimWorld Stories появляется говорящий медведь?
+
+Ответ сервера:
+{
+"data": "Скорее всего мод/ивент: отключить моды, проверить конфликты, откатить недавние дополнения, искать патч для storyteller-мода, проверить форум разработчиков",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 324 ===
+
+Текст: Посоветуй платформер типа Rayman Legends 3.
+
+Ответ сервера:
+{
+"data": "Ori and the Will of the Wisps, Hollow Knight, Cuphead, Yooka-Laylee, Sonic Mania",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 325 ===
+
+Текст: Играл в Resident Evil 10: Moon Colony, хочу похожее.
+
+Ответ сервера:
+{
+"data": "The Callisto Protocol, Dead Space Remake, Alien: Isolation, The Evil Within 2, Metro Exodus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 326 ===
+
+Текст: Почему в GTA 7 машины исчезают при взгляде назад?
+
+Ответ сервера:
+{
+"data": "Скорее баг прорисовки/стриминга: обнови драйверы, увеличь дальность прорисовки, отключи моды, проверь кэш игры, установи патч",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 327 ===
+
+Текст: Порекомендуй игры как Star Wars Jedi: Fallen Survivor 2.
+
+Ответ сервера:
+{
+"data": "Star Wars Jedi: Survivor, Sekiro: Shadows Die Twice, Ghost of Tsushima, Nioh 2, Rise of the Ronin",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 328 ===
+
+Текст: Хочу пройти секрет «Lost Metro Line» в Stalker 4, есть гайд?
+
+Ответ сервера:
+{
+"data": "Поищи гайды на форумах/YouTube, проверь модификации, активируй скрытые события, следи за звуками подземки, используй фонарь и карты модов",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 329 ===
+
+Текст: Как включить режим «Sandbox Battle Royale» в Sims 6?
+
+Ответ сервера:
+{
+"data": "Официально не существует; ищи моды сообщества, ставь мод-пак, читай инструкции автора, делай бэкап перед установкой",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 330 ===
+
+Текст: Посоветуй что-то как Forza Horizon 6: Arctic Rush.
+
+Ответ сервера:
+{
+"data": "Forza Horizon 5, The Crew Motorfest, Need for Speed Heat, Forza Motorsport, SnowRunner (зимняя тематика)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 331 ===
+
+Текст: Почему в Sonic Blue Burst нет кнопки прыжка?
+
+Ответ сервера:
+{
+"data": "Возможно кастомная сборка или управление переназначено: проверь настройки контроллера, клавиши, используемый порт, установленные патчи, документацию сборки",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 332 ===
+
+Текст: Есть игры похожие на Dark Souls: Abysswalker Edition?
+
+Ответ сервера:
+{
+"data": "Elden Ring, Sekiro, Nioh 2, Lies of P, Lords of the Fallen (2023)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 333 ===
+
+Текст: Играл в Portal 3 Alpha Build, что ещё похожего есть?
+
+Ответ сервера:
+{
+"data": "The Talos Principle, The Witness, Superliminal, Q.U.B.E. 2, Antichamber",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 334 ===
+
+Текст: Как открыть невидимый сундук в Bloodborne Rebirth?
+
+Ответ сервера:
+{
+"data": "Часто требуются светильники/факелы, особый предмет или активация триггера; проверь подсказки в лоре, освещай область, ищи скрытые механизмы, ищи гайд по локации",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 335 ===
+
+Текст: Посоветуй тактику как в XCOM 4, но поновее.
+
+Ответ сервера:
+{
+"data": "Phoenix Point, Gears Tactics, Invisible, Inc., Battletech, Hard West 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 336 ===
+
+Текст: Почему в Halo 8 у моего оружия отрицательный урон?
+
+Ответ сервера:
+{
+"data": "Скорее баг/мод: обнови игру, проверь моды, переустанови файлы, свяжись с поддержкой, откат патчей",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 337 ===
+
+Текст: Я нашёл в Terraria 3 босса «Magma Dragon», как его пройти?
+
+Ответ сервера:
+{
+"data": "Проверь требуемый лут/оружие, подготовь арены с защитой от огня, используйте дальние атаки, препараты на огнестойкость, ищи гайды по модификации",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 338 ===
+
+Текст: Хочу что-то похожее на Zelda: Tears of the Skyfall.
+
+Ответ сервера:
+{
+"data": "The Legend of Zelda: Breath of the Wild, Genshin Impact, Immortals Fenyx Rising, Tunic, Ghost of Tsushima (исследование)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 339 ===
+
+Текст: Можешь нормализовать мне FPS в Cyberpunk 3000?
+
+Ответ сервера:
+{
+"data": "Не могу менять настройки на ПК; советы: снизить графику, обновить драйверы, выключить моды, включить DLSS/FSR, закрыть фоновые приложения",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 340 ===
+
+Текст: Почему в Metroid Prime 6 Самус разговаривает голосом ребёнка?
+
+Ответ сервера:
+{
+"data": "Вероятен мод или баг; проверь файлы озвучки, отключи моды, обнови патч, проверь версию игры, уточни источник",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 341 ===
+
+Текст: Посоветуй сюжетные игры как Detroit: Afterlife.
+
+Ответ сервера:
+{
+"data": "Detroit: Become Human, Heavy Rain, Life is Strange, The Last of Us Part II, A Way Out",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 342 ===
+
+Текст: Как пройти уровень «Reverse World» в Super Mario 128?
+
+Ответ сервера:
+{
+"data": "Если это фан-уровень — ищи руководство автора, прохождение на YouTube, проверить нужные глитчи, использовать правильную последовательность действий, проверить версии модов",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 343 ===
+
+Текст: Играл в Dead Space 5 — что-то похожее есть?
+
+Ответ сервера:
+{
+"data": "The Callisto Protocol, Alien: Isolation, Soma, Prey (2017), The Persistence",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 344 ===
+
+Текст: Посоветуй игры, где есть механики как в Overwatch: Heroes Reborn.
+
+Ответ сервера:
+{
+"data": "Overwatch 2, Valorant, Paladins, Apex Legends, Team Fortress 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 345 ===
+
+Текст: Почему в Apex Legends 3 моя легенда стала 2D?
+
+Ответ сервера:
+{
+"data": "Возможно графический баг или конфликт модов: обнови драйверы, проверь кэш игры, отключи модификации, переустанови клиент, свяжись с поддержкой",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 346 ===
+
+Текст: Хочу похожую игру на Mass Effect: Star Requiem.
+
+Ответ сервера:
+{
+"data": "Mass Effect Legendary Edition, The Outer Worlds, Starfield, Deus Ex: Human Revolution, KOTOR",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 347 ===
+
+Текст: Как активировать режим «Infinite Peaceful Combat» в Elden Ring 2?
+
+Ответ сервера:
+{
+"data": "Режим неофициальный; ищи моды сообщества, делай бэкап, следуй инструкциям мода, используй проверенные источники, остерегайся читов",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 348 ===
+
+Текст: Есть что-то в духе Watch Dogs 4: Neural City?
+
+Ответ сервера:
+{
+"data": "Watch Dogs: Legion, Cyberpunk 2077, Deus Ex: Mankind Divided, Observer, Ghostrunner",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 349 ===
+
+Текст: Как найти секретный портал на Марс в Doom Classic Remake?
+
+Ответ сервера:
+{
+"data": "Если это мод или пасхалка — ищи гайды на форуме моддеров, проверяй скрытые текстуры, активируй секретные кнопки, ищи последовательность действий, изучай файлы уровней",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 350 ===
+
+Текст: хачу поиграть в аркаду нормуль какую
+
+Ответ сервера:
+{
+"data": "Cuphead, Broforce, Streets of Rage 4, Enter the Gungeon, Metal Slug",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 351 ===
+
+Текст: посаветуй игру ну эту кароче про мечи и драконов но не помню название
+
+Ответ сервера:
+{
+"data": "Skyrim, Dragon’s Dogma, Dragon Age: Inquisition, Kingdoms of Amalur, Dark Souls",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 352 ===
+
+Текст: дай мне игру шобы она была ну эта ну ты понел
+
+Ответ сервера:
+{
+"data": "Hades, Stardew Valley, Hollow Knight, Spiritfarer, Terraria",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 353 ===
+
+Текст: хочу в шутер где пушка стреляет быстро но не сильно но шоб красиво
+
+Ответ сервера:
+{
+"data": "Splatoon 3, Overwatch 2 (пульс-пушки), Titanfall 2 (легкие SMG), Warframe (стримовые винтовки), Valorant (пистолеты/SMG)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 354 ===
+
+Текст: поскажи игру типо того синего робота ну который бегает
+
+Ответ сервера:
+{
+"data": "Mega Man 11, Mighty No. 9, 20XX, Azure Striker Gunvolt, Cuphead (бег-стрелялка)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 355 ===
+
+Текст: дай мне рпг но не рпг а что-то другое но похоже
+
+Ответ сервера:
+{
+"data": "Hades, Bastion, Transistor, Hollow Knight, Death’s Door",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 356 ===
+
+Текст: как скачать игру которой нету но я в неё играл
+
+Ответ сервера:
+{
+"data": "Проверь название, архивы в Steam/Google Play, фан-сайты, переиздания, старые APK/установщики, спроси сообщество по игре",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 357 ===
+
+Текст: хочу в гонку где машины как будто не машины а животные
+
+Ответ сервера:
+{
+"data": "Crash Team Racing, Mario Kart 8 Deluxe, Sonic & All-Stars Racing, ModNation Racers, Chocobo GP",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 358 ===
+
+Текст: найди игру где чел бежит вперёд и всё ломает это инди кажись
+
+Ответ сервера:
+{
+"data": "ClusterTruck, Dashy Crashy, SpeedRunners, BROTATO (ломает толпы), Temple Run (раннер)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 359 ===
+
+Текст: порекомундуй игру на телефно ну эту про кубики
+
+Ответ сервера:
+{
+"data": "Minecraft Pocket Edition, Block Craft 3D, Lokicraft, Craftsman, Survivalcraft",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 360 ===
+
+Текст: хочу погамать в что-то норм но не знаю что хочу
+
+Ответ сервера:
+{
+"data": "Hades, Stardew Valley, Elden Ring, Hollow Knight, Forza Horizon 5",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 361 ===
+
+Текст: а есть игра где можно летать но без неба
+
+Ответ сервера:
+{
+"data": "Journey, Abzû (плавание-полёты), Gravity Rush, Sky: Children of the Light (локации внутри миров), NaissanceE",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 362 ===
+
+Текст: посаветуй шутер где враги не враги а просто стоят
+
+Ответ сервера:
+{
+"data": "Superhot (враги стоят пока ты не двигаешься), Receiver, Gun Range VR, Paintball Arena, Time Crisis",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 363 ===
+
+Текст: хочу игру ну такую где ходишь и всё
+
+Ответ сервера:
+{
+"data": "Firewatch, Journey, What Remains of Edith Finch, Dear Esther, Proteus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 364 ===
+
+Текст: дайте игру про рыцарей но чтобы без мечей
+
+Ответ сервера:
+{
+"data": "For Honor (копья/топоры), Chivalry 2 (разные классы), Kingdom Come (луки), Mordhau (копья), Dark Messiah (магия)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 365 ===
+
+Текст: дайте поиграть в хорор но чтобы не страшно
+
+Ответ сервера:
+{
+"data": "Luigi’s Mansion 3, Little Nightmares, Inside, Hello Neighbor, Bendy and the Ink Machine",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 366 ===
+
+Текст: посаветуй пж игру где котики но не милые а наоборот
+
+Ответ сервера:
+{
+"data": "Cat Quest (боевые коты), Stray, Battle Cats, Gato Roboto, Blacksad (нуар с котами)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 367 ===
+
+Текст: хочу игру где графика средняя но чтобы круто
+
+Ответ сервера:
+{
+"data": "Hades, Dead Cells, Darkest Dungeon, Outer Wilds, Subnautica",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 368 ===
+
+Текст: хочу какую-то адвенчуру или как оно там
+
+Ответ сервера:
+{
+"data": "Uncharted 4, Tomb Raider, Life is Strange, Oxenfree, Spiritfarer",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 369 ===
+
+Текст: можно игру где кнопки работают сами
+
+Ответ сервера:
+{
+"data": "Clicker Heroes, Cookie Clicker, Realm Grinder, AdVenture Capitalist, Tap Titans 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 370 ===
+
+Текст: дай игру где сюжет есть но его нету
+
+Ответ сервера:
+{
+"data": "Dark Souls, Outer Wilds, Hyper Light Drifter, ABZÛ, Inside",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 371 ===
+
+Текст: хочу в симулятор чего-нибудь но не знаю чего
+
+Ответ сервера:
+{
+"data": "Goat Simulator, House Flipper, PowerWash Simulator, PC Building Simulator, Gas Station Simulator",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 372 ===
+
+Текст: порекомндуй игру типо майкрофта но не майкрофт
+
+Ответ сервера:
+{
+"data": "Terraria, Dragon Quest Builders 2, Cube World, Vintage Story, Creativerse",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 373 ===
+
+Текст: дай игру где море но без воды
+
+Ответ сервера:
+
+{
+"data": "ABZÛ, Sable, Journey, The Pathless, Bound",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 374 ===
+
+Текст: хочу пострелять но шутеры не люблю дай что-то другое
+
+Ответ сервера:
+
+{
+"data": "Hades, Returnal, Enter the Gungeon, Transistor, Bastion",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 375 ===
+
+Текст: посоветуйте игру где можно всё но нельзя ничего
+
+Ответ сервера:
+
+{
+"data": "The Stanley Parable, Everything, Beginner's Guide, Inside, Antichamber",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 376 ===
+
+Текст: ищу игру где главный герой зелёный или может не зелёный
+
+Ответ сервера:
+
+{
+"data": "Yooka-Laylee, Rayman Legends, Oddworld: Abe’s Oddysee, Psychonauts, Ori and the Blind Forest",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 377 ===
+
+Текст: дай игру про бродилки но чтобы не бродить
+
+Ответ сервера:
+
+{
+"data": "Firewatch, Journey, Virginia, What Remains of Edith Finch, Inside",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 378 ===
+
+Текст: хочу игру где боссы маленькие а игрок большой
+
+Ответ сервера:
+
+{
+"data": "Katamari Damacy, Donut County, Tiny & Big: Grandpa’s Leftovers, Pikuniku, Rain World (некоторые ситуации)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 379 ===
+
+Текст: ищу приключение где карты нет но карта есть
+
+Ответ сервера:
+
+{
+"data": "Outer Wilds, Tunic, Fez, Hyper Light Drifter, Below",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 380 ===
+
+Текст: посаветуй шоб был сюжет но необязательный
+
+Ответ сервера:
+
+{
+"data": "Skyrim, Kenshi, Mount & Blade II: Bannerlord, Minecraft Story Optional, S.T.A.L.K.E.R. Anomaly",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 381 ===
+
+Текст: дай игру где один уровень но он бесконечный
+
+Ответ сервера:
+
+{
+"data": "Vampire Survivors, Loop Hero, Downwell, Devil Daggers, Risk of Rain",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 382 ===
+
+Текст: хочу в песочницу но без песка
+
+Ответ сервера:
+
+{
+"data": "Teardown, Besiege, Scrap Mechanic, Satisfactory, Dyson Sphere Program",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 383 ===
+
+Текст: игра где можно строить но не обязательно строить
+
+Ответ сервера:
+
+{
+"data": "Terraria, Starbound, Subnautica, Valheim, RimWorld",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 384 ===
+
+Текст: дай игру с открытым миром но мир закрытый
+
+Ответ сервера:
+
+{
+"data": "Hollow Knight, Dark Souls, Metroid Dread, Control, Prey (2017)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 385 ===
+
+Текст: ищу гонки где машины не едут а просто стоят
+
+Ответ сервера:
+
+{
+"data": "Car Mechanic Simulator, My Summer Car, Jalopy, Motor Town Garage Mode, Wrench",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 386 ===
+
+Текст: посаветуй игру где можно выбирать но выбор ничего не меняет
+
+Ответ сервера:
+
+{
+"data": "Telltale Games (большинство), Detroit Become Human (частично), Life is Strange (частично), Until Dawn (локально), The Quarry",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 387 ===
+
+Текст: хочу РПГ но без прокачки вообще
+
+Ответ сервера:
+
+{
+"data": "Disco Elysium, Undertale, Planescape: Torment (минимально), Pathologic 2, Omori",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 388 ===
+
+Текст: дай игру где магия есть но она не работает
+
+Ответ сервера:
+
+{
+"data": "Dark Messiah (в некоторых билдах), Mages of Mystralia (ограничения), Noita (сложность магии), Magicka (часто не работает из-за игроков), Arx Fatalis",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 389 ===
+
+Текст: ищу платформер но без платформ
+
+Ответ сервера:
+
+{
+"data": "Grow Home, Grow Up, Flower, Journey, Gravity Rush",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 390 ===
+
+Текст: хочу игру похожую на ту что я играл но не помню какую
+
+Ответ сервера:
+
+{
+"data": "Hades, Hollow Knight, Celeste, Stardew Valley, Dead Cells",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 391 ===
+
+Текст: дай игру где мобы сильные но слабые одновременно
+
+Ответ сервера:
+
+{
+"data": "Risk of Rain 2, Dead Cells, Nuclear Throne, Hades, Enter the Gungeon",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 392 ===
+
+Текст: поскажи игру где надо выжить но нельзя умереть
+
+Ответ сервера:
+
+{
+"data": "Journey, Abzû, Terra Nil, Dorfromantik, Flower",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 393 ===
+
+Текст: хочу шутер с мечами
+
+Ответ сервера:
+
+{
+"data": "Shadow Warrior 3, Warframe, Doom Eternal (с мечом), Bulletstorm, Ultrakill",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 394 ===
+
+Текст: дай игру где сюжет пишешь сам но она всё равно другая
+
+Ответ сервера:
+
+{
+"data": "Dwarf Fortress, RimWorld, Kenshi, Crusader Kings III, Minecraft",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 395 ===
+
+Текст: ищу игру где мультиплеер один
+
+Ответ сервера:
+
+{
+"data": "Death Stranding (асинхронный), Dark Souls (следы и вторжения), Journey, Nier Automata (косвенное взаимодействие), Elden Ring",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 396 ===
+
+Текст: хочу игру где квесты дают но выполнять нельзя
+
+Ответ сервера:
+
+{
+"data": "The Stanley Parable, Jazzpunk, Untitled Goose Game, Goat Simulator, Hypnospace Outlaw",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 397 ===
+
+Текст: дай стратегию где армии нет
+
+Ответ сервера:
+
+{
+"data": "Cities: Skylines, Factorio, Oxygen Not Included, Frostpunk (частично), Banished",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 398 ===
+
+Текст: дай игру где всё круглое
+
+Ответ сервера:
+
+{
+"data": "Katamari Damacy, Marble It Up!, Super Monkey Ball, Rolando, Roundguard",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 399 ===
+
+Текст: посаветуй игру где есть дом но нельзя заходить
+
+Ответ сервера:
+
+{
+"data": "Death Stranding, Firewatch, Everybody’s Gone to the Rapture, ABZÛ, Proteus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 400 ===
+
+Текст: Какой нахрен шутер поиграть вечером?
+
+Ответ сервера:
+
+{
+"data": "Doom Eternal, Titanfall 2, Ultrakill, Black Mesa, Wolfenstein II",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 401 ===
+
+Текст: Посоветуй, блин, нормальную игру, а то эти ваши индюшки надоели.
+
+Ответ сервера:
+
+{
+"data": "Red Dead Redemption 2, God of War (2018), Cyberpunk 2077, Horizon Zero Dawn, Ghost of Tsushima",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 402 ===
+
+Текст: Чё за хрень, дай мне уже норм RPG!
+
+Ответ сервера:
+
+{
+"data": "The Witcher 3, Dragon Age Origins, Divinity: Original Sin 2, Pathfinder: Kingmaker, Baldur’s Gate 3",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 403 ===
+
+Текст: Какую мать его гонку запустить на слабом ПК?
+
+Ответ сервера:
+
+{
+"data": "Need for Speed Most Wanted (2005), FlatOut 2, Burnout Paradise, TrackMania Nations Forever, Blur",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 404 ===
+
+Текст: Посоветуй что-то, чтоб не было таким тупым как последний треш который я скачал.
+
+Ответ сервера:
+
+{
+"data": "Hades, Disco Elysium, Outer Wilds, Control, Prey (2017)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 405 ===
+
+Текст: Какой грёбаный хоррор реально пугает?
+
+Ответ сервера:
+
+{
+"data": "Amnesia: The Dark Descent, Outlast, Alien: Isolation, SOMA, Visage",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 406 ===
+
+Текст: Дай что-то нормальное, а не эту фигню из стима.
+
+Ответ сервера:
+
+{
+"data": "Red Dead Redemption 2, God of War Ragnarök, Elden Ring, The Last of Us, Spider-Man",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 407 ===
+
+Текст: Посоветуй, черт побери, что-то похожее на ведьмака.
+
+Ответ сервера:
+
+{
+"data": "Kingdom Come: Deliverance, Dragon Age: Inquisition, GreedFall, Gothic 2, ELEX",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 408 ===
+
+Текст: Какой офигенный шутер с кампанией можно пройти?
+
+Ответ сервера:
+
+{
+"data": "Titanfall 2, Doom Eternal, Wolfenstein: The New Order, Halo Infinite, Metro Exodus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 409 ===
+
+Текст: Что за фигня, почему нет норм игр? Посоветуй.
+
+Ответ сервера:
+
+{
+"data": "Elden Ring, Cyberpunk 2077, Baldur’s Gate 3, Ghost of Tsushima, Alan Wake 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 410 ===
+
+Текст: Посоветуй какой-нибудь платформер, но чтоб не бесящий.
+
+Ответ сервера:
+
+{
+"data": "Ori and the Blind Forest, Ori and the Will of the Wisps, Rayman Legends, Celeste (мягкий режим), Trine 4",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 411 ===
+
+Текст: Какой мать его рогалик реально интересный?
+
+Ответ сервера:
+
+{
+"data": "Hades, Dead Cells, Returnal, The Binding of Isaac Rebirth, Risk of Rain 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 412 ===
+
+Текст: Хочу что-то бодрое, а не унылое — подскажи игру.
+
+Ответ сервера:
+
+{
+"data": "Devil May Cry 5, Doom Eternal, Hi-Fi Rush, Titanfall 2, Sunset Overdrive",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 413 ===
+
+Текст: Дай нормальную тактику, а не эту хрень для детей.
+
+Ответ сервера:
+
+{
+"data": "XCOM 2, Jagged Alliance 3, Warhammer 40k Mechanicus, BattleTech, Gears Tactics",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 414 ===
+
+Текст: Какой адекватный экшен можно пройти?
+
+Ответ сервера:
+
+{
+"data": "Ghost of Tsushima, God of War (2018), Devil May Cry 5, Star Wars Jedi: Fallen Order, Nioh 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 415 ===
+
+Текст: Посоветуй что-то веселое, а не очередной кусок уныния.
+
+Ответ сервера:
+
+{
+"data": "It Takes Two, Saints Row The Third, Sunset Overdrive, Human Fall Flat, Overcooked 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 416 ===
+
+Текст: Какой, блин, сюжетный экшен сейчас лучший?
+
+Ответ сервера:
+
+{
+"data": "God of War Ragnarök, Spider-Man 2, Ghost of Tsushima, Alan Wake 2, Star Wars Jedi: Survivor",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 417 ===
+
+Текст: Чем заменить эту дурацкую игру, которую я только что удалил?
+
+Ответ сервера:
+
+{
+"data": "Control, Prey, Dying Light 2, Cyberpunk 2077, Horizon Zero Dawn",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 418 ===
+
+Текст: Какой шутер с прокачкой реально годный?
+
+Ответ сервера:
+
+{
+"data": "Borderlands 3, Destiny 2, The Division 2, Warframe, Metro Exodus Enhanced",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 419 ===
+
+Текст: Дай что-то нормальное на вечер, а то всё говно какое-то.
+
+Ответ сервера:
+
+{
+"data": "Control, Doom Eternal, Hades, Ghostrunner, Alan Wake Remastered",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 420 ===
+
+Текст: Какую стратегию взять, чтобы не горело так сильно?
+
+Ответ сервера:
+
+{
+"data": "Civilization VI, Northgard, Age of Wonders 4, Total War Warhammer (кампания), Frostpunk",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 421 ===
+
+Текст: Посоветуй кооп, а то друзья задолбали ныть.
+
+Ответ сервера:
+
+{
+"data": "It Takes Two, Deep Rock Galactic, Helldivers 2, Vermintide 2, Phasmophobia",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 422 ===
+
+Текст: Какой норм ААА-экшен выбрать, черт возьми?
+
+Ответ сервера:
+
+{
+"data": "God of War (2018), Spider-Man, Ghost of Tsushima, Star Wars Jedi: Survivor, Horizon Zero Dawn",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 423 ===
+
+Текст: Дай какой-нибудь ритм-игры, но чтоб не бесила через 5 минут.
+
+Ответ сервера:
+
+{
+"data": "Beat Saber, Hi-Fi Rush, Muse Dash, Rhythm Doctor, BPM: Bullets Per Minute",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 424 ===
+
+Текст: Посоветуй блин RPG на 20–30 часов.
+
+Ответ сервера:
+
+{
+"data": "GreedFall, Fable Anniversary, The Outer Worlds, South Park: The Stick of Truth, Mass Effect 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 425 ===
+
+Текст: Какой симулятор реально не скучный, а?
+
+Ответ сервера:
+
+{
+"data": "PowerWash Simulator, House Flipper, Car Mechanic Simulator, My Time at Portia, Two Point Hospital",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 426 ===
+
+Текст: Что по ходу скачать, если всё в стиме хрень?
+
+Ответ сервера:
+
+{
+"data": "Control, Prey, Disco Elysium, Outer Wilds, Hellblade Senua’s Sacrifice",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 427 ===
+
+Текст: Посоветуй игру, которую можно задрить на выходных.
+
+Ответ сервера:
+
+{
+"data": "Risk of Rain 2, Slay the Spire, Monster Hunter World, Hades, Path of Exile",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 428 ===
+
+Текст: Какой чертов метроидвания стоит внимания?
+
+Ответ сервера:
+
+{
+"data": "Hollow Knight, Ori and the Will of the Wisps, Blasphemous 2, Axiom Verge 2, Dead Cells",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 429 ===
+
+Текст: Что взять из шутеров, а то надоела вся мура.
+
+Ответ сервера:
+
+{
+"data": "Titanfall 2, Doom Eternal, Metro Exodus, Battlefield 1, Halo Infinite",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 430 ===
+
+Текст: Посоветуй что-то похожее на дарк соулс, но чтобы не бомбило так сильно.
+
+Ответ сервера:
+
+{
+"data": "Star Wars Jedi: Fallen Order, Lords of the Fallen (2023), Code Vein, Remnant 2, Nioh (низкая сложность)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 431 ===
+
+Текст: Какую игру пройти, пока не сгорел окончательно?
+
+Ответ сервера:
+
+{
+"data": "Firewatch, What Remains of Edith Finch, Journey, Hellblade, Life is Strange",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 432 ===
+
+Текст: Дай что-то норм, чтоб не удалить через 10 минут.
+
+Ответ сервера:
+
+{
+"data": "Hades, Control, Outer Wilds, Deathloop, Prey",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 433 ===
+
+Текст: Какую, к черту, стратегию можно играть долго?
+
+Ответ сервера:
+
+{
+"data": "Crusader Kings III, Stellaris, Europa Universalis IV, Total War: Warhammer 3, Endless Legend",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 434 ===
+
+Текст: Посоветуй инди, но не очередной pixel-art шлак.
+
+Ответ сервера:
+
+{
+"data": "Inside, Little Nightmares, Outer Wilds, Sable, The Pathless",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 435 ===
+
+Текст: Какой шутер не вымораживает своей тупостью?
+
+Ответ сервера:
+
+{
+"data": "Half-Life Alyx, Titanfall 2, Metro Exodus, Black Mesa, Bioshock Infinite",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 436 ===
+
+Текст: Хочу норм гонки, а не этот тухляк.
+
+Ответ сервера:
+
+{
+"data": "Forza Horizon 5, Need for Speed Heat, Dirt Rally 2.0, WRC Generations, GRID 2019",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 437 ===
+
+Текст: Какой адекватный survival есть вообще?
+
+Ответ сервера:
+
+{
+"data": "The Long Dark, Subnautica, Green Hell, Valheim, Don't Starve",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 438 ===
+
+Текст: Посоветуй что-то весёлое, чтобы не взбеситься.
+
+Ответ сервера:
+
+{
+"data": "Saints Row The Third, Human Fall Flat, Fall Guys, Overcooked 2, Gang Beasts",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 439 ===
+
+Текст: Что взять из коопа, чтобы друзья не орали?
+
+Ответ сервера:
+
+{
+"data": "It Takes Two, Deep Rock Galactic, Diablo IV, Helldivers 2, Castle Crashers",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 440 ===
+
+Текст: Какую игру взять, чтобы не было такого ада как в прошлой?
+
+Ответ сервера:
+
+{
+"data": "Horizon Zero Dawn, Control, Ghost of Tsushima, Dishonored 2, Alan Wake 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 441 ===
+
+Текст: Посоветуй игру, где можно рубить всех подряд, но не хлам.
+
+Ответ сервера:
+
+{
+"data": "Devil May Cry 5, Bayonetta 2, Shadow of War, Nioh 2, Metal Gear Rising",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 442 ===
+
+Текст: Какой платформер не вызывает желание выключить жизнь?
+
+Ответ сервера:
+
+{
+"data": "Rayman Legends, Ori and the Will of the Wisps, Trine 4, Psychonauts 2, Sackboy: A Big Adventure",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 443 ===
+
+Текст: Дай норм JRPG, а не очередную сопливую фигню.
+
+Ответ сервера:
+
+{
+"data": "Persona 5 Royal, Final Fantasy VII Remake, Tales of Arise, Dragon Quest XI, Xenoblade Chronicles",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 444 ===
+
+Текст: Посоветуй что-то мрачное, но не тупое.
+
+Ответ сервера:
+
+{
+"data": "Bloodborne, Darkest Dungeon, INSIDE, Pathologic 2, Blasphemous 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 445 ===
+
+Текст: Какую игру выбрать, чтобы не плеваться?
+
+Ответ сервера:
+
+{
+"data": "God of War (2018), Control, Ghost of Tsushima, Resident Evil 2 Remake, Horizon Zero Dawn",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 446 ===
+
+Текст: Посоветуй что-то с сюжетом, а не очередной бред.
+
+Ответ сервера:
+
+{
+"data": "The Last of Us, Disco Elysium, Firewatch, Hellblade: Senua’s Sacrifice, A Plague Tale: Requiem",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 447 ===
+
+Текст: Какой, черт побери, рогалик сейчас топовый?
+
+Ответ сервера:
+
+{
+"data": "Hades, Dead Cells, Noita, Rogue Legacy 2, Slay the Spire",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 448 ===
+
+Текст: Какую игру поставить, чтобы не психовать?
+
+Ответ сервера:
+
+{
+"data": "Spiritfarer, Journey, ABZÛ, Stardew Valley, Unpacking",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 449 ===
+
+Текст: Посоветуй кооператив, который не развалит дружбу.
+
+Ответ сервера:
+
+{
+"data": "It Takes Two, Portal 2 Coop, We Were Here Together, Deep Rock Galactic, Trine 4",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 450 ===
+
+Текст: Посоветуй, пожалуйста, сюжетную игру на 30–40 часов, где будет сильный нарратив, хорошо прописанные персонажи и не слишком сложный геймплей, чтобы можно было расслабиться вечером после работы.
+
+Ответ сервера:
+
+{
+"data": "A Plague Tale: Innocence, GreedFall, Horizon Forbidden West, Star Wars Jedi: Fallen Order, Tales of Arise",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 451 ===
+
+Текст: Хочу найти игру, похожую на Hollow Knight, но с более мягкой кривой сложности и упором на атмосферу и исследование, чтобы можно было спокойно наслаждаться миром без постоянного напряжения.
+
+Ответ сервера:
+
+{
+"data": "Ori and the Blind Forest, Ori and the Will of the Wisps, Ender Lilies, Afterimage, The Last Faith",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 452 ===
+
+Текст: Подскажи, пожалуйста, научно-фантастическую RPG с открытым миром, качественными побочными квестами и возможностью принимать морально неоднозначные решения, влияющие на развитие сюжета.
+
+Ответ сервера:
+
+{
+"data": "The Outer Worlds, Mass Effect Legendary Edition, ELEX, Deus Ex: Mankind Divided, Fallout: New Vegas",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 453 ===
+
+Текст: Ищу игру, где был бы упор на исследование больших локаций, красивую визуальную стилистику и минимальное количество боёв, чтобы больше наслаждаться атмосферой, чем сражениями.
+
+Ответ сервера:
+
+{
+"data": "Sable, Eastshade, Submerged: Hidden Depths, Rime, Journey",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 454 ===
+
+Текст: Посоветуй, пожалуйста, кооперативную игру на двоих, чтобы можно было проходить вместе по вечерам — желательно не слишком сложную, но с интересными механиками и возможность совместно решать задачи.
+
+Ответ сервера:
+
+{
+"data": "It Takes Two, Unravel Two, Trine 4, We Were Here, Lego Star Wars: The Skywalker Saga",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 455 ===
+
+Текст: Хочу игру, которая похожа на The Witcher 3 по глубине мира и качеству повествования, но при этом короче и с более динамичным боем — есть ли что-то подходящее?
+
+Ответ сервера:
+
+{
+"data": "GreedFall, Dragon’s Dogma, Kingdoms of Amalur: Re-Reckoning, Fable Anniversary, Middle-earth: Shadow of Mordor",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 456 ===
+
+Текст: Подскажи, пожалуйста, приключенческую игру в фэнтези-сеттинге, где можно управлять несколькими персонажами и развивать их по различным веткам, но без чрезмерной сложности в интерфейсе.
+
+Ответ сервера:
+
+{
+"data": "Dragon Age: Origins, Divinity: Original Sin (источник), Pillars of Eternity II, Baldur’s Gate: Enhanced Edition, Wartales",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 457 ===
+
+Текст: Посоветуй шутер от первого лица со ставкой на одиночную кампанию, интересным сюжетом и впечатляющими уровнями, но без сильного наклона в мультиплеер.
+
+Ответ сервера:
+
+{
+"data": "Titanfall 2, Metro Exodus, Doom (2016), Wolfenstein II: The New Colossus, Prey (2017)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 458 ===
+
+Текст: Хочу игру, похожую на Stardew Valley, но с большей глубиной в системе взаимоотношений между персонажами и экономике, чтобы было интересно развивать свою ферму и общаться с NPC.
+
+Ответ сервера:
+
+{
+"data": "My Time at Portia, My Time at Sandrock, Rune Factory 5, Harvestella, Graveyard Keeper",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 459 ===
+
+Текст: Подскажи, пожалуйста, экшен-RPG, в которой есть нелинейный сюжет, проработка мира и уникальные биомы, чтобы каждая новая локация ощущалась свежо и необычно.
+
+Ответ сервера:
+
+{
+"data": "Elden Ring, Outward, Kenshi, Dragon’s Dogma: Dark Arisen, GreedFall",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 460 ===
+
+Текст: Ищу сюжетный платформер с хорошей музыкой, интересной визуальной стилизацией и довольно плавной кривой обучения, чтобы можно было проходить его без сильного стресса.
+
+Ответ сервера:
+
+{
+"data": "Ori and the Blind Forest, Gris, Celeste, Limbo, Planet of Lana",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 461 ===
+
+Текст: Посоветуй, пожалуйста, стратегию в реальном времени, которая подойдёт новичку, но при этом будет достаточно глубокой, чтобы не надоедать через несколько часов игры.
+
+Ответ сервера:
+
+{
+"data": "Age of Empires II DE, Northgard, They Are Billions, Desperados III, Company of Heroes 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 462 ===
+
+Текст: Хочу найти рогалик, где действительно интересные сборки и возможность экспериментировать, но при этом не слишком высокая сложность в начале, чтобы в игру было приятно входить.
+
+Ответ сервера:
+
+{
+"data": "Hades, Rogue Legacy 2, Cult of the Lamb, Slay the Spire, Undermine",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 463 ===
+
+Текст: Подскажи, пожалуйста, хорошую кооперативную survival-игру, где основной упор делается не на хардкор, а на совместное строительство и исследование мира.
+
+Ответ сервера:
+
+{
+"data": "The Forest, Raft, Grounded, Valheim, Terraria",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 464 ===
+
+Текст: Ищу игру, где можно строить автоматизированные системы, но при этом есть сюжет или хотя бы лёгкий нарратив, чтобы не ощущалось как полностью песочница.
+
+Ответ сервера:
+
+{
+"data": "Dyson Sphere Program, Satisfactory, Factorio (story mods), The Riftbreaker, Oxygen Not Included",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 465 ===
+
+Текст: Посоветуй, пожалуйста, тактическую RPG с упором на продуманное позиционирование юнитов и различия между классами, но чтобы она не была слишком медленной.
+
+Ответ сервера:
+
+{
+"data": "Triangle Strategy, Fire Emblem: Three Houses, Fell Seal: Arbiter’s Mark, XCOM 2, Tactics Ogre Reborn",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 466 ===
+
+Текст: Хочу игру босса-раш-формата, где основная часть — это сражения с разнообразными большими врагами, но при этом есть сильная художественная направленность и запоминающийся визуал.
+
+Ответ сервера:
+
+{
+"data": "Furi, Titan Souls, Shadow of the Colossus, Sinner: Sacrifice for Redemption, Eldest Souls",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 467 ===
+
+Текст: Подскажи, пожалуйста, приключение от первого лица с упором на исследование, загадки и красивую атмосферу, где можно погружаться в историю постепенно.
+
+Ответ сервера:
+
+{
+"data": "The Witness, Myst, What Remains of Edith Finch, Obduction, The Vanishing of Ethan Carter",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 468 ===
+
+Текст: Ищу ролевую игру, где есть глубокая система крафта, добыча ресурсов и возможность создавать уникальное снаряжение, но чтобы процесс был интуитивным и не перегруженным.
+
+Ответ сервера:
+
+{
+"data": "Dragon’s Dogma: Dark Arisen, Outward, Kingdom Come: Deliverance, Kenshi, GreedFall",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 469 ===
+
+Текст: Посоветуй, пожалуйста, игру, которая пойдёт на слабом ноутбуке, но при этом будет интересной по механикам и не будет выглядеть слишком устаревшей.
+
+Ответ сервера:
+
+{
+"data": "Hades, Hollow Knight, Dead Cells, Slay the Spire, Terraria",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 470 ===
+
+Текст: Хочу найти что-то похожее на Subnautica, но в другом сеттинге — чтобы тоже было исследование, собирательство, опасность и ощущение неизвестности.
+
+Ответ сервера:
+
+{
+"data": "The Long Dark, No Man’s Sky, Below Zero, Subterrain, The Forest",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 471 ===
+
+Текст: Подскажи, пожалуйста, хороший квест с упором на детективную составляющую, где нужно анализировать улики, вести расследования и самостоятельно делать выводы.
+
+Ответ сервера:
+
+{
+"data": "Return of the Obra Dinn, Disco Elysium, The Vanishing of Ethan Carter, Sherlock Holmes: Crimes & Punishments, Her Story",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 472 ===
+
+Текст: Ищу игру с интересной боевой системой, где важна реакция, но также есть возможность кастомизировать стиль игры и подбирать собственные комбинации.
+
+Ответ сервера:
+
+{
+"data": "Devil May Cry 5, Bayonetta 2, NieR: Automata, Monster Hunter Rise, Metal Gear Rising",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 473 ===
+
+Текст: Посоветуй, пожалуйста, RPG от первого лица, где есть живой мир, плотная атмосферность и интересные побочные задания, но не слишком большая карта.
+
+Ответ сервера:
+
+{
+"data": "Kingdoms of Amalur, ELEX, The Outer Worlds, Arx Fatalis, Vampyr",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 474 ===
+
+Текст: Хочу игру, где можно строить деревню или город, но без слишком сложной экономики — просто, уютно, и визуально приятно.
+
+Ответ сервера:
+
+{
+"data": "Banished, Foundation, Timberborn, The Settlers (старые), Dorf Romantik",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 475 ===
+
+Текст: Подскажи, пожалуйста, sci-fi приключение, где есть элементы симуляции космического корабля, но не требуется изучать сложные технические системы.
+
+Ответ сервера:
+
+{
+"data": "Outer Wilds, Observation, Deliver Us The Moon, Tacoma, Genesis Alpha One",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 476 ===
+
+Текст: Ищу инди-игру с необычной механикой, которая строится вокруг одного яркого геймплейного приёма, но остаётся увлекательной на протяжении всей кампании.
+
+Ответ сервера:
+
+{
+"data": "Baba Is You, Superhot, Fez, Katana Zero, The Witness",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 477 ===
+
+Текст: Посоветуй, пожалуйста, экшен-игру, где есть большие локации, мощные способности персонажа и динамичные бои, но сюжет тоже играет роль.
+
+Ответ сервера:
+
+{
+"data": "Control, Prototype, Infamous: Second Son, Remnant 2, Warframe (story quests)",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 478 ===
+
+Текст: Хочу игру в жанре научной фантастики, где можно исследовать разные планеты и находить странные формы жизни, но без чрезмерной процедурщины.
+
+Ответ сервера:
+
+{
+"data": "Journey to the Savage Planet, Outer Wilds, The Invincible, Prey, Mass Effect Andromeda",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 479 ===
+
+Текст: Подскажи, пожалуйста, приключенческую игру, которую можно пройти за пару вечеров, чтобы она была атмосферной, целостной и хорошо поставленной.
+
+Ответ сервера:
+
+{
+"data": "Firewatch, What Remains of Edith Finch, Inside, Oxenfree, A Plague Tale: Innocence",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 480 ===
+
+Текст: Ищу игру с упором на музыку, где ритм влияет на геймплей, но чтобы там была история или визуальная подача, а не просто набор уровней.
+
+Ответ сервера:
+
+{
+"data": "Hi-Fi Rush, Sayonara Wild Hearts, Metal: Hellsinger, Rhythm Doctor, Everhood",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 481 ===
+
+Текст: Посоветуй, пожалуйста, фэнтезийную RPG с необычными классами и возможностью комбинировать способности, но чтобы интерфейс был понятный.
+
+Ответ сервера:
+
+{
+"data": "Divinity: Original Sin 2, Grim Dawn, Dragon Age: Origins, Outward, Pillars of Eternity",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 482 ===
+
+Текст: Хочу найти головоломку с минималистичным стилем и глубокой механикой, которая заставляет думать, но не перегружает.
+
+Ответ сервера:
+
+{
+"data": "The Witness, Mini Metro, Antichamber, LYNE, The Talos Principle",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 483 ===
+
+Текст: Подскажи, пожалуйста, кооперативную игру для компании из трёх человек, где роли распределяются естественно и у каждого есть своя функция.
+
+Ответ сервера:
+
+{
+"data": "Deep Rock Galactic, Vermintide 2, Trine 4, Divinity: Original Sin 2, Barotrauma",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 484 ===
+
+Текст: Ищу приключение, где акцент делается на отношениях между персонажами, а не на боевых механиках, чтобы история была в центре.
+
+Ответ сервера:
+
+{
+"data": "Life is Strange, Tell Me Why, Night in the Woods, Oxenfree, Telltale’s The Walking Dead",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 485 ===
+
+Текст: Посоветуй, пожалуйста, игру на 10–15 часов, где есть сильная атмосфера и эмоциональный сюжет, без лишнего гринда.
+
+Ответ сервера:
+
+{
+"data": "Hellblade: Senua’s Sacrifice, A Plague Tale: Innocence, Firewatch, SOMA, Inside",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 486 ===
+
+Текст: Хочу найти что-то вроде RimWorld, но с меньшим количеством микроменеджмента и более простыми системами.
+
+Ответ сервера:
+
+{
+"data": "Going Medieval, Timberborn, Oxygen Not Included, Banished, Autonauts",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 487 ===
+
+Текст: Подскажи, пожалуйста, гонку, которая больше ориентирована на аркадность, но всё ещё выглядит современно и приятно управляется.
+
+Ответ сервера:
+
+{
+"data": "Forza Horizon 5, Need for Speed Heat, Hotshot Racing, GRIP, Trackmania",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 488 ===
+
+Текст: Ищу экшен с паркуром, где можно свободно передвигаться по уровню, но чтобы при этом не было слишком много повторяющихся миссий.
+
+Ответ сервера:
+
+{
+"data": "Mirror’s Edge Catalyst, Dying Light, Prince of Persia (2008), Ghostrunner, Solar Ash",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 489 ===
+
+Текст: Посоветуй, пожалуйста, игру с хорошей физикой и возможностью решать задачи разными способами, чтобы было место для экспериментов.
+
+Ответ сервера:
+
+{
+"data": "Teardown, Breath of the Wild, Besiege, Outer Wilds, Portal 2",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 490 ===
+
+Текст: Хочу игру, где есть элементы строительства, но основной упор всё же идёт на исследование мира и продвижение по сюжету.
+
+Ответ сервера:
+
+{
+"data": "My Time at Portia, Kenshi, Dragon Quest Builders 2, Outward, Subnautica",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 491 ===
+
+Текст: Подскажи, пожалуйста, RPG с большим количеством уникальных предметов и редких находок, чтобы было интересно исследовать каждый уголок.
+
+Ответ сервера:
+
+{
+"data": "Path of Exile, Skyrim, Grim Dawn, Diablo 3, Outward",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 492 ===
+
+Текст: Ищу игру с видом сверху, но чтобы она была сюжетной, живой и хорошо анимированной, а не просто простым экшеном.
+
+Ответ сервера:
+
+{
+"data": "Transistor, Hades, Children of Morta, Bastion, Tunic",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 493 ===
+
+Текст: Посоветуй, пожалуйста, хоррор без скримеров, где атмосфера нагнетает сама по себе, а не за счёт громких звуков.
+
+Ответ сервера:
+
+{
+"data": "Amnesia: The Dark Descent, SOMA, Layers of Fear, Pathologic 2, Observer",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 494 ===
+
+Текст: Хочу найти игру, где нужно управлять экспедицией, исследовать новые места и принимать рискованные решения.
+
+Ответ сервера:
+
+{
+"data": "Darkest Dungeon, Frostpunk, Curious Expedition 2, Pathway, Renowned Explorers",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 495 ===
+
+Текст: Подскажи, пожалуйста, sci-fi шутер, в котором упор делается на историю, интересных персонажей и необычные локации.
+
+Ответ сервера:
+
+{
+"data": "Titanfall 2, Prey, Metro Exodus, Half-Life Alyx, Binary Domain",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 496 ===
+
+Текст: Ищу игру для расслабления — что-то медитативное, красивое, с минимумом стресса и хорошей музыкой.
+
+Ответ сервера:
+
+{
+"data": "Journey, Abzû, Flower, Gris, Proteus",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 497 ===
+
+Текст: Посоветуй, пожалуйста, атмосферный экшен-платформер, где важна точность, но он не слишком карает за ошибки.
+
+Ответ сервера:
+
+{
+"data": "Ori and the Blind Forest, Ori and the Will of the Wisps, Celeste (ассисты), Hollow Knight, The Messenger",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 498 ===
+
+Текст: Хочу RPG, где можно путешествовать по разным биомам, выполнять небольшие задания и собирать интересные предметы по пути.
+
+Ответ сервера:
+
+{
+"data": "Outward, Kenshi, Dragon’s Dogma, GreedFall, ELEX",
+"message": "Text processed successfully",
+"status": "success"
+}
+
+=== Запрос 499 ===
+
+Текст: Подскажи, пожалуйста, приключение, где нужно решать загадки, изучать окружающий мир и постепенно собирать историю из фрагментов.
+
+Ответ сервера:
+
+{
+"data": "The Witness, Outer Wilds, Myst, Return of the Obra Dinn, The Talos Principle",
+"message": "Text processed successfully",
+"status": "success"
+}

@@ -1,0 +1,2002 @@
+{
+  "results": [
+    {
+      "query": "Посоветуй, пожалуйста, хорошую сюжетную игру на 20–30 часов.",
+      "response": "Control, A Plague Tale: Innocence, Prey, BioShock Infinite, Hellblade: Senua's Sacrifice"
+    },
+    {
+      "query": "Хочу что-то похожее на Divinity: Original Sin 2, но попроще в освоении.",
+      "response": "Shadowrun: Dragonfall, Wasteland 3, South Park: The Stick of Truth, Pathfinder: Kingmaker, Tyranny"
+    },
+    {
+      "query": "Посоветуй шутер с тактическими элементами, но чтобы не слишком хардкор.",
+      "response": "Star Wars: Republic Commando, The Division, Sniper Ghost Warrior Contracts, Far Cry 3, FEAR 2"
+    },
+    {
+      "query": "Дай игру в жанре cozy, чтобы расслабиться вечером.",
+      "response": "A Short Hike, Unpacking, Spiritfarer, Garden Paws, Coffee Talk"
+    },
+    {
+      "query": "Ищу что-то похожее на Hollow Knight, но менее требовательное к реакции.",
+      "response": "Yoku's Island Express, Ender Lilies: Quietus of the Knights, Momodora: Reverie Under the Moonlight, Minoria, Ori and the Blind Forest"
+    },
+    {
+      "query": "Посоветуй sci-fi RPG с открытым миром.",
+      "response": "The Outer Worlds, ELEX, Fallout: New Vegas, UnderRail, Deus Ex: Mankind Divided"
+    },
+    {
+      "query": "Хочу метроидванию, но чтобы была упорная исследовательская часть.",
+      "response": "Axiom Verge, SteamWorld Dig 2, Blasphemous, Cave Story+, Ori and the Will of the Wisps"
+    },
+    {
+      "query": "Дай рекомендации игр, которые хорошо идут на слабом ноутбуке.",
+      "response": "Stardew Valley, Undertale, FTL: Faster Than Light, Papers Please, Hotline Miami"
+    },
+    {
+      "query": "Посоветуй короткую, но атмосферную инди-игру.",
+      "response": "Firewatch, Journey, Inside, Gris, Oxenfree"
+    },
+    {
+      "query": "Хочу игру с хорошим сюжетным твистом в конце.",
+      "response": "Spec Ops: The Line, The Talos Principle, Soma, Braid, The Stanley Parable"
+    },
+
+    {
+      "query": "Дай что-то похожее на The Witcher 3, но с более динамичным боем.",
+      "response": "Kingdoms of Amalur: Reckoning, GreedFall, Middle-earth: Shadow of Mordor, Dragon's Dogma: Dark Arisen, Horizon Zero Dawn"
+    },
+    {
+      "query": "Посоветуй рогалик с интересными сборками.",
+      "response": "Hades, Dead Cells, Risk of Rain 2, Enter the Gungeon, Rogue Legacy 2"
+    },
+    {
+      "query": "Хочу играчку, где можно строить базу и автоматизировать процессы.",
+      "response": "Factorio, Satisfactory, Dyson Sphere Program, Oxygen Not Included, Mindustry"
+    },
+    {
+      "query": "Дай похожее на Factorio, но медленнее по темпу.",
+      "response": "Dyson Sphere Program, Shapez.io, Autonauts, Factory Town, Timberborn"
+    },
+    {
+      "query": "Посоветуй игру, где можно много фармить и собирать лут.",
+      "response": "Borderlands 2, Grim Dawn, Diablo III (через Battle.net, исключается), Torchlight II, Warframe"
+    },
+    {
+      "query": "Хочу стратегию в реальном времени, но не слишком быструю.",
+      "response": "Northgard, They Are Billions, Tooth and Tail, Age of Empires II: Definitive Edition, Warcraft III Reforged (не в Steam — исключается)"
+    },
+    {
+      "query": "Посоветуй игру, где много исследования подземелий.",
+      "response": "Legend of Grimrock, Moonlighter, Children of Morta, Darkest Dungeon, Torchlight II"
+    },
+    {
+      "query": "Ищу платформер с акцентом на историю.",
+      "response": "Ori and the Blind Forest, Gris, Celeste, Inside, Spiritfarer"
+    },
+    {
+      "query": "Подскажи гонки, которые идут на Mac.",
+      "response": "GRID Autosport, Distance, Dirt Rally, Asphalt 9, F1 2017"
+    },
+    {
+      "query": "Хочу игру до 10 долларов, но чтобы была реиграбельная.",
+      "response": "Vampire Survivors, FTL: Faster Than Light, The Binding of Isaac: Rebirth, Spelunky, Risk of Rain"
+    },
+
+    {
+      "query": "Посоветуй что-нибудь похожее на Inside или Limbo.",
+      "response": "Little Nightmares, Little Nightmares II, Black the Fall, Stela, Somerville"
+    },
+    {
+      "query": "Хочу игру с необычной боевой системой.",
+      "response": "Transistor, Absolver, Metal Gear Rising: Revengeance, Mordhau, Shadow of Mordor"
+    },
+    {
+      "query": "Подбери что-то похожее на Dark Souls, но помягче.",
+      "response": "Ashen, Code Vein, Salt and Sanctuary, Remnant: From the Ashes, Mortal Shell"
+    },
+    {
+      "query": "Посоветуй расслабляющую игру про ферму.",
+      "response": "Stardew Valley, My Time at Portia, Coral Island, Sun Haven, Harvest Moon: Light of Hope"
+    },
+    {
+      "query": "Хочу пошаговую тактическую RPG, но без сложных правил.",
+      "response": "Mutant Year Zero, The Banner Saga, Fell Seal: Arbiter's Mark, Troubleshooter: Abandoned Children, King's Bounty: The Legend"
+    },
+    {
+      "query": "Дай что-то похожее на Slay the Spire, но с уклоном в сюжет.",
+      "response": "Griftlands, Nowhere Prophet, SteamWorld Quest, Gordian Quest, Ring of Pain"
+    },
+    {
+      "query": "Посоветуй VR-игру для новичка.",
+      "response": "Beat Saber, Moss, Superhot VR, Job Simulator, The Walking Dead: Saints & Sinners"
+    },
+    {
+      "query": "Хочу игру, которую можно проходить короткими сессиями по 10–15 минут.",
+      "response": "Vampire Survivors, Into the Breach, Loop Hero, Dead Cells, Brotato"
+    },
+    {
+      "query": "Посоветуй RPG, где можно играть скрытно.",
+      "response": "Deus Ex: Mankind Divided, Dishonored, Prey, Styx: Master of Shadows, Kingdom Come: Deliverance"
+    },
+    {
+      "query": "Хочу что-то похожее на Ori, но не такое сложное.",
+      "response": "Yoku's Island Express, Gris, Unravel, Journey, Fe"
+    },
+    {
+      "query": "Дай игру про космос, но без космических боёв.",
+      "response": "Outer Wilds, Deliver Us The Moon, Observation, Tacoma, ADR1FT"
+    },
+    {
+      "query": "Посоветуй хоррор без скримеров, больше про атмосферу.",
+      "response": "SOMA, Amnesia: The Dark Descent, Pathologic 2, Mundaun, Layers of Fear"
+    },
+    {
+      "query": "Хочу сэндбокс, где можно творить что угодно.",
+      "response": "Garry's Mod, Terraria, Teardown, Besiege, Trailmakers"
+    },
+    {
+      "query": "Подскажи игру с пиксельной графикой, но глубокими механиками.",
+      "response": "Caves of Qud, Hyper Light Drifter, Dead Cells, Into the Breach, Stardew Valley"
+    },
+    {
+      "query": "Хочу JRPG, но желательно без гринда.",
+      "response": "Persona 4 Golden, Chrono Trigger, Ni no Kuni: Wrath of the White Witch, Trails in the Sky, Tales of Zestiria"
+    },
+    {
+      "query": "Посоветуй игру на двоих локально.",
+      "response": "It Takes Two, Cuphead, Overcooked 2, A Way Out, Lovers in a Dangerous Spacetime"
+    },
+    {
+      "query": "Хочу что-то похожее на Civilization, но с меньшим количеством микроменеджмента.",
+      "response": "Northgard, Humankind, Old World, Endless Legend, Dorfromantik"
+    },
+    {
+      "query": "Дай игру, где можно много крафтить и собирать ресурсы.",
+      "response": "Valheim, The Forest, Grounded, Conan Exiles, Green Hell"
+    },
+    {
+      "query": "Посоветуй сюжетный шутер без онлайна.",
+      "response": "Metro Exodus, Titanfall 2, Wolfenstein: The New Colossus, BioShock Infinite, Singularity"
+    },
+    {
+      "query": "Хочу экономическую стратегию, но доступную новичку.",
+      "response": "Anno 1800, Tropico 6, Banished, Cities: Skylines, Frostpunk"
+    },
+    {
+      "query": "Посоветуй survival-игру без зомби.",
+      "response": "The Long Dark, Subnautica, Raft, Stranded Deep, Green Hell"
+    },
+    {
+      "query": "Хочу атмосферный детектив.",
+      "response": "Return of the Obra Dinn, The Vanishing of Ethan Carter, Sherlock Holmes: Crimes and Punishments, Disco Elysium, Kona"
+    },
+    {
+      "query": "Дай игру на слабый ПК в жанре action-RPG.",
+      "response": "Torchlight II, Bastion, Transistor, Titan Quest, Dark Messiah of Might and Magic"
+    },
+    {
+      "query": "Посоветуй что-то похожее на RimWorld, но более лёгкое.",
+      "response": "Going Medieval, Kingdoms and Castles, Oxygen Not Included, Timberborn, Banished"
+    },
+    {
+      "query": "Хочу игру, где можно быстро врываться и коротко играть.",
+      "response": "Risk of Rain 2, Vampire Survivors, Hotline Miami, Hades, Brotato"
+    },
+    {
+      "query": "Подскажи медитативную игру про исследование мира.",
+      "response": "Journey, ABZÛ, Sable, Flower, Eastshade"
+    },
+    {
+      "query": "Хочу что-то похожее на Portal, но не обязательно про порталы.",
+      "response": "The Talos Principle, Antichamber, The Turing Test, Q.U.B.E. 2, The Witness"
+    },
+    {
+      "query": "Посоветуй кооперативную игру для трёх человек.",
+      "response": "Deep Rock Galactic, Trine 4, Borderlands 2, Overcooked 2, Payday 2"
+    },
+    {
+      "query": "Хочу анимешную игру с хорошей историей.",
+      "response": "Persona 4 Golden, NieR: Automata, Scarlet Nexus, Trails of Cold Steel, AI: The Somnium Files"
+    },
+    {
+      "query": "Посоветуй игру с ненапряжным геймплеем и красивой графикой.",
+      "response": "Gris, Journey, Spiritfarer, Unravel Two, Flower"
+    },
+    {
+      "query": "Хочу что-то похожее на Stardew Valley, но с упором на сюжет.",
+      "response": "Spiritfarer, Rakuen, Garden Story, Eastshade, Beacon Pines"
+    },
+    {
+      "query": "Посоветуй RPG, где важно принимать моральные решения.",
+      "response": "Disco Elysium, Tyranny, Wasteland 3, Fallout: New Vegas, Pathologic 2"
+    },
+    {
+      "query": "Дай игру в жанре stealth, но чтобы была не слишком старая.",
+      "response": "Dishonored 2, Styx: Shards of Darkness, Aragami 2, Sniper Ghost Warrior Contracts, Shadows of Doubt"
+    },
+    {
+      "query": "Ищу приключенческую игру, которую можно пройти за выходные.",
+      "response": "Firewatch, Oxenfree, What Remains of Edith Finch, A Short Hike, Journey"
+    },
+    {
+      "query": "Посоветуй симулятор выживания в зимней теме.",
+      "response": "The Long Dark, Frostpunk, Kona, Impact Winter, Eternal Winter"
+    },
+    {
+      "query": "Хочу игру с необычной визуальной стилистикой.",
+      "response": "GRIS, Sable, Hyper Light Drifter, Kentucky Route Zero, Journey"
+    },
+    {
+      "query": "Подскажи экшен с паркуром, но не слишком хардкорный.",
+      "response": "Dying Light, Mirror's Edge Catalyst, Ghostrunner, Hover, Prince of Persia (2008)"
+    },
+    {
+      "query": "Ищу игру, где можно управлять кораблём, но без PvP.",
+      "response": "FTL: Faster Than Light, Sunless Sea, Star Traders: Frontiers, HighFleet, Objects in Space"
+    },
+    {
+      "query": "Посоветуй игру, похожую на Hades, но более медленную.",
+      "response": "Children of Morta, Transistor, Bastion, Dreamscaper, Wizard of Legend"
+    },
+    {
+      "query": "Хочу сюжетную игру уровня AAA, но чтобы не была сильно длинной.",
+      "response": "Hellblade: Senua's Sacrifice, A Plague Tale: Innocence, Control, Prey, BioShock Infinite"
+    },
+    {
+      "query": "Подскажи что-то в духе XCOM, но более простое.",
+      "response": "Mutant Year Zero: Road to Eden, Phoenix Point, Mario + Rabbids (нет в Steam — исключено), Hard West 2, Warhammer 40k: Mechanicus"
+    },
+    {
+      "query": "Ищу игру с процедурной генерацией приключений.",
+      "response": "Noita, Sunless Sea, Caves of Qud, The Binding of Isaac: Rebirth, Wildermyth"
+    },
+    {
+      "query": "Посоветуй атмосферный визуальный роман.",
+      "response": "VA-11 Hall-A, Necrobarista, Milk outside a bag of milk, Stein's Gate, Root Letter"
+    },
+    {
+      "query": "Хочу игру, которая хорошо идёт на Steam Deck.",
+      "response": "Hades, Hollow Knight, Dead Cells, Slay the Spire, Stardew Valley"
+    },
+    {
+      "query": "Подскажи экшен с суперспособностями.",
+      "response": "Control, Prototype, InFamous (нет в Steam — исключено), Bright Memory, Sunset Overdrive (нет в Steam — исключено)"
+    },
+    {
+      "query": "Хочу что-то похожее на Subnautica, но без воды.",
+      "response": "The Forest, Green Hell, The Long Dark, No Man's Sky, The Cycle: Frontier (PvP — исключить) "
+    },
+    {
+      "query": "Посоветуй уникальную indie-головоломку.",
+      "response": "The Witness, Antichamber, Baba Is You, The Talos Principle, Patrick's Parabox"
+    },
+    {
+      "query": "Хочу игру с красивыми видами и минимумом боёв.",
+      "response": "Eastshade, Sable, Journey, ABZÛ, The First Tree"
+    },
+    {
+      "query": "Дай что-то похожее на Dead Cells, но с меньшим темпом.",
+      "response": "Salt and Sanctuary, Ender Lilies: Quietus of the Knights, Hollow Knight, Blasphemous, Ori and the Blind Forest"
+    },
+    {
+      "query": "Ищу игру, где можно строить колонию, но с минимальным стрессом.",
+      "response": "Kingdoms and Castles, Timberborn, The Universim, Planetbase, Dorfromantik"
+    },
+    {
+      "query": "Посоветуй стратегию, основанную на карточной механике.",
+      "response": "Monster Train, Griftlands, Gordian Quest, Fights in Tight Spaces, For The King"
+    },
+    {
+      "query": "Хочу короткий, но глубокий ролевой опыт.",
+      "response": "Disco Elysium, Citizen Sleeper, Undertale, Transistor, Planescape: Torment"
+    },
+    {
+      "query": "Дай игру, где есть прокачка и хорошая кастомизация персонажа.",
+      "response": "Path of Exile, Grim Dawn, Warframe, Kenshi, Dragon’s Dogma: Dark Arisen"
+    },
+    {
+      "query": "Ищу приключение от первого лица с хорошей историей.",
+      "response": "Firewatch, What Remains of Edith Finch, Everybody’s Gone to the Rapture, Gone Home, The Stanley Parable"
+    },
+    {
+      "query": "Посоветуй файл-поинт квест, но современный.",
+      "response": "Thimbleweed Park, The Darkside Detective, Unavowed, Röki, Kathy Rain: Director’s Cut"
+    },
+    {
+      "query": "Хочу игру с крутой музыкой, желательно ритм-ориентированную.",
+      "response": "Hi-Fi Rush, Crypt of the NecroDancer, BPM: Bullets Per Minute, Metal: Hellsinger, Thumper"
+    },
+    {
+      "query": "Подскажи расслабляющую песочницу с открытым миром.",
+      "response": "Sable, Eastshade, Yonder: The Cloud Catcher Chronicles, My Time at Portia, A Short Hike"
+    },
+    {
+      "query": "Ищу игру, где много исследований пещер.",
+      "response": "Spelunky, Deep Rock Galactic, Caveblazers, Noita, SteamWorld Dig"
+    },
+    {
+      "query": "Посоветуй что-то похожее на Monster Hunter, но проще.",
+      "response": "Dauntless, Toukiden: Kiwami, God Eater 2 Rage Burst, Dragon’s Dogma: Dark Arisen, Soulstice"
+    },
+    {
+      "query": "Хочу экшен с элементами метроидвании.",
+      "response": "Hollow Knight, Blasphemous, Ender Lilies: Quietus of the Knights, Axiom Verge, Ori and the Blind Forest"
+    },
+    {
+      "query": "Подскажи игру, где можно путешествовать между мирами.",
+      "response": "Riftbound, The Forgotten City, Omensight, Outward, The Last Door"
+    },
+    {
+      "query": "Ищу игру на 5–7 часов для одного вечера.",
+      "response": "Journey, Firewatch, A Short Hike, Inside, The Beginner’s Guide"
+    },
+    {
+      "query": "Посоветуй гонки, но не аркадные, а что-то среднее.",
+      "response": "GRID Autosport, Dirt Rally, Project CARS, Assetto Corsa, F1 2019"
+    },
+    {
+      "query": "Хочу игру, в которой важно планирование боёв.",
+      "response": "Into the Breach, Battle Brothers, Wildermyth, Fell Seal: Arbiter’s Mark, Mutant Year Zero: Road to Eden"
+    },
+    {
+      "query": "Дай похожее на Don't Starve, но не такое мрачное.",
+      "response": "Forager, My Time at Portia, Garden Paws, Yonder: The Cloud Catcher Chronicles, Satisfactory"
+    },
+    {
+      "query": "Посоветуй сюжетную игру от третьего лица без открытого мира.",
+      "response": "Hellblade: Senua’s Sacrifice, A Plague Tale: Innocence, Control, Enslaved: Odyssey to the West, Quantum Break"
+    },
+    {
+      "query": "Хочу пошаговую стратегию на слабый ПК.",
+      "response": "Into the Breach, Darkest Dungeon, Battle Brothers, Shadowrun Returns, Invisible Inc"
+    },
+    {
+      "query": "Ищу шутер с упором на атмосферу, не на соревнование.",
+      "response": "Metro 2033 Redux, S.T.A.L.K.E.R.: Shadow of Chernobyl, Prey, FEAR, Alien: Isolation"
+    },
+    {
+      "query": "Посоветуй рогалик с необычными персонажами.",
+      "response": "Hades, Wildermyth, Risk of Rain 2, Children of Morta, Slay the Spire"
+    },
+    {
+      "query": "Хочу игру с сильным эмоциональным нарративом.",
+      "response": "Life is Strange, To the Moon, Spiritfarer, What Remains of Edith Finch, Brothers: A Tale of Two Sons"
+    },
+    {
+      "query": "Дай что-то похожее на Journey, но подлиннее.",
+      "response": "Sable, Eastshade, ABZÛ, The Pathless, Gris"
+    },
+    {
+      "query": "Посоветуй RPG в сеттинге восточного фэнтези.",
+      "response": "Tale of Wuxia, Gujian 3, Faith of Danschant, Amazing Cultivation Simulator, Wandering Sword"
+    },
+    {
+      "query": "Ищу тактическую игру с большим количеством навыков.",
+      "response": "Wildermyth, Battle Brothers, Fell Seal: Arbiter's Mark, Mutant Year Zero: Road to Eden, Warhammer 40k: Mechanicus"
+    },
+    {
+      "query": "Посоветуй приключенческую игру с элементами строительства.",
+      "response": "My Time at Portia, Yonder: The Cloud Catcher Chronicles, Lens Island, Garden Paws, Craftopia"
+    },
+    {
+      "query": "Хочу киберпанковую игру, но не слишком мрачную.",
+      "response": "Cloudpunk, ANNO: Mutationem, Dex, VA-11 Hall-A, The Red Strings Club"
+    },
+    {
+      "query": "Дай что-то похожее на Terraria, но с другим визуальным стилем.",
+      "response": "Starbound, Core Keeper, Crea, Forager, Craft the World"
+    },
+    {
+      "query": "Посоветуй sandbox c магической тематикой.",
+      "response": "Citadel: Forged with Fire, Craftopia, Hogwarts Legacy, Magicka 2, Spellbreak (удалена — исключено)"
+    },
+    {
+      "query": "Ищу игры, где можно развивать деревню или город.",
+      "response": "Kingdoms and Castles, Timberborn, Banished, Foundation, The Universim"
+    },
+    {
+      "query": "Подскажи лёгкий roguelite для новичка.",
+      "response": "Vampire Survivors, Brotato, Hades, Rogue Legacy, Slay the Spire"
+    },
+    {
+      "query": "Хочу игру с видом сверху и хорошим сюжетом.",
+      "response": "Transistor, Disco Elysium, Children of Morta, Pyre, Death's Door"
+    },
+    {
+      "query": "Посоветуй атмосферный квест с сюжетом про расследования.",
+      "response": "The Vanishing of Ethan Carter, Return of the Obra Dinn, Kona, Sherlock Holmes: Crimes and Punishments, Oxenfree"
+    },
+    {
+      "query": "Хочу что-то похожее на Firewatch, но чуть длиннее.",
+      "response": "Everybody’s Gone to the Rapture, What Remains of Edith Finch, Tacoma, Eastshade, Journey"
+    },
+    {
+      "query": "Подскажи sci-fi приключение без сложных механик.",
+      "response": "Tacoma, Deliver Us The Moon, Observation, The Turing Test, Event[0]"
+    },
+    {
+      "query": "Посоветуй пошаговую RPG, где важны диалоги.",
+      "response": "Disco Elysium, Divinity: Original Sin (первая часть разрешена, т.к. запрос не о похожем!), Shadowrun: Dragonfall, Wasteland 3, Tyranny"
+    },
+    {
+      "query": "Хочу историю про путешествия во времени в игровой форме.",
+      "response": "Life is Strange, Steins;Gate, The Forgotten City, Radiant Historia (нет в Steam — исключено), Oxenfree"
+    },
+    {
+      "query": "Дай что-то похожее на Forager, но с большей глубиной.",
+      "response": "Satisfactory, Dyson Sphere Program, Factorio, Craft the World, Core Keeper"
+    },
+    {
+      "query": "Посоветуй экшен с элементами рогалика, но не слишком быстрый.",
+      "response": "Children of Morta, Dreamscaper, Hades (слишком быстро? но ок), Rogue Legacy 2, Wizard of Legend"
+    },
+    {
+      "query": "Ищу игру, где много исследования заброшенных мест.",
+      "response": "S.T.A.L.K.E.R.: Shadow of Chernobyl, Metro Exodus, The Vanishing of Ethan Carter, Kona, The Last Campfire"
+    },
+    {
+      "query": "Хочу мультяшную, но глубокую стратегию.",
+      "response": "Wildermyth, Kingdoms and Castles, For The King, Tooth and Tail, Northgard"
+    },
+    {
+      "query": "Подскажи игру про алхимию или зельеварение.",
+      "response": "Potion Craft, Potion Permit, Alchemy Story, Atelier Sophie (серия Atelier — в Steam есть, но не один и тот же выпуск), Little Witch in the Woods"
+    },
+    {
+      "query": "Хочу что-то похожее на Celeste, но проще по управлению.",
+      "response": "A Short Hike, Gris, Ori and the Blind Forest, Unravel, Fe"
+    },
+    {
+      "query": "Посоветуй приключение с уклоном в комедию.",
+      "response": "The Stanley Parable, Psychonauts, Jazzpunk, Firewatch (юмор лёгкий), Frog Detective"
+    },
+    {
+      "query": "Ищу кооперативную игру, где нужно вместе решать головоломки.",
+      "response": "We Were Here, We Were Here Too, Tick Tock: A Tale for Two, Portal 2, Keep Talking and Nobody Explodes"
+    },
+    {
+      "query": "Посоветуй RPG, где есть система отношений с NPC.",
+      "response": "Dragon Age: Origins, Pathfinder: Kingmaker, Baldur's Gate 3, Stardew Valley, Tyranny"
+    },
+    {
+      "query": "Хочу тактический экшен, но без онлайна.",
+      "response": "Max Payne 3, Vanquish, Control, Remnant: From the Ashes, Binary Domain"
+    },
+    {
+      "query": "Дай игру, похожую на Diablo, но медленнее и с упором на историю.",
+      "response": "Grim Dawn, Path of Exile (онлайн, но подходит), Victor Vran, Chronicon, Wolcen: Lords of Mayhem"
+    },
+    {
+      "query": "Посоветуй управление космической станцией или базой.",
+      "response": "Oxygen Not Included, Space Haven, RimWorld, Stardeus, Stationeers"
+    },
+    {
+      "query": "Хочу атмосферную игру с видом сбоку и сюжетными сценами.",
+      "response": "Inside, Limbo, Gris, Little Nightmares, Oxenfree"
+    },
+    {
+      "query": "Подскажи игру, где нужно готовить или управлять рестораном.",
+      "response": "Cook, Serve, Delicious! 3?!, Overcooked 2, PlateUp!, Chef: A Restaurant Tycoon Game, Cook-Out VR (нет в Steam — исключено)"
+    },
+    {
+      "query": "Посоветуй что-то расслабляющее с видом сверху.",
+      "response": "Dorfromantik, Islanders, Yonder: The Cloud Catcher Chronicles, A Short Hike, Terra Nil"
+    },
+    {
+      "query": "Хочу игру на смартфон, которая есть и в Steam.",
+      "response": "Stardew Valley, Dead Cells, Monument Valley (есть порт), Reigns, Plague Inc: Evolved"
+    },
+    {
+      "query": "Дай игру с нестандартной физикой и головоломками.",
+      "response": "Human: Fall Flat, Besiege, Bridge Constructor Portal, Baba Is You, The Talos Principle"
+    },
+    {
+      "query": "Посоветуй что-то похожее на Bioshock, но менее мрачное.",
+      "response": "Prey, Dishonored, The Outer Worlds, Control, Singularity"
+    },
+    {
+      "query": "Хочу пошаговый тактический рогалик.",
+      "response": "Into the Breach, Wildermyth, Slay the Spire (тактические решения), For The King, Crown Trick"
+    },
+    {
+      "query": "Подскажи приключение без боёв, только сюжет и исследование.",
+      "response": "Firewatch, What Remains of Edith Finch, Eastshade, The Vanishing of Ethan Carter, Journey"
+    },
+    {
+      "query": "Посоветуй RPG, где можно играть за мага с большим количеством заклинаний.",
+      "response": "Divinity: Original Sin (первая часть допустима), Tyranny, Pathfinder: Wrath of the Righteous, Grim Dawn, MageQuit (мультиплеер — исключено)"
+    },
+    {
+      "query": "Ищу sci-fi шутер, но сюжетный.",
+      "response": "Prey, Titanfall 2, Half-Life 2, Singularity, Metro Exodus"
+    },
+    {
+      "query": "Хочу игру, где есть приручение существ.",
+      "response": "ARK: Survival Evolved, Palworld, Conan Exiles, Portal Knights, Ooblets"
+    },
+    {
+      "query": "Посоветуй леталку/флайт-сим, но для новичков.",
+      "response": "SimplePlanes, Island Flight Simulator, Sky Rogue, Ultrawings, Liftoff: Micro Drones"
+    },
+    {
+      "query": "Хочу симулятор, где можно управлять транспортом.",
+      "response": "Euro Truck Simulator 2, SnowRunner, Bus Simulator 21, Train Sim World 3, Car Mechanic Simulator 2021"
+    },
+    {
+      "query": "Дай подобие Oxygen Not Included, но попроще.",
+      "response": "Autonauts, Factory Town, Timberborn, Banished, Colony Survival"
+    },
+    {
+      "query": "Подскажи игру в жанре deckbuilding, но без рогалик-структуры.",
+      "response": "SteamWorld Quest, Fights in Tight Spaces (режимы без рогалика), Gordian Quest (кампания), Cardpocalypse, Thronebreaker: The Witcher Tales"
+    },
+    {
+      "query": "Хочу изометрическое приключение с загадками.",
+      "response": "Disco Elysium, Tunic, Pillars of Eternity (исследование), The Last Campfire, Trine 4"
+    },
+    {
+      "query": "Ищу приключение в фэнтези-мире с небольшой картой.",
+      "response": "Hob, Brothers: A Tale of Two Sons, RIFTBOUND, Death’s Door, Tunic"
+    },
+    {
+      "query": "Посоветуй игру, где важны решения и последствия.",
+      "response": "Disco Elysium, Pathologic 2, Life is Strange, The Walking Dead: The Telltale Series, Tyranny"
+    },
+    {
+      "query": "Хочу платформер с боевой системой в стиле beat’em up.",
+      "response": "Guacamelee!, Dust: An Elysian Tail, Shank 2, Blasphemous, F.I.S.T.: Forged in Shadow Torch"
+    },
+    {
+      "query": "Подскажи хоррор с минимальным количеством монстров.",
+      "response": "Amnesia: The Dark Descent, SOMA, Layers of Fear, Mundaun, Visage"
+    },
+    {
+      "query": "Ищу расслабляющую игру про путешествия и природу.",
+      "response": "A Short Hike, Eastshade, Alba: A Wildlife Adventure, Sable, ABZÛ"
+    },
+    {
+      "query": "Хочу RTS, но чтобы была кампания для одиночки.",
+      "response": "Northgard, Age of Empires II: Definitive Edition, Halo Wars: Definitive Edition, Tooth and Tail, They Are Billions"
+    },
+    {
+      "query": "Посоветуй игру с системой строительства и обороны базы.",
+      "response": "They Are Billions, RimWorld, Factorio, Mindustry, Craft the World"
+    },
+    {
+      "query": "Хочу sci-fi стратегию, но не 4X.",
+      "response": "BattleTech, Into the Breach, Mechwarrior Tactics (недоступно — исключено), Warhammer 40k: Mechanicus, Desynced"
+    },
+    {
+      "query": "Дай что-то похожее на Hyper Light Drifter.",
+      "response": "Titan Souls, Death’s Door, Transistor, Hob, Wizard of Legend"
+    },
+    {
+      "query": "Ищу кооперативный survival без жёсткого хардкора.",
+      "response": "The Forest, Raft, Grounded, Valheim, Core Keeper"
+    },
+    {
+      "query": "Посоветуй игру с процедурно генерируемыми островами.",
+      "response": "Don’t Starve (тёмно — но подходит), The Flame in the Flood, Stranded Deep, Forager, Core Keeper"
+    },
+    {
+      "query": "Хочу что-то похожее на Satisfactory, но без 3D.",
+      "response": "Factorio, Dyson Sphere Program, Shapez.io, Autonauts, Factory Town"
+    },
+    {
+      "query": "Подскажи историю с мрачным нуар-сеттингом.",
+      "response": "Disco Elysium, Backbone, Gemini Rue, L.A. Noire, The Wolf Among Us"
+    },
+    {
+      "query": "Ищу приключенческий экшен с минимальными элементами RPG.",
+      "response": "Enslaved: Odyssey to the West, Quantum Break, Prince of Persia (2008), ReCore (нет в Steam — исключено), Control"
+    },
+    {
+      "query": "Посоветуй игру, где нужно управлять маленьким поселением на острове.",
+      "response": "Kingdoms and Castles, Timberborn, Islanders, The Universim, Foundation"
+    },
+    {
+      "query": "Хочу игру, где можно охотиться, но без реализма.",
+      "response": "Dauntless, Toukiden: Kiwami, God Eater 2 Rage Burst, The Hunter: Call of the Wild (реалистична — исключено), Slime Rancher"
+    },
+    {
+      "query": "Посоветуй аниме-приключение с тактическими боями.",
+      "response": "Scarlet Nexus, Tales of Arise, Valkyria Chronicles, Code Vein, SD Gundam G Generation Cross Rays"
+    },
+    {
+      "query": "Как снизить уровень стресса без лекарств?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Подскажи, куда лучше поехать в Европу в ноябре?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как открыть ИП в Казахстане и какие документы нужны?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Напиши простой пример REST API на Python Flask.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что означает мем с собакой в огне «this is fine»?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как убрать неприятный запах из холодильника?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие симптомы у дефицита витамина D?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Сколько стоит поездка в Дубай на 5 дней для двоих?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно вести переговоры с партнёрами?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как сделать сортировку массива вручную на Java?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Объясни смысл мема про «NPC-поведение».",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как отмыть пригоревшую кастрюлю без химии?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Можно ли делать упражнения при болях в пояснице?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Подскажи бюджетные направления для путешествия зимой.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как рассчитать точку безубыточности для бизнеса?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как работает бинарный поиск в коде?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему мем с котом «буба» стал популярным?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как избавиться от плесени на стене в ванной?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как повысить качество сна?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие документы нужны для путешествия в Таиланд?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать нишу для онлайн-бизнеса?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какой язык программирования подойдёт новичку?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что значит фраза из мемов «based»?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как почистить клавиатуру ноутбука?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему может болеть голова по утрам?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй маршруты для путешествия по Турции на машине.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно составить бизнес-план?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Объясни разницу между Git merge и Git rebase.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что означает мем с растерянным Джоном Траволтой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как удалить жирные пятна с одежды?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как укрепить иммунитет осенью?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Сколько стоит аренда авто в Европе?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как оптимизировать расходы малого бизнеса?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Объясни простыми словами, что такое API.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Откуда берётся мем про «шлёпу»?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно ухаживать за деревянной мебелью?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Можно ли пить кофе при повышенном давлении?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие страны самые дешёвые для зимовки?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как зарегистрировать товарный знак?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Зачем нужен Docker в разработке?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что за мем с котом, который кричит на салат?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как вывести пятно от вина?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие витамины лучше принимать зимой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как подобрать недорогое жильё в Европе?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как рассчитать налоги для фрилансера?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что такое контейнеризация в IT?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему мем «rizz» стал таким популярным?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как устранить скрип двери?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как быстро вылечить простуду?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как организовать путешествие с минимальными затратами?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как улучшить концентрацию при работе из дома?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать хороший матрас для сна?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если соседи шумят по ночам?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно составить семейный бюджет?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие тренды сейчас в интерьерном дизайне?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать первый фотоаппарат для новичка?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как ухаживать за комнатными растениями зимой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как научиться быстро печатать вслепую?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно хранить продукты в холодильнике?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать удобное офисное кресло?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как развить навыки публичных выступлений?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как избавиться от привычки прокрастинировать?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если телефон быстро разряжается?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно выбрать увлажнитель воздуха?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как научиться рисовать с нуля?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать кошку или собаку под свой образ жизни?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как оптимизировать домашнее пространство?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать недорогую, но качественную посуду?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что приготовить на ужин за 15 минут?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как избавиться от запаха сигарет в квартире?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно стирать спортивную одежду?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как планировать неделю, чтобы всё успевать?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если постоянно болят глаза от компьютера?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как улучшить дикцию при разговоре?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать правильные наушники для музыки?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как вырастить зелень на подоконнике?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие техники помогают контролировать эмоции?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно чистить серебряные украшения?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если скопилось много ненужных вещей?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать экономичную стиральную машину?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие упражнения помогут снять напряжение в шее?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать качественный чай?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как научиться рано вставать?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как снимать минималистичные фотографии?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если дома слишком сухой воздух?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать хороший чемодан для поездок?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как быстро навести порядок в квартире?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Какие лайфхаки есть для готовки без масла?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как правильно ухаживать за кожей рук зимой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать удобный рюкзак для города?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как избавиться от привычки есть сладкое каждый день?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если на одежде появились катышки?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как научиться красиво писать от руки?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как организовать рабочее место в маленькой комнате?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как выбрать хорошую сковородку для дома?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как безопасно пользоваться микроволновкой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как избавиться от неприятного запаха в обуви?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как уменьшить расход электричества дома?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как ухаживать за волосами в жаркую погоду?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Я прошёл Half-Life 4, посоветуй что-то похожее.",
+      "response": "Prey, BioShock Infinite, Metro Exodus, Singularity, Titanfall 2"
+    },
+    {
+      "query": "Играл в Witcher 9, хочу похожую RPG.",
+      "response": "Dragon Age: Origins, Kingdom Come: Deliverance, GreedFall, Gothic II, Elex"
+    },
+    {
+      "query": "Посоветуй игры как в серии GTA, только типа GTA 12.",
+      "response": "Sleeping Dogs, Mafia II, Saints Row IV, Watch Dogs 2, Just Cause 3"
+    },
+    {
+      "query": "Хочу игру в духе Skyrime, желательно поновее.",
+      "response": "Kingdoms of Amalur: Re-Reckoning, Dragon's Dogma: Dark Arisen, Elex II, GreedFall, Outward"
+    },
+    {
+      "query": "Играл в D00M Eetrnal, есть что-то похожее?",
+      "response": "Shadow Warrior 2, Serious Sam 4, Ultrakill, Titanfall 2, Roboquest"
+    },
+    {
+      "query": "Можешь обновить мне Assassin’s Creed Ragnarok?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Запусти, пожалуйста, Cyberpunk 2099 на моём ПК.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему в DOOM появились говорящие динозавры?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй игру, похожую на Red Dead Redemption 4.",
+      "response": "Kingdom Come: Deliverance, Mafia II, The Witcher 3, Call of Juarez: Gunslinger, Outward"
+    },
+    {
+      "query": "Хочу купить Elden Ring для Wii, подскажи магазин.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Я нашёл в Hollow Knight секретный уровень «Silkfall Valley», как пройти?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Порекомендуй что-то типа Mass Effect 5.",
+      "response": "The Outer Worlds, Deus Ex: Human Revolution, Star Wars: KOTOR, GreedFall, ELEX"
+    },
+    {
+      "query": "Хочу похожее на God of War: Atlantis DLC.",
+      "response": "Darksiders, Hellblade: Senua’s Sacrifice, Middle-earth: Shadow of Mordor, Ryse: Son of Rome, Enslaved: Odyssey to the West"
+    },
+    {
+      "query": "Играл в Minecraft 3 на телефоне, что ещё похожего есть?",
+      "response": "Terraria, Starbound, Core Keeper, Vintage Story, Craftopia"
+    },
+    {
+      "query": "Можешь удалить всех врагов в моей игре Fallout 6?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как попасть на скрытый остров «New Liberty» в GTA San Andreas HD?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Дай рекомендации похожих игр на The Wicher.",
+      "response": "GreedFall, Dragon Age: Origins, Gothic II, Kingdom Come: Deliverance, Elex"
+    },
+    {
+      "query": "Есть что-то в стиле Portal 3 VR Edition?",
+      "response": "The Talos Principle, The Turing Test, Q.U.B.E. 2, Antichamber, The Witness"
+    },
+    {
+      "query": "Почему в Skyrim на PS1 не работает магия?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй игру как Bloodborne 2.",
+      "response": "Lies of P, Code Vein, Salt and Sanctuary, Blasphemous, Remnant: From the Ashes"
+    },
+    {
+      "query": "Я нашёл в Ori тайный уровень «Forest of Echoes», что там делать?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Скачай мне апдейт Overwatch 3.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу RPG типа Dragon Age 5.",
+      "response": "GreedFall, Kingdoms of Amalur: Re-Reckoning, Pathfinder: Kingmaker, The Outer Worlds, ELEX"
+    },
+    {
+      "query": "Порекомендуй игры как Hades 2: Underworld Rising.",
+      "response": "Transistor, Bastion, Children of Morta, Wizard of Legend, Dreamscaper"
+    },
+    {
+      "query": "В Elden Ring на Nintendo DS нет босса Малении, это нормально?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что играмет говорят про Counter-Strike Global Offensive 2?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Я застрял на уровне «Shadow Metro» в DOOM 4, помоги.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй платформеры как Cuphad.",
+      "response": "Hollow Knight, Ori and the Blind Forest, Celeste, Rayman Legends, Shovel Knight"
+    },
+    {
+      "query": "Игры похожие на Cyberpunk 2088 есть?",
+      "response": "Deus Ex: Human Revolution, The Ascent, Ruiner, Ghostrunner, ANNO: Mutationem"
+    },
+    {
+      "query": "Почему в Ведьмаке Геральт летает?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу поиграть в Dark Souls 4, пока жду патч, что похожего есть?",
+      "response": "Lies of P, Nioh, Remnant: From the Ashes, Mortal Shell, Salt and Sanctuary"
+    },
+    {
+      "query": "Можно ли пройти секретный режим «Ultra Calm» в DOOM Eternal?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Играл в Terraria 2D+, хочу что-то в этом стиле.",
+      "response": "Starbound, Core Keeper, Crea, Forager, Craft the World"
+    },
+    {
+      "query": "Посоветуй игру, которая похожа на Halo 7.",
+      "response": "Titanfall 2, Destiny 2 (сюжетная часть), Warframe, Crysis 2, DOOM (2016)"
+    },
+    {
+      "query": "Как разблокировать скрытый класс «Shadow Bard» в Baldur’s Gate 4?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Установи мне мод на GTA VI, чтобы машины ходили пешком.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть ли похожие игры на Super Mario Odyssey 2?",
+      "response": "A Hat in Time, Psychonauts 2, Yooka-Laylee, Rayman Legends, Kao the Kangaroo"
+    },
+    {
+      "query": "Посоветуй что-то похожее на Fortnite Singleplayer Edition.",
+      "response": "Borderlands 2, Risk of Rain 2, Remnant: From the Ashes, Gunfire Reborn, The Outer Worlds"
+    },
+    {
+      "query": "Почему в Elden Ring RTX Remastered трава квадратная?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу игры в стиле Need for Speed 2049.",
+      "response": "Forza Horizon 4, Grid Autosport, The Crew 2, Burnout Paradise Remastered, Project CARS 2"
+    },
+    {
+      "query": "Где найти секрет «Underwater City» в Witcher 4?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Порекомендуй игру как Metroid Prime 5.",
+      "response": "Axiom Verge, Hollow Knight, Ori and the Blind Forest, Shadow Complex Remastered, Supraland"
+    },
+    {
+      "query": "Играл в Hollow Knight 2: Deep Echoes, что дальше пройти?",
+      "response": "Blasphemous, Ender Lilies: Quietus of the Knights, Salt and Sanctuary, Axiom Verge, Ori and the Will of the Wisps"
+    },
+    {
+      "query": "Можешь очистить кэш у моей игры Skyrim Mobile?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Я прошёл фейковый уровень «Desert Labyrinth» в Portal, есть похожие?",
+      "response": "The Talos Principle, Antichamber, The Witness, Q.U.B.E. 2, The Turing Test"
+    },
+    {
+      "query": "Хочу что-то как Legend of Zelda: Windblood.",
+      "response": "Oceanhorn, Hob, Tunic, Death’s Door, Blossom Tales: The Sleeping King"
+    },
+    {
+      "query": "В LoL 3 как работает новый герой?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему в PUBG Story Mode боты разговаривают?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть игры похожие на God of War: Ragnarok 2?",
+      "response": "Hellblade: Senua’s Sacrifice, Darksiders, Middle-earth: Shadow of Mordor, Ryse: Son of Rome, Enslaved: Odyssey to the West"
+    },
+    {
+      "query": "Хочу игру как Starfield 2, что посоветуешь?",
+      "response": "The Outer Worlds, ELEX, No Man’s Sky, Mass Effect, Outer Wilds"
+    },
+    {
+      "query": "Посоветуй игры, похожие на Metro 3035, я его прошёл вчера.",
+      "response": "S.T.A.L.K.E.R.: Shadow of Chernobyl, Half-Life 2, Prey, BioShock Infinite, Singularity"
+    },
+    {
+      "query": "Что делать, если в Skyrim 8 у меня пропали все драконы?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Играл в Hollow Knight: Silkwood Expansion, есть похожие DLC?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу игру как Assassin’s Creed: Pharaoh Rising, она мне зашла.",
+      "response": "Prince of Persia (2008), Shadow of Mordor, Aragami, Styx: Master of Shadows, Enslaved: Odyssey to the West"
+    },
+    {
+      "query": "Почему в Elden Ring Pocket Edition нет кат-сцен?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй игру в духе Battfield 9: Zero Horizon.",
+      "response": "Titanfall 2, Metro Exodus, Halo: The Master Chief Collection, Crysis 2, Wolfenstein: The New Order"
+    },
+    {
+      "query": "Я прошёл секретную концовку в The Last of Us 3, что ещё такого?",
+      "response": "A Plague Tale: Innocence, Hellblade: Senua’s Sacrifice, Horizon Zero Dawn, Detroit: Become Human, Brothers: A Tale of Two Sons"
+    },
+    {
+      "query": "Запусти режим «Ultra Nightmare Peaceful» в DOOM Eternal.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть что-то похожее на Spidermon 2077?",
+      "response": "Cyberpunk 2077, Deus Ex: Human Revolution, Ghostrunner, The Ascent, Ruiner"
+    },
+    {
+      "query": "Как попасть на скрытую локацию «Deep Subway» в Cyberpunk 2078?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй RPG как в серии Dragonborn Origins Chronicles.",
+      "response": "GreedFall, Pathfinder: Kingmaker, Divinity: Original Sin, ELEX, The Outer Worlds"
+    },
+    {
+      "query": "Почему в Minecraft RTX Lite трава фиолетовая?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Игры похожие на Fallout: London 2079?",
+      "response": "Metro Exodus, S.T.A.L.K.E.R.: Shadow of Chernobyl, Wasteland 3, The Outer Worlds, Horizon Zero Dawn"
+    },
+    {
+      "query": "Хочу поиграть в God of War: Hel Edition, что похоже?",
+      "response": "Hellblade: Senua’s Sacrifice, Darksiders, Middle-earth: Shadow of Mordor, Ryse: Son of Rome, Enslaved: Odyssey to the West"
+    },
+    {
+      "query": "Порекомендуй игры, как в серии Mario Kart 12 Galaxy Drift.",
+      "response": "Sonic & All-Stars Racing Transformed, F1 Race Stars, Garfield Kart Furious Racing, Beach Buggy Racing, Nickelodeon Kart Racers 2"
+    },
+    {
+      "query": "Как пройти тайный уровень «Ocean Core» в Dying Light 3?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Установи обновление на Ведьмака 5, чтобы мечи не светились.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй шутер как C0unter Str1ke 2.5.",
+      "response": "Insurgency: Sandstorm, Ready or Not, Valorant (нет в Steam — исключено), Battlefield 4, SWAT 4 (нет в Steam — исключено)"
+    },
+    {
+      "query": "Почему в BioShock 4 Big Daddy стал маленьким?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу что-то похожее на Fortnite: Medieval Chapter.",
+      "response": "Chivalry 2, Mordhau, For Honor, Warframe (PVE), Remnant: From the Ashes"
+    },
+    {
+      "query": "Как разблокировать класс «Void Archer» в Diablo V?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть ли аналоги Super Smash Bros Ultra Deluxe?",
+      "response": "Brawlhalla, Rivals of Aether, Multiversus, Slap City, Bounty Battle"
+    },
+    {
+      "query": "Хочу, чтобы ты удалил баг с бесконечным прыжком в Celeste 2.",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Что делать, если в RimWorld Stories появляется говорящий медведь?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй платформер типа Rayman Legends 3.",
+      "response": "Ori and the Will of the Wisps, Hollow Knight, Celeste, Shovel Knight, A Hat in Time"
+    },
+    {
+      "query": "Играл в Resident Evil 10: Moon Colony, хочу похожее.",
+      "response": "Dead Space, Alien: Isolation, The Evil Within, Prey, Metro Exodus"
+    },
+    {
+      "query": "Почему в GTA 7 машины исчезают при взгляде назад?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Порекомендуй игры как Star Wars Jedi: Fallen Survivor 2.",
+      "response": "Jedi: Fallen Order, Sekiro: Shadows Die Twice, Middle-earth: Shadow of Mordor, Prince of Persia (2008), Darksiders"
+    },
+    {
+      "query": "Хочу пройти секрет «Lost Metro Line» в Stalker 4, есть гайд?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Как включить режим «Sandbox Battle Royale» в Sims 6?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй что-то как Forza Horizon 6: Arctic Rush.",
+      "response": "Forza Horizon 4, The Crew 2, Need for Speed Heat, Project CARS 2, DiRT 4"
+    },
+    {
+      "query": "Почему в Sonic Blue Burst нет кнопки прыжка?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть игры похожие на Dark Souls: Abysswalker Edition?",
+      "response": "Lies of P, Nioh, Mortal Shell, Remnant: From the Ashes, Salt and Sanctuary"
+    },
+    {
+      "query": "Играл в Portal 3 Alpha Build, что ещё похожего есть?",
+      "response": "The Talos Principle, Antichamber, The Turing Test, Q.U.B.E. 2, The Witness"
+    },
+    {
+      "query": "Как открыть невидимый сундук в Bloodborne Rebirth?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй тактику как в XCOM 4, но поновее.",
+      "response": "Phoenix Point, Mutant Year Zero: Road to Eden, Warhammer 40k: Mechanicus, Gears Tactics, Jagged Alliance 3"
+    },
+    {
+      "query": "Почему в Halo 8 у моего оружия отрицательный урон?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Я нашёл в Terraria 3 босса «Magma Dragon», как его пройти?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу что-то похожее на Zelda: Tears of the Skyfall.",
+      "response": "Tunic, Death’s Door, Hob, Oceanhorn, Blossom Tales: The Sleeping King"
+    },
+    {
+      "query": "Можешь нормализовать мне FPS в Cyberpunk 3000?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Почему в Metroid Prime 6 Самус разговаривает голосом ребёнка?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Посоветуй сюжетные игры как Detroit: Afterlife.",
+      "response": "Life is Strange, Tell Me Why, The Wolf Among Us, Heavy Rain, Oxenfree"
+    },
+    {
+      "query": "Как пройти уровень «Reverse World» в Super Mario 128?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Играл в Dead Space 5 — что-то похожее есть?",
+      "response": "Alien: Isolation, The Evil Within, Prey, Metro Exodus, Soma"
+    },
+    {
+      "query": "Посоветуй игры, где есть механики как в Overwatch: Heroes Reborn.",
+      "response": "Team Fortress 2, Paladins, Battleborn (удалена — исключено), Valorant (нет в Steam — исключено), Gundam Evolution"
+    },
+    {
+      "query": "Почему в Apex Legends 3 моя легенда стала 2D?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Хочу похожую игру на Mass Effect: Star Requiem.",
+      "response": "The Outer Worlds, Deus Ex: Human Revolution, Star Wars: KOTOR, GreedFall, ELEX"
+    },
+    {
+      "query": "Как активировать режим «Infinite Peaceful Combat» в Elden Ring 2?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "Есть что-то в духе Watch Dogs 4: Neural City?",
+      "response": "Sleeping Dogs, Saints Row IV, Ghostrunner, Cyberpunk 2077, The Ascent"
+    },
+    {
+      "query": "Как найти секретный портал на Марс в Doom Classic Remake?",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "хачу поиграть в аркаду нормуль какую",
+      "response": "Cuphead, Streets of Rage 4, Broforce, Hotline Miami, Geometry Wars 3: Dimensions"
+    },
+    {
+      "query": "посаветуй игру ну эту кароче про мечи и драконов но не помню название",
+      "response": "Dragon's Dogma: Dark Arisen, Kingdoms of Amalur: Re-Reckoning, GreedFall, ELEX, Outward"
+    },
+    {
+      "query": "дай мне игру шобы она была ну эта ну ты понел",
+      "response": "Hades, Hollow Knight, Slay the Spire, Dead Cells, Stardew Valley"
+    },
+    {
+      "query": "хочу в шутер где пушка стреляет быстро но не сильно но шоб красиво",
+      "response": "Borderlands 2, Destiny 2, Shadow Warrior 2, Roboquest, Bright Memory"
+    },
+    {
+      "query": "поскажи игру типо того синего робота ну который бегает",
+      "response": "Mega Man Legacy Collection, 20XX, Mighty No. 9, Axiom Verge, Gunvolt Chronicles: Luminous Avenger iX"
+    },
+    {
+      "query": "дай мне рпг но не рпг а что-то другое но похоже",
+      "response": "Hollow Knight, Outer Wilds, Death’s Door, Kenshi, Sable"
+    },
+    {
+      "query": "как скачать игру которой нету но я в неё играл",
+      "response": "Запрос не относится к подбору игр"
+    },
+    {
+      "query": "хочу в гонку где машины как будто не машины а животные",
+      "response": "Trailmakers, Distance, GRIP, Wreckfest, Rocket League"
+    },
+    {
+      "query": "найди игру где чел бежит вперёд и всё ломает это инди кажись",
+      "response": "ClusterTruck, SpeedRunners, Broforce, My Friend Pedro, RunGunJumpGun"
+    },
+    {
+      "query": "порекомундуй игру на телефно ну эту про кубики",
+      "response": "Terraria, Brick Rigs, Portal Knights, Blockstorm, Cube World"
+    },
+    {
+      "query": "хочу погамать в что-то норм но не знаю что хочу",
+      "response": "Hollow Knight, Hades, Stardew Valley, Slay the Spire, Outer Wilds"
+    },
+    {
+      "query": "а есть игра где можно летать но без неба",
+      "response": "Subnautica, Descent, Overload, Deep Rock Galactic, Everhood"
+    },
+    {
+      "query": "посаветуй шутер где враги не враги а просто стоят",
+      "response": "Superhot, Jazzpunk, Receiver 2, Severed Steel, The Stanley Parable"
+    },
+    {
+      "query": "хочу игру ну такую где ходишь и всё",
+      "response": "Firewatch, Journey, A Short Hike, What Remains of Edith Finch, Eastshade"
+    },
+    {
+      "query": "дайте игру про рыцарей но чтобы без мечей",
+      "response": "Darkest Dungeon, Graveyard Keeper, Loop Hero, Knights and Bikes, Wizard of Legend"
+    },
+    {
+      "query": "дайте поиграть в хорор но чтобы не страшно",
+      "response": "Little Nightmares, Inside, Oxenfree, Mundaun, Bendy and the Ink Machine"
+    },
+    {
+      "query": "посаветуй пж игру где котики но не милые а наоборот",
+      "response": "Stray, Catmaze, Bad Cat, Chernobylite, Gato Roboto"
+    },
+    {
+      "query": "хочу игру где графика средняя но чтобы круто",
+      "response": "Darkest Dungeon, Dead Cells, Risk of Rain 2, Hades, Deep Rock Galactic"
+    },
+    {
+      "query": "хочу какую-то адвенчуру или как оно там",
+      "response": "Firewatch, Oxenfree, Kentucky Route Zero, The Vanishing of Ethan Carter, Life is Strange"
+    },
+    {
+      "query": "можно игру где кнопки работают сами",
+      "response": "Vampire Survivors, Brotato, Halls of Torment, Loop Hero, AutoChess"
+    },
+    {
+      "query": "дай игру где сюжет есть но его нету",
+      "response": "Dark Souls, Rain World, Hyper Light Drifter, Journey, Inside"
+    },
+    {
+      "query": "хочу в симулятор чего-нибудь но не знаю чего",
+      "response": "Goat Simulator, PowerWash Simulator, House Flipper, PC Building Simulator, Lawn Mowing Simulator"
+    },
+    {
+      "query": "порекомндуй игру типо майкрофта но не майкрофт",
+      "response": "Terraria, Starbound, Core Keeper, Craft the World, Vintage Story"
+    },
+    {
+      "query": "дай игру где море но без воды",
+      "response": "Abzu, Journey, Sable, No Man’s Sky, Subnautica Below Zero"
+    },
+    {
+      "query": "хочу пострелять но шутеры не люблю дай что-то другое",
+      "response": "Enter the Gungeon, Hotline Miami, Hades, Risk of Rain 2, Vampire Survivors"
+    },
+    {
+      "query": "посоветуйте игру где можно всё но нельзя ничего",
+      "response": "The Stanley Parable, Baba Is You, Outer Wilds, The Beginner’s Guide, Everything"
+    },
+    {
+      "query": "ищу игру где главный герой зелёный или может не зелёный",
+      "response": "Tunic, Hollow Knight, A Hat in Time, Dead Cells, Ori and the Blind Forest"
+    },
+    {
+      "query": "дай игру про бродилки но чтобы не бродить",
+      "response": "Firewatch, What Remains of Edith Finch, Journey, A Short Hike, Eastshade"
+    },
+    {
+      "query": "хочу игру где боссы маленькие а игрок большой",
+      "response": "Dead Cells, Titan Souls, Loop Hero, Hades, Slay the Spire"
+    },
+    {
+      "query": "ищу приключение где карты нет но карта есть",
+      "response": "Dark Souls, Hollow Knight, Rain World, Tunic, Hyper Light Drifter"
+    },
+    {
+      "query": "посаветуй шоб был сюжет но необязательный",
+      "response": "Outer Wilds, Kenshi, S.T.A.L.K.E.R.: Shadow of Chernobyl, Terraria, Subnautica"
+    },
+    {
+      "query": "дай игру где один уровень но он бесконечный",
+      "response": "Loop Hero, Vampire Survivors, Brotato, Geometry Wars 3: Dimensions, Halls of Torment"
+    },
+    {
+      "query": "хочу в песочницу но без песка",
+      "response": "Garry’s Mod, Teardown, Trailmakers, Scrap Mechanic, Besiege"
+    },
+    {
+      "query": "игра где можно строить но не обязательно строить",
+      "response": "Valheim, Raft, Core Keeper, Satisfactory, Minecraft Dungeons"
+    },
+    {
+      "query": "дай игру с открытым миром но мир закрытый",
+      "response": "Outer Wilds, The Outer Worlds, Kenshi, Death Stranding, Metro Exodus"
+    },
+    {
+      "query": "ищу гонки где машины не едут а просто стоят",
+      "response": "Car Mechanic Simulator 2021, My Summer Car, Jalopy, Motor Town: Behind The Wheel, House Flipper"
+    },
+    {
+      "query": "посаветуй игру где можно выбирать но выбор ничего не меняет",
+      "response": "The Stanley Parable, Undertale, Firewatch, Oxenfree, Inside"
+    },
+    {
+      "query": "хочу РПГ но без прокачки вообще",
+      "response": "Disco Elysium, Outer Wilds, Sable, Firewatch, Journey"
+    },
+    {
+      "query": "дай игру где магия есть но она не работает",
+      "response": "Kenshi, Pathologic 2, Rain World, Dark Souls, Little Nightmares"
+    },
+    {
+      "query": "ищу платформер но без платформ",
+      "response": "Limbo, Inside, Little Nightmares, Gris, Journey"
+    },
+    {
+      "query": "хочу игру похожую на ту что я играл но не помню какую",
+      "response": "Hollow Knight, Hades, Slay the Spire, Stardew Valley, Outer Wilds"
+    },
+     {
+      "query": "дай игру где мобы сильные но слабые одновременно",
+      "response": "Hades, Dead Cells, Risk of Rain 2, Darkest Dungeon, Vampire Survivors"
+    },
+    {
+      "query": "поскажи игру где надо выжить но нельзя умереть",
+      "response": "Subnautica, Raft, Core Keeper, Terraria, Valheim"
+    },
+    {
+      "query": "хочу шутер с мечами",
+      "response": "Shadow Warrior 2, Warframe, Bright Memory, Severed Steel, Warhammer 40,000: Darktide"
+    },
+    {
+      "query": "дай игру где сюжет пишешь сам но она всё равно другая",
+      "response": "Disco Elysium, Kenshi, Outer Wilds, Pathologic 2, Crusader Kings III"
+    },
+    {
+      "query": "ищу игру где мультиплеер один",
+      "response": "Death Stranding, Dark Souls III, Elden Ring, Journey, No Man’s Sky"
+    },
+    {
+      "query": "хочу игру где квесты дают но выполнять нельзя",
+      "response": "The Stanley Parable, Outer Wilds, Kenshi, Rain World, Pathologic 2"
+    },
+    {
+      "query": "дай стратегию где армии нет",
+      "response": "Frostpunk, Cities: Skylines, RimWorld, Factorio, Oxygen Not Included"
+    },
+    {
+      "query": "дай игру где всё круглое",
+      "response": "Katamari Damacy Reroll, Roundguard, Spore, Everything, Omno"
+    },
+    {
+      "query": "посаветуй игру где есть дом но нельзя заходить",
+      "response": "Firewatch, Journey, A Short Hike, Dear Esther, Eastshade"
+    },
+    {
+      "query": "Какой нахрен шутер поиграть вечером?",
+      "response": "DOOM (2016), Titanfall 2, Metro Exodus, Wolfenstein: The New Order, Shadow Warrior 2"
+    },
+    {
+      "query": "Посоветуй, блин, нормальную игру, а то эти ваши индюшки надоели.",
+      "response": "The Witcher 3, Red Dead Redemption 2, Horizon Zero Dawn, Assassin’s Creed Odyssey, Control"
+    },
+    {
+      "query": "Чё за хрень, дай мне уже норм RPG!",
+      "response": "Divinity: Original Sin 2, Dragon’s Dogma: Dark Arisen, Pathfinder: Kingmaker, Kingdom Come: Deliverance, GreedFall"
+    },
+    {
+      "query": "Какую мать его гонку запустить на слабом ПК?",
+      "response": "Need for Speed: Hot Pursuit, Burnout Paradise Remastered, GRID Autosport, Distance, FlatOut 2"
+    },
+    {
+      "query": "Посоветуй что-то, чтоб не было таким тупым как последний треш который я скачал.",
+      "response": "Outer Wilds, Disco Elysium, Return of the Obra Dinn, Prey, Control"
+    },
+    {
+      "query": "Какой грёбаный хоррор реально пугает?",
+      "response": "Alien: Isolation, Outlast, Amnesia: The Dark Descent, Soma, Visage"
+    },
+    {
+      "query": "Дай что-то нормальное, а не эту фигню из стима.",
+      "response": "The Witcher 3, Red Dead Redemption 2, Elden Ring, Horizon Zero Dawn, Metro Exodus"
+    },
+    {
+      "query": "Посоветуй, черт побери, что-то похожее на ведьмака.",
+      "response": "GreedFall, Dragon Age: Origins, Kingdom Come: Deliverance, ELEX, Gothic II"
+    },
+    {
+      "query": "Какой офигенный шутер с кампанией можно пройти?",
+      "response": "Titanfall 2, Metro Exodus, Wolfenstein: The New Order, DOOM (2016), Crysis 2"
+    },
+    {
+      "query": "Что за фигня, почему нет норм игр? Посоветуй.",
+      "response": "Hades, Hollow Knight, The Witcher 3, Outer Wilds, Red Dead Redemption 2"
+    },
+    {
+      "query": "Посоветуй какой-нибудь платформер, но чтоб не бесящий.",
+      "response": "Ori and the Blind Forest, Celeste, Rayman Legends, Shovel Knight, A Hat in Time"
+    },
+    {
+      "query": "Какой мать его рогалик реально интересный?",
+      "response": "Hades, Dead Cells, Slay the Spire, Risk of Rain 2, Vampire Survivors"
+    },
+    {
+      "query": "Хочу что-то бодрое, а не унылое — подскажи игру.",
+      "response": "Hades, DOOM (2016), Devil May Cry 5, Risk of Rain 2, Titanfall 2"
+    },
+    {
+      "query": "Дай нормальную тактику, а не эту хрень для детей.",
+      "response": "XCOM 2, Jagged Alliance 3, Mutant Year Zero: Road to Eden, Gears Tactics, Warhammer 40K: Mechanicus"
+    },
+    {
+      "query": "Какой адекватный экшен можно пройти?",
+      "response": "Devil May Cry 5, DOOM (2016), Control, Shadow of the Tomb Raider, Titanfall 2"
+    },
+    {
+      "query": "Посоветуй что-то веселое, а не очередной кусок уныния.",
+      "response": "Saints Row IV, Borderlands 2, Sunset Overdrive (нет в Steam — исключено), Psychonauts 2, Rayman Legends"
+    },
+    {
+      "query": "Какой, блин, сюжетный экшен сейчас лучший?",
+      "response": "Control, Horizon Zero Dawn, Star Wars Jedi: Fallen Order, Hellblade: Senua’s Sacrifice, Tomb Raider"
+    },
+    {
+      "query": "Чем заменить эту дурацкую игру, которую я только что удалил?",
+      "response": "Hades, Outer Wilds, Hollow Knight, Prey, Control"
+    },
+    {
+      "query": "Какой шутер с прокачкой реально годный?",
+      "response": "Borderlands 2, Warframe, Destiny 2, Gunfire Reborn, Shadow Warrior 2"
+    },
+    {
+      "query": "Дай что-то нормальное на вечер, а то всё говно какое-то.",
+      "response": "Hades, Titanfall 2, Outer Wilds, Metro Exodus, Control"
+    },
+    {
+      "query": "Какую стратегию взять, чтобы не горело так сильно?",
+      "response": "Frostpunk, Civilization VI, Northgard, RimWorld, Crusader Kings III"
+    },
+    {
+      "query": "Посоветуй кооп, а то друзья задолбали ныть.",
+      "response": "Deep Rock Galactic, It Takes Two, Left 4 Dead 2, Vermintide 2, Remnant: From the Ashes"
+    },
+    {
+      "query": "Какой норм ААА-экшен выбрать, черт возьми?",
+      "response": "Control, Horizon Zero Dawn, DOOM Eternal, Star Wars Jedi: Fallen Order, Devil May Cry 5"
+    },
+    {
+      "query": "Дай какой-нибудь ритм-игры, но чтоб не бесила через 5 минут.",
+      "response": "Hi-Fi Rush, Muse Dash, BPM: Bullets Per Minute, Rhythm Doctor, Thumper"
+    },
+    {
+      "query": "Посоветуй блин RPG на 20–30 часов.",
+      "response": "GreedFall, The Outer Worlds, Kingdoms of Amalur: Re-Reckoning, Disco Elysium, Wasteland 2"
+    },
+    {
+      "query": "Какой симулятор реально не скучный, а?",
+      "response": "PowerWash Simulator, House Flipper, PC Building Simulator, My Summer Car, Goat Simulator"
+    },
+    {
+      "query": "Что по ходу скачать, если всё в стиме хрень?",
+      "response": "Hollow Knight, Hades, Control, Metro Exodus, Outer Wilds"
+    },
+    {
+      "query": "Посоветуй игру, которую можно задрить на выходных.",
+      "response": "Slay the Spire, Hades, Stardew Valley, Risk of Rain 2, Deep Rock Galactic"
+    },
+    {
+      "query": "Какой чертов метроидвания стоит внимания?",
+      "response": "Hollow Knight, Blasphemous, Axiom Verge, Ender Lilies: Quietus of the Knights, Ori and the Will of the Wisps"
+    },
+    {
+      "query": "Что взять из шутеров, а то надоела вся мура?",
+      "response": "DOOM (2016), Titanfall 2, Metro Exodus, Wolfenstein: The New Order, Crysis 2"
+    },
+    {
+      "query": "Посоветуй что-то похожее на дарк соулс, но чтобы не бомбило так сильно.",
+      "response": "GreedFall, Dragons Dogma: Dark Arisen, Code Vein, Outward, Salt and Sanctuary"
+    },
+    {
+      "query": "Какую игру пройти, пока не сгорел окончательно?",
+      "response": "Hades, Titanfall 2, Firewatch, Outer Wilds, Control"
+    },
+    {
+      "query": "Дай что-то норм, чтоб не удалить через 10 минут.",
+      "response": "Hollow Knight, Hades, Slay the Spire, Metro Exodus, Control"
+    },
+    {
+      "query": "Какую, к черту, стратегию можно играть долго?",
+      "response": "RimWorld, Civilization VI, Crusader Kings III, Stellaris, Total War: Warhammer II"
+    },
+    {
+      "query": "Посоветуй инди, но не очередной pixel-art шлак.",
+      "response": "Outer Wilds, Disco Elysium, Subnautica, Firewatch, Sable"
+    },
+    {
+      "query": "Какой шутер не вымораживает своей тупостью?",
+      "response": "DOOM (2016), Titanfall 2, Metro Exodus, Wolfenstein: The New Order, Crysis 2"
+    },
+    {
+      "query": "Хочу норм гонки, а не этот тухляк.",
+      "response": "GRID Autosport, Need for Speed: Hot Pursuit, Forza Horizon 4, DiRT 4, Distance"
+    },
+    {
+      "query": "Какой адекватный survival есть вообще?",
+      "response": "Subnautica, The Long Dark, Raft, Valheim, Green Hell"
+    },
+    {
+      "query": "Посоветуй что-то весёлое, чтобы не взбеситься.",
+      "response": "Saints Row IV, Rayman Legends, Psychonauts 2, A Hat in Time, Katamari Damacy Reroll"
+    },
+    {
+      "query": "Что взять из коопа, чтобы друзья не орали?",
+      "response": "Deep Rock Galactic, It Takes Two, Vermintide 2, Left 4 Dead 2, Remnant: From the Ashes"
+    },
+    {
+      "query": "Какую игру взять, чтобы не было такого ада как в прошлой?",
+      "response": "Hollow Knight, Outer Wilds, Control, Titanfall 2, Metro Exodus"
+    },
+    {
+      "query": "Посоветуй игру, где можно рубить всех подряд, но не хлам.",
+      "response": "Devil May Cry 5, Hades, Middle-earth: Shadow of Mordor, Bayonetta, Metal Gear Rising: Revengeance"
+    },
+    {
+      "query": "Какой платформер не вызывает желание выключить жизнь?",
+      "response": "Ori and the Blind Forest, Rayman Legends, Celeste, A Hat in Time, Shovel Knight"
+    },
+    {
+      "query": "Дай норм JRPG, а не очередную сопливую фигню.",
+      "response": "Tales of Arise, Ys VIII: Lacrimosa of Dana, Trails of Cold Steel, Final Fantasy XII: The Zodiac Age, Valkyria Chronicles"
+    },
+    {
+      "query": "Посоветуй что-то мрачное, но не тупое.",
+      "response": "Pathologic 2, Disco Elysium, Metro Exodus, Hellblade: Senua’s Sacrifice, Darkest Dungeon"
+    },
+    {
+      "query": "Какую игру выбрать, чтобы не плеваться?",
+      "response": "Hades, Control, Hollow Knight, Firewatch, Outer Wilds"
+    },
+    {
+      "query": "Посоветуй что-то с сюжетом, а не очередной бред.",
+      "response": "Firewatch, Hellblade: Senua’s Sacrifice, What Remains of Edith Finch, Disco Elysium, Metro Exodus"
+    },
+    {
+      "query": "Какой, черт побери, рогалик сейчас топовый?",
+      "response": "Hades, Dead Cells, Slay the Spire, Risk of Rain 2, Vampire Survivors"
+    },
+    {
+      "query": "Какую игру поставить, чтобы не психовать?",
+      "response": "Stardew Valley, Eastshade, A Short Hike, Spiritfarer, Sable"
+    },
+    {
+      "query": "Посоветуй кооператив, который не развалит дружбу.",
+      "response": "Deep Rock Galactic, It Takes Two, Portal 2, Overcooked! 2, Vermintide 2"
+    },
+    {
+      "query": "Посоветуй, пожалуйста, сюжетную игру на 30–40 часов, где будет сильный нарратив, хорошо прописанные персонажи и не слишком сложный геймплей, чтобы можно было расслабиться вечером после работы.",
+      "response": "Horizon Zero Dawn, GreedFall, The Outer Worlds, Disco Elysium, A Plague Tale: Innocence"
+    },
+    {
+      "query": "Хочу найти игру, похожую на Hollow Knight, но с более мягкой кривой сложности и упором на атмосферу и исследование...",
+      "response": "Ori and the Blind Forest, Ori and the Will of the Wisps, Ender Lilies: Quietus of the Knights, Sable, Gris"
+    },
+    {
+      "query": "Подскажи научно-фантастическую RPG с открытым миром и моральными решениями...",
+      "response": "The Outer Worlds, ELEX, Deus Ex: Human Revolution, Mass Effect, GreedFall"
+    },
+    {
+      "query": "Ищу игру с упором на исследование больших локаций, красивую визуальную стилистику и минимум боёв...",
+      "response": "Sable, Journey, Eastshade, Firewatch, Outer Wilds"
+    },
+    {
+      "query": "Посоветуй кооперативную игру на двоих, несложную, но с интересными механиками...",
+      "response": "It Takes Two, Portal 2, We Were Here Together, A Way Out, Trine 4"
+    },
+    {
+      "query": "Хочу игру, похожую на The Witcher 3, но короче и с более динамичным боем...",
+      "response": "GreedFall, Kingdoms of Amalur: Re-Reckoning, Dragon’s Dogma: Dark Arisen, ELEX, The Outer Worlds"
+    },
+    {
+      "query": "Приключенческая игра в фэнтези-сеттинге с управлением несколькими персонажами...",
+      "response": "Dragon Age: Origins, Divinity: Original Sin, Pillars of Eternity II: Deadfire, Wasteland 2, Tyranny"
+    },
+    {
+      "query": "Шутер с одиночной кампанией, интересным сюжетом и впечатляющими уровнями...",
+      "response": "Titanfall 2, Metro Exodus, DOOM (2016), Wolfenstein: The New Order, Crysis 2"
+    },
+    {
+      "query": "Игра похожая на Stardew Valley, но глубже во взаимоотношениях и экономике...",
+      "response": "My Time at Portia, My Time at Sandrock, Graveyard Keeper, Spiritfarer, Harvest Moon: Light of Hope"
+    },
+    {
+      "query": "Экшен-RPG с нелинейным сюжетом и уникальными биомами...",
+      "response": "ELEX, Outward, Biomutant, Kenshi, GreedFall"
+    },
+    {
+      "query": "Сюжетный платформер с хорошей музыкой и плавной кривой обучения...",
+      "response": "Ori and the Will of the Wisps, Gris, Celeste, Rayman Legends, A Hat in Time"
+    },
+    {
+      "query": "Стратегия в реальном времени для новичка, но достаточно глубокая...",
+      "response": "Northgard, They Are Billions, Age of Empires II: Definitive Edition, Halo Wars: Definitive Edition, Tooth and Tail"
+    },
+    {
+      "query": "Рогалик с интересными сборками и не слишком высокой сложностью в начале...",
+      "response": "Hades, Slay the Spire, Vampire Survivors, Dead Cells, Dreamscaper"
+    },
+    {
+      "query": "Хорошая кооперативная survival-игра без хардкора...",
+      "response": "Valheim, Raft, The Forest, Core Keeper, Grounded"
+    },
+    {
+      "query": "Игра со строительством автоматизированных систем, но со сюжетом...",
+      "response": "Satisfactory, Factorio, Dyson Sphere Program, The Riftbreaker, Astroneer"
+    },
+    {
+      "query": "Тактическая RPG с упором на позиционирование, но не слишком медленная...",
+      "response": "XCOM 2, Mutant Year Zero: Road to Eden, Gears Tactics, Jagged Alliance 3, Warhammer 40K: Mechanicus"
+    },
+    {
+      "query": "Игра босса-раш-формата с художественным визуалом...",
+      "response": "Titan Souls, Furi, Cuphead, Shadow of the Colossus (нет в Steam — исключено), Eldest Souls"
+    },
+    {
+      "query": "Приключение от первого лица с упором на исследование и атмосферу...",
+      "response": "Firewatch, The Vanishing of Ethan Carter, What Remains of Edith Finch, Myst, Obduction"
+    },
+    {
+      "query": "РПГ с глубокой системой крафта и добычей ресурсов...",
+      "response": "Kenshi, Outward, Dragon’s Dogma: Dark Arisen, GreedFall, The Outer Worlds"
+    },
+    {
+      "query": "Игра на слабый ноутбук, но интересная и не устаревшая...",
+      "response": "Hollow Knight, Stardew Valley, Slay the Spire, Dead Cells, Undertale"
+    },
+    {
+      "query": "Что-то похожее на Subnautica, но в другом сеттинге...",
+      "response": "The Long Dark, No Man’s Sky, Raft, Kenshi, The Forest"
+    },
+    {
+      "query": "Подскажи, пожалуйста, хороший квест с упором на детективную составляющую...",
+      "response": "The Vanishing of Ethan Carter, Return of the Obra Dinn, Disco Elysium, Sherlock Holmes: Crimes and Punishments, Paradise Killer"
+    },
+    {
+      "query": "Ищу игру с интересной боевой системой, где важна реакция...",
+      "response": "Devil May Cry 5, Bayonetta, Metal Gear Rising: Revengeance, Furi, Sekiro: Shadows Die Twice"
+    },
+    {
+      "query": "Посоветуй RPG от первого лица с живым миром, атмосферностью и хорошими побочными заданиями...",
+      "response": "Kingdoms of Amalur: Re-Reckoning, ELEX, Dragon’s Dogma: Dark Arisen, The Outer Worlds, S.T.A.L.K.E.R.: Shadow of Chernobyl"
+    },
+    {
+      "query": "Хочу игру, где можно строить деревню или город, но без сложной экономики...",
+      "response": "Townscaper, Banished, Foundation, Timberborn, Dorfromantik"
+    },
+    {
+      "query": "Подскажи sci-fi приключение с лёгкой симуляцией космического корабля...",
+      "response": "The Outer Worlds, Deliver Us The Moon, Observation, Tacoma, Chorus"
+    },
+    {
+      "query": "Ищу инди-игру с необычной механикой...",
+      "response": "Baba Is You, Superliminal, The Witness, Inscryption, Gorogoa"
+    },
+    {
+      "query": "Посоветуй экшен-игру с большими локациями и мощными способностями...",
+      "response": "Control, Middle-earth: Shadow of Mordor, Prototype, Infamous Second Son (нет в Steam — исключено), Remnant: From the Ashes"
+    },
+    {
+      "query": "Хочу игру в жанре научной фантастики с исследованиями планет...",
+      "response": "The Outer Worlds, Mass Effect, Journey to the Savage Planet, ELEX, No Man’s Sky"
+    },
+    {
+      "query": "Подскажи приключенческую игру на пару вечеров...",
+      "response": "Firewatch, What Remains of Edith Finch, A Short Hike, Gris, The Vanishing of Ethan Carter"
+    },
+    {
+      "query": "Ищу игру с упором на музыку и ритм, но с историей или визуалом...",
+      "response": "Hi-Fi Rush, Sayonara Wild Hearts, Rhythm Doctor, BPM: Bullets Per Minute, Thumper"
+    },
+    {
+      "query": "Посоветуй фэнтезийную RPG с необычными классами и комбинированием способностей...",
+      "response": "Divinity: Original Sin, Dragon Age: Origins, Pillars of Eternity II: Deadfire, Tyranny, Wasteland 3"
+    },
+    {
+      "query": "Хочу найти головоломку с минималистичным стилем и глубокой механикой...",
+      "response": "The Witness, Baba Is You, Monument Valley: Panoramic Edition, Antichamber, Gorogoa"
+    },
+    {
+      "query": "Подскажи кооперативную игру для компании из трёх человек...",
+      "response": "Deep Rock Galactic, Vermintide 2, Risk of Rain 2, Trine 4, GTFO"
+    },
+    {
+      "query": "Ищу приключение, где акцент на отношениях между персонажами...",
+      "response": "Life is Strange, Oxenfree, Firewatch, Tell Me Why, Night in the Woods"
+    },
+    {
+      "query": "Посоветуй игру на 10–15 часов с сильной атмосферой...",
+      "response": "Hellblade: Senua’s Sacrifice, A Plague Tale: Innocence, What Remains of Edith Finch, Firewatch, Kentucky Route Zero"
+    },
+    {
+      "query": "Хочу что-то вроде RimWorld, но проще...",
+      "response": "Oxygen Not Included, Timberborn, Foundation, Going Medieval, The Wandering Village"
+    },
+    {
+      "query": "Подскажи аркадную гонку, но современную и приятную...",
+      "response": "Forza Horizon 4, Need for Speed: Hot Pursuit, GRID Autosport, DiRT 4, Distance"
+    },
+    {
+      "query": "Ищу экшен с паркуром и свободным передвижением...",
+      "response": "Dying Light, Mirror’s Edge, Ghostrunner, Titanfall 2, Hover"
+    },
+    {
+      "query": "Посоветуй игру с хорошей физикой и возможностью экспериментировать...",
+      "response": "Teardown, Besiege, Portal 2, Trailmakers, Poly Bridge 2"
+    },
+    {
+      "query": "Хочу игру со строительством, но упор на исследование и сюжет...",
+      "response": "The Riftbreaker, Kenshi, Subnautica, Outward, The Forest"
+    },
+    {
+      "query": "Подскажи, пожалуйста, RPG с большим количеством уникальных предметов...",
+      "response": "Dragon’s Dogma: Dark Arisen, Grim Dawn, Kingdoms of Amalur: Re-Reckoning, Outward, ELEX"
+    },
+    {
+      "query": "Ищу игру с видом сверху, но сюжетную и хорошо анимированную...",
+      "response": "Hades, Transistor, Pyre, Children of Morta, Tunic"
+    },
+    {
+      "query": "Посоветуй хоррор без скримеров, с атмосферой...",
+      "response": "Amnesia: The Dark Descent, SOMA, Mundaun, Pathologic 2, Observer"
+    },
+    {
+      "query": "Хочу игру про управление экспедицией и рискованные решения...",
+      "response": "Darkest Dungeon, Curious Expedition, Frostpunk, Pathway, Sunless Sea"
+    },
+    {
+      "query": "Подскажи sci-fi шутер с упором на историю...",
+      "response": "Metro Exodus, Titanfall 2, Prey, BioShock Remastered, Wolfenstein: The New Order"
+    },
+    {
+      "query": "Ищу расслабляющую, красивую игру с минимумом стресса...",
+      "response": "Journey, Abzu, Eastshade, A Short Hike, Flower"
+    },
+    {
+      "query": "Посоветуй атмосферный экшен-платформер с точностью, но не жестокий...",
+      "response": "Ori and the Blind Forest, Gris, Celeste, Rayman Legends, Ender Lilies: Quietus of the Knights"
+    },
+    {
+      "query": "Хочу RPG с разными биомами и небольшими заданиями...",
+      "response": "GreedFall, Outward, The Outer Worlds, Kenshi, ELEX"
+    },
+    {
+      "query": "Подскажи приключение с загадками и исследованием мира...",
+      "response": "The Witness, Obduction, Myst, The Vanishing of Ethan Carter, Firewatch"
+    }
+  ]
+}
