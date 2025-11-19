@@ -13,7 +13,6 @@ class Server:
         self.config = server_config
         self.logger = server_config.logger_config.get_logger("server")
         self.tools_dispatcher = ToolsDispatcher(server_config)
-        self.model_requester = ModelRequester(self.tools_dispatcher, server_config)
         Server.steamdb_manager = SteamDBManager(server_config)
         self.app = self._create_app()
 
@@ -77,6 +76,6 @@ class Server:
         self.logger.info("Ping handler has been registered")
 
         from api.kernel.endpoints.process import process_bp, register_process_handler
-        register_process_handler(self.config, self.tools_dispatcher, self.model_requester)
+        register_process_handler(self.config, self.tools_dispatcher)
         app.register_blueprint(process_bp)
         self.logger.info("Process handler has been registered")

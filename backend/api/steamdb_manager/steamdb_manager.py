@@ -12,6 +12,7 @@ import ollama
 
 from api.config import ServerConfig
 
+OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 
 class SteamDBManager:
     def __init__(self, server_config: ServerConfig) -> None:
@@ -21,12 +22,7 @@ class SteamDBManager:
         self.embeddings_path: str = server_config.EMBEDDINGS_PATH
         self.data: List[Dict[str, Any]] = self._load_data()
         self._filter_games()
-
-        # self.tokenizer: AutoTokenizer = AutoTokenizer.from_pretrained(self.model_name)
-        # self.model: AutoModel = AutoModel.from_pretrained(self.model_name)
-        # self.device: str = "cuda" if torch.cuda.is_available() else "cpu"
-        # self.model.to(self.device)
-        # self.model.eval()
+        self.ollama_client = ollama.Client(host=server_config.OLLAMA_HOST)
 
         if os.path.exists(self.embeddings_path):
             self.embeddings: np.ndarray = self._load_embeddings()
@@ -316,7 +312,7 @@ class SteamDBManager:
         return np.array(embeddings)
 
     def _get_text_embedding(self, text: str) -> np.ndarray:
-        response = ollama.embeddings(
+        response = self.ollama_client.embeddings(
             model="mxbai-embed-large",
             prompt=text
         )
@@ -359,14 +355,6 @@ class SteamDBManager:
             game = self.data[idx]
             similar_games.append({
                 'name': game['name'],
-                'description': game['description'],
-                'distance': distances[0][i],
-                'stsp_owners': game.get('stsp_owners', 0)
+                'description': game['description']
             })
-
-        similar_games = sorted(
-            similar_games,
-            key=lambda x: x["stsp_owners"] if x["stsp_owners"] is not None else 0,
-            reverse=True
-        )
         return similar_games

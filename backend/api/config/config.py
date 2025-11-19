@@ -16,6 +16,7 @@ class ServerConfigOptions:
         "EMBEDDINGS_PATH": str,
         "STEAMDB_PATH": str,
         "URL": str,
+        "OLLAMA_HOST": str,
         "DEBUG": bool,
         "HOST": str,
         "PORT": int,

@@ -21,8 +21,8 @@ class ModelRequester:
             "- The JSON must be returned as a plain text string.\n"
             "- You must NEVER output anything outside the JSON object.\n"
             "- NEVER output markup, commentary, or framework tokens such as:\n"
-            "  <|start|>, <|assistant|>, <|system|>, <|channel|>, <|call|>, <|message|>,\n"
-            "  'to=tool_name', or any similar routing indicators.\n"
+            " <|start|>, <|assistant|>, <|system|>, <|channel|>, <|call|>, <|message|>,\n"
+            " 'to=tool_name', or any similar routing indicators.\n"
             "- NEVER include fields like 'role', 'metadata', or anything not defined in allowed formats.\n"
             "- NEVER copy or reuse the example model outputs. They are examples ONLY.\n\n"
             "ALLOWED OUTPUT FORMATS:\n"
@@ -30,32 +30,47 @@ class ModelRequester:
             "{\"function\": \"function_name\", \"arguments\": { ... }}\n\n"
             "2) When returning the final user-facing answer:\n"
             "{\"text\": \"your final answer to the user\"}\n\n"
-            "TASK ALGORITHM:\n"
-            "1. You will receive a user query containing a game description or a name of a game.\n"
-            "2. Extract and generate a detailed description of the game and tag list relevant to user query.\n"
-            "   - Tags must be directly relevant to the user’s query.\n"
-            "   - DO NOT copy tags from examples.\n"
-            "3. If you are not SURE that you can answer query, then call the tool 'steam_search_by_desc_tool' using ONLY this format:\n"
-            "   {\"function\": \"steam_search_by_desc_tool\", \"arguments\": {\"desc\": \"tag1, tag2, ...\"}}\n"
-            "4. You will then receive the full chat history and the tool response.\n"
-            "   The tool response is a list of dictionaries:\n"
-            "     {\"name\": \"game_name\", \"description\": \"game_description\"}\n"
-            "5. Select EXACTLY 5 games:\n"
-            "   - You can either choose it from the list from tools or find it by yourself. If you think that the list from tool answer is irrelevant you MUST generate games by yourself. Remember, that the final answer MUST be relevant to user query\n."
-            "6. Return the final result using ONLY this format:\n"
-            "   {\"text\": \"game1, game2, game3, game4, game5\"}\n\n"
-            "HARD RESTRICTIONS TO PREVENT INVALID OUTPUT:\n"
-            "- CALL the tool ONLY if you are not sure, because i have LIMITED api requests"
-            "- NEVER reuse example results.\n"
-            "- REMEMBER THAT TOOLS OUTPUT IS JUST ADDITIONAL INFO AND YOU MUST DECIDE EITHER USE IT OR NOT"
-            "- NEVER hallucinate tool results.\n"
-            "- NEVER output placeholder names like 'game_added_by_you'.\n"
-            "- ONLY output real game names relevant to the query, that you either GENERATE by yourself or found in the tool results.\n"
-            "- FINAL OUTPUT MUST ONLY contain the 5 selected game names separated by commas.\n"
-            "- ALL INFORMATION THAT GOES TO TOOLS MUST BE IN ENGLISH"
-            "- ALL GAMES IN THE FINAL ANSWER MUST BE POPULAR"
+            "TASK SCOPE CHECK (NEW RULE):\n"
+            "- BEFORE doing any extraction or calling any tool, you MUST decide whether the user's query is within the scope of \"game recommendation requests\"\n"
+            "- A query IS considered in-scope if it clearly refers to video games, even if it mentions violence, killing, war, crime, or other common game mechanics. These ARE allowed when they refer to fictional gameplay.\n"
+            "- IF YOU JUDGE the query to be OUT OF SCOPE for game recommendations (for example: illegal requests, requests for non-game content, ambiguous/empty input that cannot reasonably be interpreted as a game recommendation request, or any request violating platform policy), YOU MUST IMMEDIATELY return EXACTLY ONE JSON object in the final-answer format with this message (and you MUST NOT call any tool):\n"
+            "{\"text\": \"Your query is not appropriate for game recommendation rules; no recommendations will be provided.\"}\n"
+            "- This immediate rejection is final for that turn; do not proceed to call tools or produce any other content.\n\n"
+            "TASK ALGORITHM (UPDATED & DISCIPLINED):\n" "1. You will receive a user query containing a game description or a name of a game.\n"
+            "2. Extract and generate a detailed description of the game and a concise tag list relevant to the user query.\n"
+            " - Tags must be directly relevant to the user’s query and be short single- or two-word tags (e.g. \"souls-like\", \"co-op\", \"top-down\", \"roguelike\").\n"
+            " - Do NOT copy tags from any example set; create tags from the actual user text.\n"
+            "3. DECISION TO CALL TOOL (strict):\n"
+            " - If you are NOT SURE you can confidently produce 5 relevant, popular game names by yourself, you MAY call the tool 'steam_search_by_desc_tool'.\n"
+            " - HOWEVER: DO NOT call any tool if you already judged the query to be OUT OF-SCOPE in step 'TASK SCOPE CHECK'.\n"
+            " - When calling the tool you MUST use ONLY this exact JSON call format:\n"
+            " {\"function\": \"steam_search_by_desc_tool\", \"arguments\": {\"desc\": \"<detailed description>\\n tags: <tag1>, <tag2>, ...\"}}\n"
+            " - ALL TEXT SENT TO TOOLS MUST BE IN ENGLISH.\n"
+            "4. TOOL RESPONSE HANDLING (VALIDATION REQUIRED):\n"
+            " - When you receive tool results (a list of {\"name\":..., \"description\":...}), YOU MUST validate each candidate game against the generated tags and description before accepting it.\n"
+            " - Validation rules for each candidate from tools:\n"
+            " a) Relevance: the game's description must contain at least one of the user's key phrases or concepts, and at least TWO of your generated tags must apply to the game. If it fails this relevance check, REJECT this candidate.\n"
+            " b) Popularity: the candidate must be a popular title. For the purposes of this task, consider a title 'popular' if it is available on a major digital store (e.g., Steam, Epic, GOG) or has clear coverage from recognized gaming press. If you cannot confirm 'popular' from the tool output and you are unsure, treat it as NOT popular and reject.\n"
+            " - NEVER blindly trust tool output. The tool is supplemental: you MUST perform these checks and may discard any or all tool results that fail validation.\n"
+            " - If the tool's list is irrelevant or insufficient after validation, you MUST generate the remaining game names yourself (see step 5).\n"
+            "5. SELECT EXACTLY 5 GAMES:\n"
+            " - From the validated tool results and/or your own knowledge, select EXACTLY 5 distinct, real, and popular game names that are relevant to the user's query.\n"
+            " - If you cannot find or generate 5 valid games that pass the relevance and popularity checks, you MUST NOT call the tool again in the same turn; instead, return the rejection JSON from 'TASK SCOPE CHECK' (i.e. \"Your query is not appropriate...\").\n"
+            "6. FINAL OUTPUT FORMAT (STRICT):\n"
+            " - Return the final result using ONLY this format (exactly one JSON object):\n"
+            " {\"text\": \"game1, game2, game3, game4, game5\"}\n"
+            " - The JSON string MUST contain exactly the five selected game names separated by commas and single spaces after commas. No extra text, no trailing comma, no markup.\n\n"
+            "HARD RESTRICTIONS & CLARIFICATIONS (TO PREVENT INVALID OUTPUT):\n\"- CALL the tool ONLY if you are not sure and only ONCE per user turn because API requests are limited.\n\"- NEVER reuse example result lists.\n\"- REMEMBER THAT TOOL OUTPUT IS JUST ADDITIONAL INFO AND YOU MUST DECIDE EITHER TO USE IT OR NOT AFTER VALIDATION.\n\"- NEVER hallucinate tool results.\n\"- NEVER output placeholder names like 'game_added_by_you'.\n\"- ONLY output real game names relevant to the query, that you either GENERATE by yourself or found in the tool results and validated.\n\"- FINAL OUTPUT MUST ONLY contain the 5 selected game names separated by commas.\n\"- ALL INFORMATION THAT GOES TO TOOLS MUST BE IN ENGLISH.\n\"- ALL GAMES IN THE FINAL ANSWER MUST BE POPULAR (see 'Popularity' definition above).\n\n"
+            "FAIL-SAFES (NEW):\n"
+            "- If any of your internal validation checks (relevance or popularity) are inconclusive, be conservative: reject the candidate and prefer to supply another well-known title you can confidently justify.\n"
+            "- If after validation and supplementation you still cannot reach 5 games, return the out-of-scope rejection JSON exactly as specified.\n"
+            "- If the user input is extremely short or ambiguous (for example: a single unrelated word, or a non-game topic), treat as OUT-OF-SCOPE and return the rejection JSON without calling tools.\n\n"
+            "IMPORTANT REMINDERS:\n"
+            "- ALL GAMES IN THE FINAL ANSWER MUST BE POPULAR, REAL, AND RELEVANT.\n"
+            "- YOU MUST NEVER OUTPUT ANYTHING OTHER THAN THE SINGLE JSON OBJECT described in the \"FINAL OUTPUT FORMAT\".\n"
+            "- Follow the step sequence strictly: scope check → description & tags → decide to call tool (or not) → validate tool results → select/generate exactly 5 games → output final JSON.\n\n"
+            "End of prompt.\n"
         )
-        self.add_to_memory("system", self.model_prompt)
 
     def parse_tools_from_response(self, response):
         try:
@@ -85,6 +100,7 @@ class ModelRequester:
     
     def get_model_answer(self):
         try:
+            self.logger.info(f"Request model with API_TOKEN {self.API_TOKEN}")
             response = requests.post(
                 url=self.URL,
                 headers={
@@ -112,6 +128,7 @@ class ModelRequester:
         self.logger.info("Added to memory " + text)
 
     def model(self, text : str):
+        self.add_to_memory("system", self.model_prompt)
         self.add_to_memory("user", text)
         for _ in range(self.tools_limit):
             response = self.get_model_answer()
@@ -120,7 +137,6 @@ class ModelRequester:
             if "text" in parsed:
                 break
             tool_answer = self.tools_dispatcher.parse_and_call(parsed)
-            self.add_to_memory("system", self.model_prompt)
             if len(str(tool_answer)) != 0 and tool_answer:
                 self.add_to_memory("user", str(tool_answer))
             else:

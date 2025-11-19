@@ -7,7 +7,7 @@ from model.model_requester import ModelRequester
 import uuid
 
 
-def process(config: ServerConfig, tools_dispatcher: ToolsDispatcher, model_requester: ModelRequester) -> Response:
+def process(config: ServerConfig, tools_dispatcher: ToolsDispatcher) -> Response:
     """
         Expected usage:
             curl http://<host_name>/process \
@@ -16,6 +16,7 @@ def process(config: ServerConfig, tools_dispatcher: ToolsDispatcher, model_reque
     """
     logger = config.logger_config.get_logger("/process")
 
+    model_requester = ModelRequester(tools_dispatcher, config)
     request_id = str(uuid.uuid4())
     logger.info(f"Get request {request_id}")
 

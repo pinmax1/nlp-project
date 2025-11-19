@@ -13,8 +13,8 @@ __all__ = [
 process_bp: Blueprint = Blueprint('process', __name__)
 
 
-def register_process_handler(config: ServerConfig, tools_dispatcher: ToolsDispatcher, model_requester: ModelRequester):
+def register_process_handler(config: ServerConfig, tools_dispatcher: ToolsDispatcher):
     def process_with_config():
-        return process(config, tools_dispatcher, model_requester)
+        return process(config, tools_dispatcher)
 
     process_bp.route('/process', methods=['POST'])(process_with_config)
